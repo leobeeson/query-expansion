@@ -4,7 +4,7 @@
 
 An application that can:
 
-1. Cluster a set of related search queries into a coherent product/market `category` (henceforth ``category``).
+1. Cluster a set of related search queries into a coherent product/market `category` (henceforth `category`).
 2. Qualitatively describe `categories`, its potential `subcategories`, and most representative `products`, `services`, `brands`, and `companies`.
 3. Given a search query, decide to which `categories` it is most relevant, and why.
 4. Given a search query, suggest other related `categories` it could be associated to, and why.

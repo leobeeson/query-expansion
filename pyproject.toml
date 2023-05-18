@@ -1,0 +1,13 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "query-expansion"
+authors = [
+  { name="Francis Beeson", email="leobeeson@gmail.com" },
+]
+description = "An application that leverages LLM to inject metadata to low-context datasets."
+readme = "README.md"
+requires-python = ">=3.10"
+version = "0.1.0"
