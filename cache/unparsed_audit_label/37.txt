@@ -1,0 +1,368 @@
+{
+  "query_audits": [
+    {
+      "query": "alcohol miniatures",
+      "relevance": 0.4
+    },
+    {
+      "query": "louis xiii cognac",
+      "relevance": 0.2
+    },
+    {
+      "query": "prosecco",
+      "relevance": 0.8
+    },
+    {
+      "query": "bordeaux wine",
+      "relevance": 0.8
+    },
+    {
+      "query": "edinburgh gin",
+      "relevance": 0.6
+    },
+    {
+      "query": "yeni raki",
+      "relevance": 0
+    },
+    {
+      "query": "auchentoshan american oak",
+      "relevance": 0.9
+    },
+    {
+      "query": "pale ale",
+      "relevance": 0.7
+    },
+    {
+      "query": "johnnie walker blue label",
+      "relevance": 0.9
+    },
+    {
+      "query": "cristal champagne",
+      "relevance": 0.3
+    },
+    {
+      "query": "jacobs creek",
+      "relevance": 0.8
+    },
+    {
+      "query": "the macallan",
+      "relevance": 0.9
+    },
+    {
+      "query": "beer deals",
+      "relevance": 0.7
+    },
+    {
+      "query": "malibu rum",
+      "relevance": 0.5
+    },
+    {
+      "query": "echo falls",
+      "relevance": 0.8
+    },
+    {
+      "query": "captain morgan rum",
+      "relevance": 0.5
+    },
+    {
+      "query": "macallan 12",
+      "relevance": 0.9
+    },
+    {
+      "query": "benriach",
+      "relevance": 0.9
+    },
+    {
+      "query": "redbreast whiskey",
+      "relevance": 0.9
+    },
+    {
+      "query": "singleton whisky",
+      "relevance": 0.9
+    },
+    {
+      "query": "laphroaig quarter cask",
+      "relevance": 0.9
+    },
+    {
+      "query": "amarula",
+      "relevance": 0
+    },
+    {
+      "query": "pol roger",
+      "relevance": 0.3
+    },
+    {
+      "query": "hendricks gin",
+      "relevance": 0.6
+    },
+    {
+      "query": "jamaican rum",
+      "relevance": 0.5
+    },
+    {
+      "query": "royal salute whisky",
+      "relevance": 0.9
+    },
+    {
+      "query": "johnnie walker gold",
+      "relevance": 0.9
+    },
+    {
+      "query": "bushmills",
+      "relevance": 0.9
+    },
+    {
+      "query": "jack daniels tesco",
+      "relevance": 0.9
+    },
+    {
+      "query": "havana club rum",
+      "relevance": 0.5
+    },
+    {
+      "query": "belaire rose",
+      "relevance": 0.3
+    },
+    {
+      "query": "moretti beer",
+      "relevance": 0.7
+    },
+    {
+      "query": "prosecco gifts",
+      "relevance": 0.8
+    },
+    {
+      "query": "gentleman jack",
+      "relevance": 0.9
+    },
+    {
+      "query": "adnams gin",
+      "relevance": 0.6
+    },
+    {
+      "query": "dalmore 15",
+      "relevance": 0.9
+    },
+    {
+      "query": "johnny walker black",
+      "relevance": 0.9
+    },
+    {
+      "query": "veuve clicquot rose",
+      "relevance": 0.3
+    },
+    {
+      "query": "bud light",
+      "relevance": 0.7
+    },
+    {
+      "query": "kavalan whisky",
+      "relevance": 0.9
+    },
+    {
+      "query": "viniq vodka",
+      "relevance": 0.4
+    },
+    {
+      "query": "chandon",
+      "relevance": 0.3
+    },
+    {
+      "query": "rumbullion",
+      "relevance": 0.5
+    },
+    {
+      "query": "kopparberg cider",
+      "relevance": 0.7
+    },
+    {
+      "query": "marks and spencer wine offers",
+      "relevance": 0.8
+    },
+    {
+      "query": "johnnie walker",
+      "relevance": 0.9
+    },
+    {
+      "query": "40 year old whiskey",
+      "relevance": 0.9
+    },
+    {
+      "query": "sauternes",
+      "relevance": 0.3
+    },
+    {
+      "query": "prosecco candle",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap whiskey",
+      "relevance": 0.9
+    },
+    {
+      "query": "glenlivet 12",
+      "relevance": 0.9
+    },
+    {
+      "query": "noilly prat",
+      "relevance": 0.3
+    },
+    {
+      "query": "cheap prosecco",
+      "relevance": 0.8
+    },
+    {
+      "query": "wine",
+      "relevance": 0.8
+    },
+    {
+      "query": "best scotch whiskey",
+      "relevance": 0.9
+    },
+    {
+      "query": "baileys irish cream",
+      "relevance": 0.5
+    },
+    {
+      "query": "aberfeldy whisky",
+      "relevance": 0.9
+    },
+    {
+      "query": "wild turkey",
+      "relevance": 0.9
+    },
+    {
+      "query": "prosecco asda",
+      "relevance": 0.8
+    },
+    {
+      "query": "rose wine",
+      "relevance": 0.8
+    },
+    {
+      "query": "beaujolais nouveau",
+      "relevance": 0.8
+    },
+    {
+      "query": "tesco budweiser",
+      "relevance": 0.7
+    },
+    {
+      "query": "ardbeg uigeadail",
+      "relevance": 0.9
+    },
+    {
+      "query": "spanish wine",
+      "relevance": 0.8
+    },
+    {
+      "query": "highland park",
+      "relevance": 0.9
+    },
+    {
+      "query": "remy martin 1738",
+      "relevance": 0.2
+    },
+    {
+      "query": "taylors port",
+      "relevance": 0.3
+    },
+    {
+      "query": "pinot grigio",
+      "relevance": 0.8
+    },
+    {
+      "query": "eden mill gin",
+      "relevance": 0.6
+    },
+    {
+      "query": "ruby port",
+      "relevance": 0.3
+    },
+    {
+      "query": "duvel",
+      "relevance": 0.7
+    },
+    {
+      "query": "cheap champagne",
+      "relevance": 0.3
+    },
+    {
+      "query": "paulaner",
+      "relevance": 0.7
+    },
+    {
+      "query": "benromach",
+      "relevance": 0.9
+    },
+    {
+      "query": "bulldog gin",
+      "relevance": 0.6
+    },
+    {
+      "query": "glenmorangie whisky",
+      "relevance": 0.9
+    },
+    {
+      "query": "johnnie walker black label",
+      "relevance": 0.9
+    },
+    {
+      "query": "ipa beer",
+      "relevance": 0.7
+    },
+    {
+      "query": "fino sherry",
+      "relevance": 0.3
+    },
+    {
+      "query": "guinness tour dublin",
+      "relevance": 0.7
+    },
+    {
+      "query": "scottish whiskey",
+      "relevance": 0.9
+    },
+    {
+      "query": "jack daniels",
+      "relevance": 0.9
+    },
+    {
+      "query": "cockburns port",
+      "relevance": 0.3
+    },
+    {
+      "query": "coffee liqueur",
+      "relevance": 0.5
+    },
+    {
+      "query": "amarone",
+      "relevance": 0.8
+    },
+    {
+      "query": "cachaça",
+      "relevance": 0.1
+    },
+    {
+      "query": "cherry liqueur",
+      "relevance": 0.5
+    },
+    {
+      "query": "duvel beer",
+      "relevance": 0.7
+    },
+    {
+      "query": "diplomatico rum",
+      "relevance": 0.5
+    },
+    {
+      "query": "creme de menthe",
+      "relevance": 0.5
+    },
+    {
+      "query": "jura whisky",
+      "relevance": 0.9
+    },
+    {
+     

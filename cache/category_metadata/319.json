@@ -1,0 +1,249 @@
+{
+    "label": "Mobile Phones and Plans",
+    "description": "Market category for mobile phones and plans.",
+    "intents": [
+        "Find the best mobile phone deals.",
+        "Compare mobile phone plans.",
+        "Get a new mobile phone contract.",
+        "Find the best sim only deals.",
+        "Get a pay as you go phone.",
+        "Find the best mobile network coverage.",
+        "Get unlimited data plan.",
+        "Upgrade my phone.",
+        "Find the best broadband and phone deals.",
+        "Get a new phone and broadband package."
+    ],
+    "subcategories": [
+        {
+            "label": "Mobile Phone Contracts",
+            "relevance": 0.9,
+            "description": "Contracts for mobile phones with monthly payments.",
+            "nouns": [
+                "iPhone",
+                "Samsung",
+                "HTC",
+                "Sony",
+                "LG",
+                "Motorola",
+                "Nokia",
+                "Huawei",
+                "Blackberry",
+                "Google Pixel"
+            ],
+            "subtopics": [
+                "Pay monthly",
+                "12 month contract",
+                "24 month contract",
+                "Unlimited data",
+                "Free phone",
+                "Upgrade",
+                "Early upgrade",
+                "iPhone deals",
+                "Samsung deals",
+                "SIM free"
+            ]
+        },
+        {
+            "label": "SIM Only Deals",
+            "relevance": 0.8,
+            "description": "Deals for SIM cards without a phone.",
+            "nouns": [
+                "EE",
+                "Vodafone",
+                "O2",
+                "Three",
+                "Giffgaff",
+                "Tesco Mobile",
+                "Virgin Mobile",
+                "TalkTalk Mobile",
+                "BT Mobile",
+                "Lebara"
+            ],
+            "subtopics": [
+                "Pay monthly",
+                "30 day contract",
+                "12 month contract",
+                "Unlimited data",
+                "International calls",
+                "Data only",
+                "Roaming",
+                "Family plans",
+                "Student deals",
+                "Business deals"
+            ]
+        },
+        {
+            "label": "Pay As You Go Phones",
+            "relevance": 0.7,
+            "description": "Phones with no contract and no monthly payments.",
+            "nouns": [
+                "Samsung",
+                "Nokia",
+                "LG",
+                "Motorola",
+                "Alcatel",
+                "Doro",
+                "Vodafone",
+                "EE",
+                "O2",
+                "Three"
+            ],
+            "subtopics": [
+                "Cheap phones",
+                "Smartphones",
+                "Basic phones",
+                "Top up",
+                "International calls",
+                "Data bundles",
+                "Roaming",
+                "Student deals",
+                "Senior deals",
+                "Kids phones"
+            ]
+        },
+        {
+            "label": "Mobile Network Coverage",
+            "relevance": 0.6,
+            "description": "Coverage maps and information for mobile networks.",
+            "nouns": [
+                "EE",
+                "Vodafone",
+                "O2",
+                "Three",
+                "Giffgaff",
+                "Tesco Mobile",
+                "Virgin Mobile",
+                "TalkTalk Mobile",
+                "BT Mobile",
+                "Lebara"
+            ],
+            "subtopics": [
+                "4G coverage",
+                "3G coverage",
+                "Indoor coverage",
+                "Outdoor coverage",
+                "Roaming",
+                "International coverage",
+                "Network speed",
+                "Network reliability",
+                "Network complaints",
+                "Network outages"
+            ]
+        },
+        {
+            "label": "Broadband and Phone Deals",
+            "relevance": 0.5,
+            "description": "Deals for broadband and phone packages.",
+            "nouns": [
+                "BT",
+                "Sky",
+                "Virgin Media",
+                "TalkTalk",
+                "Plusnet",
+                "EE",
+                "Vodafone",
+                "O2",
+                "Three",
+                "Giffgaff"
+            ],
+            "subtopics": [
+                "Fibre broadband",
+                "ADSL broadband",
+                "Unlimited data",
+                "Free calls",
+                "International calls",
+                "Mobile phone included",
+                "TV included",
+                "Student deals",
+                "Business deals",
+                "Senior deals"
+            ]
+        },
+        {
+            "label": "Mobile Phone Accessories",
+            "relevance": 0.4,
+            "description": "Accessories for mobile phones.",
+            "nouns": [
+                "Cases",
+                "Screen protectors",
+                "Chargers",
+                "Cables",
+                "Headphones",
+                "Speakers",
+                "Power banks",
+                "Memory cards",
+                "Stylus pens",
+                "Car mounts"
+            ],
+            "subtopics": [
+                "iPhone accessories",
+                "Samsung accessories",
+                "Universal accessories",
+                "Wireless chargers",
+                "Fast chargers",
+                "Waterproof cases",
+                "Bluetooth speakers",
+                "Noise cancelling headphones",
+                "VR headsets",
+                "Selfie sticks"
+            ]
+        },
+        {
+            "label": "Mobile Phone Repairs",
+            "relevance": 0.3,
+            "description": "Repairs for mobile phones.",
+            "nouns": [
+                "iPhone",
+                "Samsung",
+                "HTC",
+                "Sony",
+                "LG",
+                "Motorola",
+                "Nokia",
+                "Huawei",
+                "Blackberry",
+                "Google Pixel"
+            ],
+            "subtopics": [
+                "Screen repair",
+                "Battery replacement",
+                "Water damage",
+                "Software issues",
+                "Charging port repair",
+                "Camera repair",
+                "Speaker repair",
+                "Microphone repair",
+                "Home button repair",
+                "Power button repair"
+            ]
+        },
+        {
+            "label": "Mobile Phone Shops",
+            "relevance": 0.2,
+            "description": "Shops that sell mobile phones.",
+            "nouns": [
+                "Carphone Warehouse",
+                "EE",
+                "Vodafone",
+                "O2",
+                "Three",
+                "Giffgaff",
+                "Tesco Mobile",
+                "Virgin Mobile",
+                "TalkTalk Mobile"
+            ],
+            "subtopics": [
+                "Apple stores",
+                "Samsung stores",
+                "EE stores",
+                "Vodafone stores",
+                "O2 stores",
+                "Three stores",
+                "Giffgaff stores",
+                "Tesco Mobile stores",
+                "Virgin Mobile stores",
+                "TalkTalk Mobile stores"
+            ]
+        }
+    ]
+}

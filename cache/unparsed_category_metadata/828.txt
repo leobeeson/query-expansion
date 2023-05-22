@@ -1,0 +1,182 @@
+{
+  "label": "Surfing and Watersports",
+  "description": "Products and services related to surfing, stand up paddleboarding, windsurfing, kitesurfing, and other watersports.",
+  "intents": [
+    "Buy surfing equipment",
+    "Book a surf camp or lesson",
+    "Find information about surfing destinations",
+    "Learn how to surf or other watersports",
+    "Rent surfing or watersports equipment"
+  ],
+  "subcategories": [
+    {
+      "label": "Surfboards",
+      "relevance": 0.9,
+      "description": "Boards used for surfing, including shortboards, longboards, and softboards.",
+      "nouns": [
+        "Shortboards",
+        "Longboards",
+        "Softboards",
+        "Mini Malibus",
+        "Foam Surfboards",
+        "Second Hand Surfboards",
+        "Surfboard Bags",
+        "Surfboard Repair",
+        "Surfboard Wall Mount",
+        "Surfboard Tail Pad"
+      ],
+      "subtopics": [
+        "Shortboards for advanced surfers",
+        "Longboards for beginners",
+        "Softboards for safety",
+        "Mini Malibus for versatility",
+        "Foam surfboards for durability",
+        "Second hand surfboards for affordability",
+        "Surfboard bags for transport",
+        "Surfboard repair for maintenance",
+        "Surfboard wall mount for storage",
+        "Surfboard tail pad for grip"
+      ]
+    },
+    {
+      "label": "Wetsuits",
+      "relevance": 0.8,
+      "description": "Neoprene suits worn for warmth and protection while surfing or other watersports.",
+      "nouns": [
+        "Full Wetsuits",
+        "Spring Suits",
+        "Rash Guards",
+        "Wetsuit Boots",
+        "Wetsuit Gloves",
+        "Wetsuit Hoods",
+        "Wetsuit Repair",
+        "Wetsuit Womens",
+        "Wetsuit Mens",
+        "Wetsuit Sale"
+      ],
+      "subtopics": [
+        "Full wetsuits for cold water",
+        "Spring suits for warm water",
+        "Rash guards for sun protection",
+        "Wetsuit boots for foot warmth",
+        "Wetsuit gloves for hand warmth",
+        "Wetsuit hoods for head warmth",
+        "Wetsuit repair for maintenance",
+        "Wetsuit womens for female fit",
+        "Wetsuit mens for male fit",
+        "Wetsuit sale for affordability"
+      ]
+    },
+    {
+      "label": "Stand Up Paddleboarding",
+      "relevance": 0.7,
+      "description": "A watersport where the rider stands on a board and uses a paddle to move through the water.",
+      "nouns": [
+        "Inflatable Stand Up Paddle Board",
+        "Stand Up Paddle Board Sale",
+        "Stand Up Paddle Board Inflatable",
+        "Stand Up Paddle Boarding Cornwall",
+        "Stand Up Paddle Boarding Poole",
+        "Stand Up Paddle Boarding Lessons",
+        "Stand Up Paddle Boarding Near Me",
+        "Stand Up Paddle Boarding UK",
+        "Stand Up Paddle Boarding Accessories",
+        "Stand Up Paddle Boarding Yoga"
+      ],
+      "subtopics": [
+        "Inflatable stand up paddle board for portability",
+        "Stand up paddle board sale for affordability",
+        "Stand up paddle board inflatable for convenience",
+        "Stand up paddle boarding in Cornwall for scenic locations",
+        "Stand up paddle boarding in Poole for calm waters",
+        "Stand up paddle boarding lessons for beginners",
+        "Stand up paddle boarding near me for local options",
+        "Stand up paddle boarding UK for national options",
+        "Stand up paddle boarding accessories for customization",
+        "Stand up paddle boarding yoga for fitness"
+      ]
+    },
+    {
+      "label": "Surfing Apparel",
+      "relevance": 0.6,
+      "description": "Clothing and accessories worn while surfing or other watersports.",
+      "nouns": [
+        "Rash Vest",
+        "Board Shorts",
+        "Surf Poncho",
+        "Surf Suit",
+        "Surf Top",
+        "Surf Leggings",
+        "Surf Sunglasses",
+        "Surf Hoodies",
+        "Surf Wallet",
+        "Surf Backpacks"
+      ],
+      "subtopics": [
+        "Rash vest for sun protection",
+        "Board shorts for comfort",
+        "Surf poncho for changing",
+        "Surf suit for warmth",
+        "Surf top for sun protection",
+        "Surf leggings for warmth and sun protection",
+        "Surf sunglasses for eye protection",
+        "Surf hoodies for warmth",
+        "Surf wallet for storage",
+        "Surf backpacks for transport"
+      ]
+    },
+    {
+      "label": "Surf Camps and Lessons",
+      "relevance": 0.5,
+      "description": "Programs and classes for learning or improving surfing or other watersports skills.",
+      "nouns": [
+        "Surf Camp",
+        "Surf Lessons",
+        "Surf School",
+        "Surf Instructor Course",
+        "Surf Training",
+        "Surf Yoga",
+        "Surf Holidays",
+        "Surf and Yoga",
+        "Surf and Stay",
+        "Surf and Turf"
+      ],
+      "subtopics": [
+        "Surf camp for immersive experience",
+        "Surf lessons for beginners",
+        "Surf school for ongoing education",
+        "Surf instructor course for certification",
+        "Surf training for skill improvement",
+        "Surf yoga for fitness and relaxation",
+        "Surf holidays for travel",
+        "Surf and yoga for combined experience",
+        "Surf and stay for accommodation",
+        "Surf and turf for combined activities"
+      ]
+    },
+    {
+      "label": "Windsurfing and Kitesurfing",
+      "relevance": 0.4,
+      "description": "Watersports that use wind power to move the rider on a board.",
+      "nouns": [
+        "Windsurfing Board",
+        "Kitesurfing Board",
+        "Kite",
+        "Kite Shop",
+        "Kitesurfing Lessons",
+        "Kitesurfing UK",
+        "Kitesurfing Sardinia",
+        "Kitesurfing Morocco",
+        "Kitesurfing Poole",
+        "Kite Mosquito Patch"
+      ],
+      "subtopics": [
+        "Windsurfing board for wind power",
+        "Kitesurfing board for wind power",
+        "Kite for wind power",
+        "Kite shop for equipment",
+        "Kitesurfing lessons for beginners",
+        "Kitesurfing UK for national options",
+        "Kitesurfing Sardinia for scenic locations",
+        "Kitesurfing Morocco for travel",
+        "Kites

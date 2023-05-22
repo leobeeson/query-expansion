@@ -1,0 +1,172 @@
+{
+  "label": "Aquaculture and Hydroponics",
+  "description": "Market category encompassing products and services related to aquaculture and hydroponics.",
+  "intents": [
+    "Set up and maintain hydroponic systems",
+    "Buy fish farming equipment",
+    "Find carp syndicates for fishing",
+    "Buy koi carp for ponds",
+    "Find tropical fish suppliers",
+    "Buy hydroponic supplies",
+    "Find fishing lakes for sale",
+    "Buy aquaponics systems",
+    "Find carp fishing lodges",
+    "Buy freshwater shrimp"
+  ],
+  "subcategories": [
+    {
+      "label": "Hydroponic Systems",
+      "relevance": 0.8,
+      "description": "Products and services related to hydroponic systems.",
+      "nouns": [
+        "DWC hydroponics",
+        "NFT system",
+        "Hydroponic LED lights",
+        "Hydroponic store",
+        "Hydroponic systems",
+        "Hydroponics wholesale",
+        "Hydroponic drip system",
+        "Wilma hydroponic system",
+        "General hydroponics flora series",
+        "Hydroponic starter kit"
+      ],
+      "subtopics": [
+        "Deep water culture",
+        "Flood and drain",
+        "Aeroponic system"
+      ]
+    },
+    {
+      "label": "Fish Farming Equipment",
+      "relevance": 0.7,
+      "description": "Products and services related to fish farming equipment.",
+      "nouns": [
+        "Fish farming equipment",
+        "Fish feed",
+        "Seaweed feed",
+        "Fish sustainability",
+        "Fish breeding box",
+        "Fish feeding blocks",
+        "Fish farming tanks",
+        "Fish hatchery",
+        "Aquaponics fish tank",
+        "Aquafarm"
+      ],
+      "subtopics": [
+        "Marine phosphate remover",
+        "Propagation tent",
+        "Breeding brine shrimp"
+      ]
+    },
+    {
+      "label": "Carp Fishing",
+      "relevance": 0.6,
+      "description": "Products and services related to carp fishing.",
+      "nouns": [
+        "Carp syndicates",
+        "Carp lake hire",
+        "Carp fishing south west",
+        "Carp fishing nottingham",
+        "Mirror carp for sale",
+        "Carp fishing leicestershire",
+        "Carp fishing in worcestershire",
+        "Carp fishing in essex",
+        "Carp fishing in north wales",
+        "Carp fishing in surrey"
+      ],
+      "subtopics": [
+        "Carp syndicates in bedfordshire",
+        "Day ticket fishing bedfordshire",
+        "Night fishing west midlands"
+      ]
+    },
+    {
+      "label": "Koi Carp",
+      "relevance": 0.5,
+      "description": "Products and services related to koi carp.",
+      "nouns": [
+        "Japanese koi carp",
+        "Koi for sale private",
+        "Butterfly koi",
+        "Koi fry",
+        "Koi carp"
+      ],
+      "subtopics": [
+        "Pond fish for sale uk",
+        "Ghost carp for sale",
+        "Common carp for sale"
+      ]
+    },
+    {
+      "label": "Aquaculture",
+      "relevance": 0.4,
+      "description": "Products and services related to aquaculture.",
+      "nouns": [
+        "Fish farming in uk",
+        "Fish farming in nigeria",
+        "Tropical fish wholesale",
+        "Aquaponics system uk",
+        "Sustainable fish farming",
+        "Fish for ponds",
+        "Aquaponics uk",
+        "Aquaponics fish",
+        "Aquaponics kit",
+        "Aquaponics store"
+      ],
+      "subtopics": [
+        "Freshwater shrimp uk",
+        "Prawn net",
+        "Giant prawn"
+      ]
+    },
+    {
+      "label": "Oysters and Pearls",
+      "relevance": 0.3,
+      "description": "Products and services related to oysters and pearls.",
+      "nouns": [
+        "Oyster 1 colour pack",
+        "Oyster max 2",
+        "Oyster 2 teal",
+        "Oyster 2 grey",
+        "Oyster colour",
+        "Oyster color pack",
+        "Oyster 2 purple",
+        "Oyster shuck",
+        "Oyster delivery",
+        "Oyster hood"
+      ],
+      "subtopics": [
+        "Pearls from oysters",
+        "Oyster pearl kit",
+        "Real pearls in oysters"
+      ]
+    },
+    {
+      "label": "Grow Tents",
+      "relevance": 0.2,
+      "description": "Products and services related to grow tents.",
+      "nouns": [
+        "Small grow tent",
+        "Complete grow tents",
+        "Grow tent kits cheap",
+        "Mini grow tent",
+        "Grow tent kits uk",
+        "Grow tents ebay",
+        "Grow tent",
+        "Hydroponic tent",
+        "Stealth grow box",
+        "4x4 grow tent"
+      ],
+      "subtopics": [
+        "Small grow tent kit",
+        "Grow tent setup",
+        "Hydroponic tent kit"
+      ]
+    },
+    {
+      "label": "Water Tanks",
+      "relevance": 0.1,
+      "description": "Products and services related to water tanks.",
+      "nouns": [
+        "Water tank in loft",
+        "Large water

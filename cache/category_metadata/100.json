@@ -1,0 +1,106 @@
+{
+    "label": "Kitchen Appliances and Accessories",
+    "description": "Products and tools used in the kitchen for cooking, baking, and serving food and drinks.",
+    "intents": [
+        "Find and purchase kitchen appliances and accessories.",
+        "Compare prices and features of different kitchen appliances and accessories.",
+        "Learn about the latest trends and innovations in kitchen appliances and accessories."
+    ],
+    "subcategories": [
+        {
+            "label": "Cooking Appliances",
+            "relevance": 0.9,
+            "description": "Appliances used for cooking food.",
+            "nouns": [
+                "oven",
+                "hob",
+                "cooker",
+                "range",
+                "stove"
+            ],
+            "subtopics": [
+                "Gas",
+                "Electric",
+                "Dual Fuel",
+                "Built-in",
+                "Freestanding"
+            ]
+        },
+        {
+            "label": "Dishwashers",
+            "relevance": 0.8,
+            "description": "Appliances used for cleaning dishes.",
+            "nouns": [
+                "dishwasher",
+                "rack",
+                "integrated",
+                "freestanding",
+                "slimline"
+            ],
+            "subtopics": [
+                "Brands",
+                "Sizes",
+                "Features",
+                "Installation",
+                "Maintenance"
+            ]
+        },
+        {
+            "label": "Coffee and Tea",
+            "relevance": 0.7,
+            "description": "Appliances and accessories used for making coffee and tea.",
+            "nouns": [
+                "coffee",
+                "machine",
+                "espresso",
+                "maker",
+                "tea"
+            ],
+            "subtopics": [
+                "Brands",
+                "Types",
+                "Features",
+                "Accessories",
+                "Maintenance"
+            ]
+        },
+        {
+            "label": "Glassware and Drinkware",
+            "relevance": 0.6,
+            "description": "Glasses and cups used for serving drinks.",
+            "nouns": [
+                "glass",
+                "mug",
+                "cup",
+                "tumbler",
+                "wine"
+            ],
+            "subtopics": [
+                "Brands",
+                "Types",
+                "Materials",
+                "Designs",
+                "Sets"
+            ]
+        },
+        {
+            "label": "Kitchen Scales and Measuring Tools",
+            "relevance": 0.5,
+            "description": "Tools used for measuring ingredients and portions.",
+            "nouns": [
+                "scale",
+                "measuring",
+                "spoon",
+                "cup",
+                "thermometer"
+            ],
+            "subtopics": [
+                "Brands",
+                "Types",
+                "Materials",
+                "Features",
+                "Accuracy"
+            ]
+        }
+    ]
+}

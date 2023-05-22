@@ -1,0 +1,143 @@
+{
+    "label": "Halloween Costumes",
+    "description": "Costumes and accessories for Halloween, sorted by theme and target audience.",
+    "intents": [
+        "Find a Halloween costume for myself or someone else.",
+        "Get ideas for Halloween costumes.",
+        "Buy Halloween costumes and accessories."
+    ],
+    "subcategories": [
+        {
+            "label": "Women's Costumes",
+            "relevance": 0.8,
+            "description": "Costumes designed for women.",
+            "nouns": [
+                "witch costume",
+                "vampire costume",
+                "cat costume",
+                "devil costume",
+                "mermaid costume",
+                "skeleton costume",
+                "clown costume",
+                "pirate costume",
+                "angel costume",
+                "fairy costume"
+            ],
+            "subtopics": [
+                "Sexy costumes",
+                "Plus size costumes",
+                "Maternity costumes"
+            ]
+        },
+        {
+            "label": "Men's Costumes",
+            "relevance": 0.7,
+            "description": "Costumes designed for men.",
+            "nouns": [
+                "pirate costume",
+                "vampire costume",
+                "skeleton costume",
+                "zombie costume",
+                "clown costume",
+                "devil costume",
+                "superhero costume",
+                "ghost costume",
+                "werewolf costume",
+                "ninja costume"
+            ],
+            "subtopics": [
+                "Funny costumes",
+                "Plus size costumes",
+                "Superhero costumes"
+            ]
+        },
+        {
+            "label": "Kids' Costumes",
+            "relevance": 0.9,
+            "description": "Costumes designed for children.",
+            "nouns": [
+                "superhero costume",
+                "princess costume",
+                "pirate costume",
+                "witch costume",
+                "skeleton costume",
+                "zombie costume",
+                "ghost costume",
+                "animal costume",
+                "ninja costume",
+                "clown costume"
+            ],
+            "subtopics": [
+                "Toddler costumes",
+                "Baby costumes",
+                "Group costumes"
+            ]
+        },
+        {
+            "label": "Couples' Costumes",
+            "relevance": 0.6,
+            "description": "Costumes designed for couples to wear together.",
+            "nouns": [
+                "pirate costumes",
+                "vampire costumes",
+                "zombie costumes",
+                "superhero costumes",
+                "witch costumes",
+                "angel costumes",
+                "devil costumes",
+                "clown costumes",
+                "ghost costumes",
+                "princess costumes"
+            ],
+            "subtopics": [
+                "Funny costumes",
+                "Sexy costumes",
+                "Movie and TV show costumes"
+            ]
+        },
+        {
+            "label": "Group Costumes",
+            "relevance": 0.5,
+            "description": "Costumes designed for groups of people to wear together.",
+            "nouns": [
+                "superhero costumes",
+                "pirate costumes",
+                "zombie costumes",
+                "witch costumes",
+                "clown costumes",
+                "ghost costumes",
+                "animal costumes",
+                "movie character costumes",
+                "cartoon character costumes",
+                "historical costumes"
+            ],
+            "subtopics": [
+                "Family costumes",
+                "Workplace costumes",
+                "Themed party costumes"
+            ]
+        },
+        {
+            "label": "Accessories",
+            "relevance": 0.4,
+            "description": "Accessories to complement Halloween costumes.",
+            "nouns": [
+                "wigs",
+                "masks",
+                "makeup",
+                "hats",
+                "shoes",
+                "jewelry",
+                "props",
+                "tights",
+                "gloves",
+                "weapons"
+            ],
+            "subtopics": [
+                "Fake blood and gore",
+                "Contact lenses",
+                "Halloween decorations"
+            ]
+        }
+    ]
+}

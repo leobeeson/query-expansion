@@ -1,0 +1,206 @@
+{
+  "label": "Hen and Stag Parties",
+  "description": "Market category for planning and organizing hen and stag parties.",
+  "intents": [
+    "Plan a fun and memorable hen or stag party",
+    "Find unique and creative ideas for a hen or stag party",
+    "Organize a hen or stag party in a specific location"
+  ],
+  "subcategories": [
+    {
+      "label": "Hen Party Accessories",
+      "relevance": 0.8,
+      "description": "Accessories and decorations for a hen party.",
+      "nouns": [
+        "sashes",
+        "t-shirts",
+        "veils",
+        "tiaras",
+        "badges",
+        "shot glasses",
+        "party packs",
+        "bunting",
+        "goodie bags",
+        "props"
+      ],
+      "subtopics": [
+        "Personalized accessories",
+        "Classy and elegant accessories",
+        "Funny and playful accessories"
+      ]
+    },
+    {
+      "label": "Stag Party Costumes",
+      "relevance": 0.7,
+      "description": "Costumes and outfits for a stag party.",
+      "nouns": [
+        "suits",
+        "outfits",
+        "accessories",
+        "fancy dress",
+        "antlers",
+        "stag suits",
+        "stag outfits",
+        "stag accessories",
+        "embarrassing outfits",
+        "dress up ideas"
+      ],
+      "subtopics": [
+        "Funny and playful costumes",
+        "Classy and elegant outfits",
+        "Themed costumes"
+      ]
+    },
+    {
+      "label": "Hen Party Ideas",
+      "relevance": 0.9,
+      "description": "Ideas and inspiration for a hen party.",
+      "nouns": [
+        "weekends",
+        "activities",
+        "games",
+        "locations",
+        "themes",
+        "weekends away",
+        "treasure hunt",
+        "memory book",
+        "survival kit",
+        "presents"
+      ],
+      "subtopics": [
+        "Unique and creative ideas",
+        "Classy and elegant ideas",
+        "Fun and playful ideas"
+      ]
+    },
+    {
+      "label": "Stag Party Ideas",
+      "relevance": 0.9,
+      "description": "Ideas and inspiration for a stag party.",
+      "nouns": [
+        "weekends",
+        "activities",
+        "games",
+        "locations",
+        "themes",
+        "weekends away",
+        "treasure hunt",
+        "memory book",
+        "survival kit",
+        "presents"
+      ],
+      "subtopics": [
+        "Unique and creative ideas",
+        "Classy and elegant ideas",
+        "Fun and playful ideas"
+      ]
+    },
+    {
+      "label": "Hen Party Accommodation",
+      "relevance": 0.7,
+      "description": "Accommodation options for a hen party.",
+      "nouns": [
+        "houses",
+        "cottages",
+        "lodges",
+        "glamping",
+        "hot tubs",
+        "weekend houses",
+        "apartments",
+        "villas",
+        "cabins",
+        "chalets"
+      ],
+      "subtopics": [
+        "Luxury accommodation",
+        "Budget accommodation",
+        "Accommodation with specific amenities"
+      ]
+    },
+    {
+      "label": "Stag Party Accommodation",
+      "relevance": 0.7,
+      "description": "Accommodation options for a stag party.",
+      "nouns": [
+        "houses",
+        "cottages",
+        "lodges",
+        "glamping",
+        "hot tubs",
+        "weekend houses",
+        "apartments",
+        "villas",
+        "cabins",
+        "chalets"
+      ],
+      "subtopics": [
+        "Luxury accommodation",
+        "Budget accommodation",
+        "Accommodation with specific amenities"
+      ]
+    },
+    {
+      "label": "Hen Party Destinations",
+      "relevance": 0.8,
+      "description": "Destinations for a hen party.",
+      "nouns": [
+        "Brighton",
+        "Marbella",
+        "Amsterdam",
+        "Barcelona",
+        "Dublin",
+        "Ibiza",
+        "Newcastle",
+        "Bournemouth",
+        "London",
+        "Edinburgh"
+      ],
+      "subtopics": [
+        "Popular destinations",
+        "Unique and off-the-beaten-path destinations",
+        "Destinations with specific amenities"
+      ]
+    },
+    {
+      "label": "Stag Party Destinations",
+      "relevance": 0.8,
+      "description": "Destinations for a stag party.",
+      "nouns": [
+        "Brighton",
+        "Marbella",
+        "Amsterdam",
+        "Barcelona",
+        "Dublin",
+        "Ibiza",
+        "Newcastle",
+        "Bournemouth",
+        "London",
+        "Edinburgh"
+      ],
+      "subtopics": [
+        "Popular destinations",
+        "Unique and off-the-beaten-path destinations",
+        "Destinations with specific amenities"
+      ]
+    },
+    {
+      "label": "Hen Party Games",
+      "relevance": 0.7,
+      "description": "Games and activities for a hen party.",
+      "nouns": [
+        "night games",
+        "weekend games",
+        "drinking games",
+        "treasure hunt",
+        "memory book",
+        "presents",
+        "goodie bags",
+        "survival kit",
+        "scavenger hunt",
+        "quiz"
+      ],
+      "subtopics": [
+        "Classy and elegant games",
+        "Fun and playful games",
+        "Games for specific group sizes"
+      ]

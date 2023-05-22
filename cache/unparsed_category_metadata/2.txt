@@ -1,0 +1,168 @@
+{
+  "label": "Vintage Jewelry",
+  "description": "Antique and vintage jewelry from various eras and styles.",
+  "intents": [
+    "Find unique jewelry pieces",
+    "Buy vintage jewelry",
+    "Learn about antique jewelry"
+  ],
+  "subcategories": [
+    {
+      "label": "Art Deco Jewelry",
+      "relevance": 0.8,
+      "description": "Jewelry from the Art Deco era (1920s-1930s) characterized by geometric shapes and bold colors.",
+      "nouns": [
+        "Art Deco",
+        "1920s",
+        "1930s",
+        "Geometric shapes",
+        "Bold colors",
+        "Marcasite",
+        "Cufflinks",
+        "Earrings",
+        "Necklaces",
+        "Rings"
+      ],
+      "subtopics": [
+        "Marcasite jewelry",
+        "Art Deco cufflinks",
+        "Art Deco earrings"
+      ]
+    },
+    {
+      "label": "Victorian Jewelry",
+      "relevance": 0.7,
+      "description": "Jewelry from the Victorian era (1837-1901) characterized by romantic and sentimental designs.",
+      "nouns": [
+        "Victorian",
+        "1837-1901",
+        "Romantic",
+        "Sentimental",
+        "Pearls",
+        "Lockets",
+        "Brooches",
+        "Rings",
+        "Necklaces",
+        "Earrings"
+      ],
+      "subtopics": [
+        "Victorian pearl necklace",
+        "Victorian engagement rings",
+        "Victorian mourning ring"
+      ]
+    },
+    {
+      "label": "Art Nouveau Jewelry",
+      "relevance": 0.6,
+      "description": "Jewelry from the Art Nouveau era (1890s-1910s) characterized by flowing lines and nature-inspired designs.",
+      "nouns": [
+        "Art Nouveau",
+        "1890s-1910s",
+        "Flowing lines",
+        "Nature-inspired",
+        "Brooches",
+        "Pendants",
+        "Rings",
+        "Earrings",
+        "Necklaces",
+        "Bracelets"
+      ],
+      "subtopics": [
+        "Art Nouveau brooch",
+        "Art Nouveau pendant",
+        "Art Nouveau engagement rings"
+      ]
+    },
+    {
+      "label": "Rene Lalique Jewelry",
+      "relevance": 0.5,
+      "description": "Jewelry designed by Rene Lalique, a French glass designer known for his Art Nouveau and Art Deco creations.",
+      "nouns": [
+        "Rene Lalique",
+        "French glass",
+        "Art Nouveau",
+        "Art Deco",
+        "Brooches",
+        "Necklaces",
+        "Pendants",
+        "Earrings",
+        "Bracelets",
+        "Cufflinks"
+      ],
+      "subtopics": [
+        "Lalique jewelry for sale",
+        "Rene Lalique cufflinks",
+        "Lalique necklace"
+      ]
+    },
+    {
+      "label": "Cameo Jewelry",
+      "relevance": 0.4,
+      "description": "Jewelry featuring a raised relief design carved into a contrasting background.",
+      "nouns": [
+        "Cameo",
+        "Necklaces",
+        "Brooches",
+        "Earrings",
+        "Rings",
+        "Pendants",
+        "Antique",
+        "Vintage",
+        "Art Deco",
+        "Victorian"
+      ],
+      "subtopics": [
+        "Cameo ring value",
+        "Cameo necklace antique",
+        "Vintage cameo"
+      ]
+    },
+    {
+      "label": "Suffragette Jewelry",
+      "relevance": 0.3,
+      "description": "Jewelry worn by members of the women's suffrage movement in the late 19th and early 20th centuries.",
+      "nouns": [
+        "Suffragette",
+        "Late 19th century",
+        "Early 20th century",
+        "Brooches",
+        "Rings",
+        "Pendants",
+        "Earrings",
+        "Necklaces",
+        "Bracelets",
+        "Colors"
+      ],
+      "subtopics": [
+        "Suffragette brooches",
+        "Suffragette rings for sale",
+        "Suffragette colors jewelry"
+      ]
+    },
+    {
+      "label": "Georgian Jewelry",
+      "relevance": 0.2,
+      "description": "Jewelry from the Georgian era (1714-1837) characterized by intricate designs and the use of precious stones.",
+      "nouns": [
+        "Georgian",
+        "1714-1837",
+        "Intricate designs",
+        "Precious stones",
+        "Rings",
+        "Earrings",
+        "Necklaces",
+        "Brooches",
+        "Pendants",
+        "Bracelets"
+      ],
+      "subtopics": [
+        "Georgian diamond ring",
+        "Georgian rings",
+        "Georg Jensen jewelry vintage"
+      ]
+    },
+    {
+      "label": "Antique Gold Jewelry",
+      "relevance": 0.1,
+      "description": "Jewelry made of gold that is over 100 years old.",
+     

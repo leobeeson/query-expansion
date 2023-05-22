@@ -1,0 +1,172 @@
+{
+    "label": "Government Funding and Schemes",
+    "description": "Government funding and schemes for various needs and industries.",
+    "intents": [
+        "Find government funding for my business",
+        "Learn about government schemes for housing",
+        "Apply for a government loan",
+        "Get information on government grants"
+    ],
+    "subcategories": [
+        {
+            "label": "Business Funding",
+            "relevance": 0.9,
+            "description": "Government funding and schemes for businesses.",
+            "nouns": [
+                "Procurement jobs",
+                "Social enterprise",
+                "Tax refund",
+                "Cycle to work scheme",
+                "Third sector funding",
+                "Innovation in education",
+                "Business support",
+                "Funding for training",
+                "Film partnership schemes",
+                "Community interest company grants"
+            ],
+            "subtopics": [
+                "Procurement",
+                "Social enterprise",
+                "Tax",
+                "Cycling",
+                "Education",
+                "Support",
+                "Training",
+                "Film",
+                "Community"
+            ]
+        },
+        {
+            "label": "Housing Schemes",
+            "relevance": 0.8,
+            "description": "Government schemes for housing.",
+            "nouns": [
+                "Sheltered housing",
+                "Council funding",
+                "Right to buy",
+                "New buy government scheme",
+                "Supported living funding",
+                "Affordable warmth government scheme",
+                "Help to buy scheme",
+                "Private sector housing jobs",
+                "Housing developers",
+                "Armed forces housing scheme"
+            ],
+            "subtopics": [
+                "Sheltered",
+                "Council",
+                "Buying",
+                "New buy",
+                "Supported living",
+                "Affordable warmth",
+                "Help to buy",
+                "Private sector",
+                "Developers",
+                "Armed forces"
+            ]
+        },
+        {
+            "label": "Health and Wellbeing",
+            "relevance": 0.7,
+            "description": "Government schemes related to health and wellbeing.",
+            "nouns": [
+                "NHS learning and development",
+                "Mental health review tribunal",
+                "NHS loan scheme",
+                "Resilience training",
+                "NHS staff car scheme",
+                "Fire safety strategy",
+                "Home flood defence",
+                "Food hygiene policy",
+                "Ombudsman NHS",
+                "Refugee council Scotland"
+            ],
+            "subtopics": [
+                "NHS",
+                "Mental health",
+                "Loans",
+                "Training",
+                "Car scheme",
+                "Fire safety",
+                "Flood defence",
+                "Food hygiene",
+                "Ombudsman",
+                "Refugee council"
+            ]
+        },
+        {
+            "label": "Environmental Impact",
+            "relevance": 0.6,
+            "description": "Government schemes related to environmental impact.",
+            "nouns": [
+                "ESOS scheme",
+                "Environmental impact assessment",
+                "Eco funding",
+                "Contaminated land guidance",
+                "Wildlife crime officer",
+                "Fly tipping poster",
+                "Upper tier waste carrier licence",
+                "ESD toolkit",
+                "Resilience training NHS",
+                "Power BI licensing"
+            ],
+            "subtopics": [
+                "ESOS",
+                "Environmental impact",
+                "Eco",
+                "Contaminated land",
+                "Wildlife crime",
+                "Fly tipping",
+                "Waste carrier",
+                "ESD toolkit",
+                "Resilience training",
+                "Power BI"
+            ]
+        },
+        {
+            "label": "Legal and Financial",
+            "relevance": 0.5,
+            "description": "Government schemes related to legal and financial matters.",
+            "nouns": [
+                "Council funding",
+                "Tax refund",
+                "Pep AML",
+                "Code of practice 9",
+                "Sanctioned countries list",
+                "Apostille stamp",
+                "Data protection jobs",
+                "Child poverty policy",
+                "HMRC enforcement officer",
+                "Proceeds of crime funding application"
+            ],
+            "subtopics": [
+                "Council",
+                "Tax",
+                "Pep AML",
+                "Code of practice",
+                "Sanctioned countries",
+                "Apostille stamp",
+                "Data protection",
+                "Child poverty",
+                "HMRC enforcement",
+                "Proceeds of crime"
+            ]
+        },
+        {
+            "label": "Travel and Tourism",
+            "relevance": 0.4,
+            "description": "Government schemes related to travel and tourism.",
+            "nouns": [
+                "US embassy London notary",
+                "Bhutan travel advice",
+                "Pet travel scheme helpline",
+                "South African birth certificates online",
+                "International sanctions list"
+            ],
+            "subtopics": [
+                "US embassy",
+                "International sanctions"
+            ]
+        }
+    ]
+}

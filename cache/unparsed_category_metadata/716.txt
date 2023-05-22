@@ -1,0 +1,242 @@
+{
+  "label": "Higher Education",
+  "description": "Courses, degrees, and accommodation for universities and colleges.",
+  "intents": [
+    "Find a university course",
+    "Search for student accommodation",
+    "Explore degree options"
+  ],
+  "subcategories": [
+    {
+      "label": "University Courses",
+      "relevance": 0.8,
+      "description": "Courses offered by universities and colleges.",
+      "nouns": [
+        "Law courses",
+        "Engineering courses",
+        "Psychology degree",
+        "Business management degree",
+        "Math courses",
+        "Science degrees",
+        "Social science courses",
+        "English literature degree",
+        "History and politics degree",
+        "Philosophy courses"
+      ],
+      "subtopics": [
+        "Law",
+        "Engineering",
+        "Psychology",
+        "Business",
+        "Math",
+        "Science",
+        "Social Science",
+        "English Literature",
+        "History and Politics",
+        "Philosophy"
+      ]
+    },
+    {
+      "label": "Student Accommodation",
+      "relevance": 0.7,
+      "description": "Housing options for students.",
+      "nouns": [
+        "Leeds student accommodation",
+        "Loughborough student accommodation",
+        "Brighton student accommodation",
+        "Student accommodation Plymouth",
+        "Student accommodation York",
+        "Coventry accommodation",
+        "Sheffield accommodation",
+        "Glasgow university accommodation",
+        "Exeter student accommodation",
+        "Student accommodation Nottingham"
+      ],
+      "subtopics": [
+        "Leeds",
+        "Loughborough",
+        "Brighton",
+        "Plymouth",
+        "York",
+        "Coventry",
+        "Sheffield",
+        "Glasgow",
+        "Exeter",
+        "Nottingham"
+      ]
+    },
+    {
+      "label": "Online Courses",
+      "relevance": 0.6,
+      "description": "Courses offered online.",
+      "nouns": [
+        "Online courses free",
+        "LearnOnline",
+        "Open University postgraduate",
+        "Online psychology courses",
+        "Online university courses UK",
+        "Free college courses",
+        "Distance learning degrees",
+        "Distance learning courses UK",
+        "Course online",
+        "Online MBA"
+      ],
+      "subtopics": [
+        "Free courses",
+        "Open University",
+        "Psychology",
+        "University courses",
+        "Distance learning",
+        "MBA",
+        "College courses",
+        "Online degrees",
+        "Online study",
+        "Postgraduate courses"
+      ]
+    },
+    {
+      "label": "Degree Programs",
+      "relevance": 0.5,
+      "description": "Programs for specific degrees.",
+      "nouns": [
+        "Occupational therapy university",
+        "Early years degree",
+        "Dentistry courses",
+        "Forensic science university",
+        "Reading university courses",
+        "Nursing degree UK",
+        "Sports science university",
+        "Speech and language therapy degree",
+        "Biomedical science university",
+        "Pharmacy course"
+      ],
+      "subtopics": [
+        "Occupational therapy",
+        "Early years",
+        "Dentistry",
+        "Forensic science",
+        "Reading",
+        "Nursing",
+        "Sports science",
+        "Speech and language therapy",
+        "Biomedical science",
+        "Pharmacy"
+      ]
+    },
+    {
+      "label": "University Jobs",
+      "relevance": 0.4,
+      "description": "Job opportunities at universities and colleges.",
+      "nouns": [
+        "University jobs UK",
+        "Teaching courses UK",
+        "Graduate program",
+        "Teacher training course",
+        "Part time university courses",
+        "Access to midwifery",
+        "Access to higher education courses",
+        "Midwifery apprenticeships",
+        "Occupational therapy courses",
+        "Paramedic apprenticeship"
+      ],
+      "subtopics": [
+        "Teaching",
+        "Graduate jobs",
+        "Teacher training",
+        "Part time courses",
+        "Midwifery",
+        "Access courses",
+        "Apprenticeships",
+        "Occupational therapy",
+        "Paramedic science",
+        "University jobs"
+      ]
+    },
+    {
+      "label": "University Open Days",
+      "relevance": 0.3,
+      "description": "Events for prospective students to visit universities and colleges.",
+      "nouns": [
+        "Lincoln university open day",
+        "Middlesex university open days",
+        "Salford university open days",
+        "University open days calendar",
+        "Durham student accommodation",
+        "Greenwich university open day",
+        "City university open day",
+        "Aston university open days",
+        "Birmingham city university open days",
+        "University of London accommodation"
+      ],
+      "subtopics": [
+        "Lincoln",
+        "Middlesex",
+        "Salford",
+        "Open day calendar",
+        "Durham",
+        "Greenwich",
+        "City",
+        "Aston",
+        "Birmingham",
+        "London"
+      ]
+    },
+    {
+      "label": "Foundation Courses",
+      "relevance": 0.2,
+      "description": "Courses designed to prepare students for university-level study.",
+      "nouns": [
+        "Foundation courses in UK",
+        "Foundation degree courses",
+        "Foundation degree in early years",
+        "University foundation courses",
+        "Top up degree",
+        "Access to nursing",
+        "Access to higher education",
+        "GDL course",
+        "Graduate diploma in law",
+        "Post graduation courses"
+      ],
+      "subtopics": [
+        "Foundation courses",
+        "Early years",
+        "Nursing",
+        "Access courses",
+        "Law",
+        "Postgraduate",
+        "GDL",
+        "Top up degree",
+        "University foundation",
+        "Graduate diploma"
+      ]
+    },
+    {
+      "label": "Executive Education",
+      "relevance": 0.1,
+      "description": "Courses and programs designed for executives and business professionals.",
+      "nouns": [
+        "Executive MBA",
+        "MBA rankings",
+        "London business school MBA",
+        "Part time MBA",
+        "Masters degree UK",
+        "Masters in education",
+        "EMBA",
+        "Part time degree",
+        "Business management courses",
+        "Business degree"
+      ],
+      "subtopics": [
+        "Executive MBA",
+        "MBA rankings",
+        "London business school",
+        "Part time MBA",
+        "Masters degree",
+        "Education",
+        "EMBA",
+        "Part time degree",
+        "Business management",
+        "Business degree"
+      ]
+    }
+  ]

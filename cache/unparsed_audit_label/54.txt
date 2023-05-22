@@ -1,0 +1,388 @@
+{
+  "query_audits": [
+    {
+      "query": "diesel chip review",
+      "relevance": 0.9
+    },
+    {
+      "query": "focus tuning",
+      "relevance": 0
+    },
+    {
+      "query": "vw transporter tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "chip tuning solutions",
+      "relevance": 0.4
+    },
+    {
+      "query": "mini one tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "tdi tuning box adjustment",
+      "relevance": 0.9
+    },
+    {
+      "query": "diesel chip tuning",
+      "relevance": 0.9
+    },
+    {
+      "query": "powerbox evolution",
+      "relevance": 0.4
+    },
+    {
+      "query": "citroen c2 tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "audi a5 1.8 tfsi remap",
+      "relevance": 0.9
+    },
+    {
+      "query": "audi a6 3.0 tdi remap",
+      "relevance": 0.5
+    },
+    {
+      "query": "passat cc tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "pro racing chip tuning box review",
+      "relevance": 0.4
+    },
+    {
+      "query": "saab tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "gibson g force tuning system",
+      "relevance": 0
+    },
+    {
+      "query": "dte tuning box",
+      "relevance": 0.4
+    },
+    {
+      "query": "vtech till",
+      "relevance": 0
+    },
+    {
+      "query": "chip tuning obd2 review",
+      "relevance": 0.4
+    },
+    {
+      "query": "nissan qashqai tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "mg zt cdti tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "audi a6 2.0 tdi remap",
+      "relevance": 0.5
+    },
+    {
+      "query": "bmw diesel tuning specialist",
+      "relevance": 0.6
+    },
+    {
+      "query": "mazda rx8 remap",
+      "relevance": 0.5
+    },
+    {
+      "query": "ds tuning chip box review",
+      "relevance": 0.4
+    },
+    {
+      "query": "tdituning",
+      "relevance": 0
+    },
+    {
+      "query": "toyota gt86 exhaust",
+      "relevance": 0.7
+    },
+    {
+      "query": "ecu chip tuning",
+      "relevance": 0.5
+    },
+    {
+      "query": "obd chip",
+      "relevance": 0.4
+    },
+    {
+      "query": "kess v2 software",
+      "relevance": 0.4
+    },
+    {
+      "query": "bmw e60 tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "chip tuning box",
+      "relevance": 0.4
+    },
+    {
+      "query": "volvo v70 tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "kess v2 master",
+      "relevance": 0.4
+    },
+    {
+      "query": "tuning box",
+      "relevance": 0.4
+    },
+    {
+      "query": "astra j vxr tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "satellite tuning",
+      "relevance": 0
+    },
+    {
+      "query": "seat leon 1.4 tsi remap",
+      "relevance": 0.9
+    },
+    {
+      "query": "dynamic diesel tuning box",
+      "relevance": 0.4
+    },
+    {
+      "query": "mercedes c200 cdi remap",
+      "relevance": 0.5
+    },
+    {
+      "query": "vw lupo spoiler",
+      "relevance": 0.6
+    },
+    {
+      "query": "racechip review vw",
+      "relevance": 0.4
+    },
+    {
+      "query": "vxr track day",
+      "relevance": 0
+    },
+    {
+      "query": "mercedes tuning uk",
+      "relevance": 0.6
+    },
+    {
+      "query": "chip bmw",
+      "relevance": 0.6
+    },
+    {
+      "query": "amd tuning essex ltd",
+      "relevance": 0.6
+    },
+    {
+      "query": "vw t5 remap problems",
+      "relevance": 0.6
+    },
+    {
+      "query": "v12 chip tuning manchester",
+      "relevance": 0.6
+    },
+    {
+      "query": "vw bora tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "toyota prius tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "fiat panda 100hp tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "bmw 335 diesel",
+      "relevance": 0.5
+    },
+    {
+      "query": "vw t5 102 remap",
+      "relevance": 0.6
+    },
+    {
+      "query": "car tuning software",
+      "relevance": 0.4
+    },
+    {
+      "query": "nissan 350z tuning uk",
+      "relevance": 0.6
+    },
+    {
+      "query": "sql tuning",
+      "relevance": 0
+    },
+    {
+      "query": "bsa bantam tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "audi a4 2.7 tdi remap",
+      "relevance": 0.5
+    },
+    {
+      "query": "diesel tuning uk ltd",
+      "relevance": 0.6
+    },
+    {
+      "query": "vw cc tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "peugeot 208 gti tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "bmw 520d tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "tdi tuning chip",
+      "relevance": 0.9
+    },
+    {
+      "query": "diesel tuning parts",
+      "relevance": 0.6
+    },
+    {
+      "query": "mondeo 2.2 tdci tuning",
+      "relevance": 0.5
+    },
+    {
+      "query": "tuning key",
+      "relevance": 0
+    },
+    {
+      "query": "ford s max turbo",
+      "relevance": 0.6
+    },
+    {
+      "query": "volvo xc90 d5 remap",
+      "relevance": 0.5
+    },
+    {
+      "query": "chip tuning box reviews",
+      "relevance": 0.4
+    },
+    {
+      "query": "volvo v70 t5 tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "audi a1 1.4 tfsi remap",
+      "relevance": 0.9
+    },
+    {
+      "query": "audi a4 2.0 tfsi remap",
+      "relevance": 0.9
+    },
+    {
+      "query": "saab 9 5 tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "astra j tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "seat ibiza 6j tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "ble chip",
+      "relevance": 0
+    },
+    {
+      "query": "cr tech tuning box",
+      "relevance": 0.4
+    },
+    {
+      "query": "g force tuning system",
+      "relevance": 0
+    },
+    {
+      "query": "honda civic tuning uk",
+      "relevance": 0.6
+    },
+    {
+      "query": "bmw tuning box",
+      "relevance": 0.6
+    },
+    {
+      "query": "bmw 120d tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "peugeot 206 cc body kit",
+      "relevance": 0.6
+    },
+    {
+      "query": "ford focus st diesel tuning",
+      "relevance": 0.5
+    },
+    {
+      "query": "530d tuning",
+      "relevance": 0.5
+    },
+    {
+      "query": "smart roadster turbo",
+      "relevance": 0.7
+    },
+    {
+      "query": "alientech kess v2",
+      "relevance": 0.4
+    },
+    {
+      "query": "audi a8 4.2 tdi remap",
+      "relevance": 0.5
+    },
+    {
+      "query": "chiptuning bmw",
+      "relevance": 0.6
+    },
+    {
+      "query": "bmw f30 tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "bmw 118d chip tuning",
+      "relevance": 0.6
+    },
+    {
+      "query": "remap audi a6 2.0 tdi",
+      "relevance": 0.5
+    },
+    {
+      "query": "plug in chip tuning",
+      "relevance": 0.4
+    },
+    {
+      "query": "tuning whistle",
+      "relevance": 0
+    },
+    {
+      "query": "obd chip tuning",
+      "relevance": 0.4
+    },
+    {
+      "query": "vw t4 spoiler",
+      "relevance": 0.6
+    },
+    {
+      "query": "diesel tuning chip review",
+      "relevance": 0.9
+    },
+    {
+      "query": "ford mondeo 2.0 tdci remap",
+      "relevance": 0.5
+    },
+    {
+     

@@ -1,0 +1,173 @@
+{
+  "label": "Construction and Excavation Equipment",
+  "description": "Equipment and tools used for construction and excavation work.",
+  "intents": [
+    "Renting construction equipment",
+    "Finding jobs in construction and excavation",
+    "Locating underground pipes and cables"
+  ],
+  "subcategories": [
+    {
+      "label": "Pipe and Cable Locators",
+      "relevance": 0.9,
+      "description": "Tools used to locate underground pipes and cables.",
+      "nouns": [
+        "Cable detector",
+        "Pipe detector",
+        "Cable avoidance tool",
+        "Cat and genny",
+        "Radiodetection cat",
+        "Dod envelope filter",
+        "Stanley cable detector",
+        "Cable fault detector",
+        "Cable and pipe detector",
+        "Pipe and live wire detector"
+      ],
+      "subtopics": [
+        "Cable detection equipment",
+        "Underground utility mapping",
+        "Wire and pipe detector"
+      ]
+    },
+    {
+      "label": "Excavator and Digger Jobs",
+      "relevance": 0.8,
+      "description": "Jobs related to operating excavators and diggers.",
+      "nouns": [
+        "360 excavator",
+        "Digger operator",
+        "CPCS 360 excavator",
+        "360 plant operator",
+        "360 excavator driver",
+        "360 slew jobs",
+        "Loading shovel licence",
+        "360 machine operator",
+        "360 demolition operator",
+        "360 telehandler training"
+      ],
+      "subtopics": [
+        "Excavator training",
+        "Dumper jobs",
+        "Wheeled excavator jobs"
+      ]
+    },
+    {
+      "label": "Construction Risk Assessment",
+      "relevance": 0.7,
+      "description": "Assessing and managing risks in construction work.",
+      "nouns": [
+        "Brickwork risk assessment",
+        "Groundworks method statement",
+        "Plastering risk assessment",
+        "Excavation risk assessment",
+        "Demolition risk assessment",
+        "Risk assessment for bricklaying",
+        "Groundworks risk assessment",
+        "Method statement bricklaying",
+        "Method statement excavation",
+        "Formwork risk assessment"
+      ],
+      "subtopics": [
+        "Health and safety",
+        "Risk management",
+        "Construction regulations"
+      ]
+    },
+    {
+      "label": "Trenching and Digging Tools",
+      "relevance": 0.6,
+      "description": "Tools used for digging and trenching.",
+      "nouns": [
+        "Trench digging spade",
+        "Digging hoe",
+        "Trench digger",
+        "Bulldog trench shovel",
+        "Trenching spade",
+        "Hole digging tools",
+        "Post hole digging spade",
+        "Ezicat",
+        "Air spade",
+        "Narrow trenching"
+      ],
+      "subtopics": [
+        "Excavation tools",
+        "Trench safety",
+        "Soil stabilisation"
+      ]
+    },
+    {
+      "label": "Utility Mapping and Surveying",
+      "relevance": 0.5,
+      "description": "Mapping and surveying underground utilities.",
+      "nouns": [
+        "Underground utility mapping",
+        "Utility locator",
+        "Utility survey",
+        "Utility contractors",
+        "Multi utility contractors",
+        "Utility detection",
+        "Service ducting underground",
+        "BT underground ducting",
+        "Underground ducting pipe",
+        "Underground electrical warning tape"
+      ],
+      "subtopics": [
+        "Utility detection equipment",
+        "Utility search",
+        "Pedestrian trencher"
+      ]
+    },
+    {
+      "label": "Construction Equipment Rental",
+      "relevance": 0.4,
+      "description": "Renting construction and excavation equipment.",
+      "nouns": [
+        "PVC pipe detector rental",
+        "360 digger training cost",
+        "Excavator 360 jobs",
+        "360 drivers wanted",
+        "360 digger driver urgently",
+        "360 excavator jobs yorkshire",
+        "360 excavator jobs birmingham",
+        "360 excavator jobs glasgow",
+        "360 excavator jobs liverpool",
+        "360 excavator jobs north west"
+      ],
+      "subtopics": [
+        "Equipment rental",
+        "Construction training",
+        "Job search"
+      ]
+    },
+    {
+      "label": "Sewer and Drain Repair",
+      "relevance": 0.3,
+      "description": "Repairing sewers and drains.",
+      "nouns": [
+        "Sewer pipe repair",
+        "Drain tracing",
+        "Drain locator",
+        "Sewer drain",
+        "Sewer connection",
+        "Collapsed drain pipe signs",
+        "Sewer connection contractors",
+        "Suction excavator hire",
+        "Sewer contractors",
+        "Soakaway problems clay soil"
+      ],
+      "subtopics": [
+        "Drain cleaning",
+        "Sewer inspection",
+        "Sewer maintenance"
+      ]
+    },
+    {
+      "label": "Construction Materials",
+      "relevance": 0.2,
+      "description": "Materials used in construction work.",
+      "nouns": [
+        "Filling pieces mountain cut white",
+        "Cable duct pipe",
+        "Sand school construction",
+        "Plastic water pipe detector",
+        "Gabion

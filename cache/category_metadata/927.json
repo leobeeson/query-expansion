@@ -1,0 +1,101 @@
+{
+    "label": "Entertainment and Leisure",
+    "description": "Search queries related to entertainment and leisure activities, including cinema, theater, hotels, and shopping.",
+    "intents": [
+        "Find cinema showtimes and prices",
+        "Buy cinema tickets online",
+        "Find theater listings and prices",
+        "Book hotel rooms and check prices",
+        "Shop for toys, books, and merchandise"
+    ],
+    "subcategories": [
+        {
+            "label": "Cinema",
+            "relevance": 0.8,
+            "description": "Search queries related to cinema, including showtimes, prices, and gift ideas.",
+            "nouns": [
+                "Gift voucher",
+                "Popcorn maker",
+                "Sofa",
+                "Screen",
+                "Clapper board",
+                "Memorabilia",
+                "Invitation",
+                "Armchair",
+                "Sound system",
+                "3D glasses"
+            ],
+            "subtopics": [
+                "Showtimes and prices",
+                "Gift ideas",
+                "Home cinema equipment"
+            ]
+        },
+        {
+            "label": "Theater",
+            "relevance": 0.6,
+            "description": "Search queries related to theater, including listings, prices, and producing theaters.",
+            "nouns": [
+                "Ticket",
+                "Listing",
+                "Producing theater",
+                "Clapper board",
+                "Memorabilia",
+                "Invitation",
+                "Armchair",
+                "Sound system",
+                "Stage",
+                "Playbill"
+            ],
+            "subtopics": [
+                "Listings and prices",
+                "Producing theaters",
+                "Theater memorabilia"
+            ]
+        },
+        {
+            "label": "Hotels",
+            "relevance": 0.4,
+            "description": "Search queries related to hotels, including prices, locations, and amenities.",
+            "nouns": [
+                "Room",
+                "Price",
+                "Location",
+                "Amenities",
+                "Booking",
+                "Check-in",
+                "Check-out",
+                "Reservation",
+                "Suite",
+                "Breakfast"
+            ],
+            "subtopics": [
+                "Prices and locations",
+                "Amenities and services",
+                "Booking and reservations"
+            ]
+        },
+        {
+            "label": "Shopping",
+            "relevance": 0.2,
+            "description": "Search queries related to shopping, including online and in-store shopping for various products.",
+            "nouns": [
+                "Toy",
+                "Merchandise",
+                "Gift",
+                "App",
+                "Voucher",
+                "List",
+                "Website",
+                "Account",
+                "Sale",
+                "Discount"
+            ],
+            "subtopics": [
+                "Online shopping",
+                "In-store shopping",
+                "Toy and merchandise shopping"
+            ]
+        }
+    ]
+}

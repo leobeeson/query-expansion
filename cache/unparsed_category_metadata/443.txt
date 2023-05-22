@@ -1,0 +1,264 @@
+{
+  "label": "Web Design and Development",
+  "description": "Creating and maintaining websites and web applications.",
+  "intents": [
+    "Build a website",
+    "Create a web application",
+    "Find a web designer",
+    "Learn web development",
+    "Improve website design",
+    "Hire a web developer",
+    "Make a website mobile-friendly",
+    "Optimize website performance",
+    "Redesign a website",
+    "Test website accessibility"
+  ],
+  "subcategories": [
+    {
+      "label": "Web Design",
+      "relevance": 0.8,
+      "description": "Designing the visual and user experience aspects of a website.",
+      "nouns": [
+        "Website templates",
+        "Graphic design",
+        "User interface",
+        "Wireframe",
+        "Accessibility testing",
+        "Responsive design",
+        "Clean design",
+        "Mobile-friendly design",
+        "Website redesign",
+        "Website builder"
+      ],
+      "subtopics": [
+        "Website templates",
+        "Graphic design",
+        "User interface",
+        "Wireframe",
+        "Accessibility testing",
+        "Responsive design",
+        "Clean design",
+        "Mobile-friendly design",
+        "Website redesign",
+        "Website builder"
+      ]
+    },
+    {
+      "label": "Web Development",
+      "relevance": 0.8,
+      "description": "Developing the technical aspects of a website or web application.",
+      "nouns": [
+        "Web developers",
+        "Front-end development",
+        "Back-end development",
+        "Web development tools",
+        "Web application development",
+        "CMS website",
+        "E-commerce website",
+        "Mobile web",
+        "Web accessibility",
+        "Web development company"
+      ],
+      "subtopics": [
+        "Web developers",
+        "Front-end development",
+        "Back-end development",
+        "Web development tools",
+        "Web application development",
+        "CMS website",
+        "E-commerce website",
+        "Mobile web",
+        "Web accessibility",
+        "Web development company"
+      ]
+    },
+    {
+      "label": "Web Design Software",
+      "relevance": 0.6,
+      "description": "Software used for designing and developing websites.",
+      "nouns": [
+        "Wix",
+        "Adobe Muse",
+        "Squarespace",
+        "Xara Web Designer",
+        "Drupal",
+        "WordPress",
+        "Magento",
+        "Joomla",
+        "UI/UX designer",
+        "Web editor"
+      ],
+      "subtopics": [
+        "Wix",
+        "Adobe Muse",
+        "Squarespace",
+        "Xara Web Designer",
+        "Drupal",
+        "WordPress",
+        "Magento",
+        "Joomla",
+        "UI/UX designer",
+        "Web editor"
+      ]
+    },
+    {
+      "label": "Web Design Agencies",
+      "relevance": 0.6,
+      "description": "Companies that specialize in web design and development services.",
+      "nouns": [
+        "Web design agency",
+        "Web development agency",
+        "Freelance web designer",
+        "Graphic design agency",
+        "London design agency",
+        "Digital agency",
+        "UX agency",
+        "Web design company",
+        "Web designer jobs",
+        "Web designer portfolio"
+      ],
+      "subtopics": [
+        "Web design agency",
+        "Web development agency",
+        "Freelance web designer",
+        "Graphic design agency",
+        "London design agency",
+        "Digital agency",
+        "UX agency",
+        "Web design company",
+        "Web designer jobs",
+        "Web designer portfolio"
+      ]
+    },
+    {
+      "label": "Web Design Tools",
+      "relevance": 0.6,
+      "description": "Tools used for designing and developing websites.",
+      "nouns": [
+        "Wireframe tools",
+        "PSD to HTML",
+        "Form builder",
+        "Leaflet designer",
+        "HTML5 banner",
+        "Continuous deployment",
+        "Peak design",
+        "Vertical slider",
+        "Form creator",
+        "Web development tools"
+      ],
+      "subtopics": [
+        "Wireframe tools",
+        "PSD to HTML",
+        "Form builder",
+        "Leaflet designer",
+        "HTML5 banner",
+        "Continuous deployment",
+        "Peak design",
+        "Vertical slider",
+        "Form creator",
+        "Web development tools"
+      ]
+    },
+    {
+      "label": "Web Design Education",
+      "relevance": 0.4,
+      "description": "Education and training related to web design and development.",
+      "nouns": [
+        "Web design courses",
+        "Web design apprenticeships",
+        "UX design course",
+        "Online web design courses",
+        "Learn javascript",
+        "Web design blog",
+        "Web design trends",
+        "Episerver",
+        "Drupal 8",
+        "Web design awards"
+      ],
+      "subtopics": [
+        "Web design courses",
+        "Web design apprenticeships",
+        "UX design course",
+        "Online web design courses",
+        "Learn javascript",
+        "Web design blog",
+        "Web design trends",
+        "Episerver",
+        "Drupal 8",
+        "Web design awards"
+      ]
+    },
+    {
+      "label": "Web Design Resources",
+      "relevance": 0.4,
+      "description": "Resources for web designers and developers.",
+      "nouns": [
+        "Web page templates",
+        "Tutorial website",
+        "Web design forum",
+        "Web design software",
+        "Web design gallery",
+        "Web design examples",
+        "Web design templates",
+        "Web design blog",
+        "Web design quotes",
+        "Web design scarborough"
+      ],
+      "subtopics": [
+        "Web page templates",
+        "Tutorial website",
+        "Web design forum",
+        "Web design software",
+        "Web design gallery",
+        "Web design examples",
+        "Web design templates",
+        "Web design blog",
+        "Web design quotes",
+        "Web design scarborough"
+      ]
+    },
+    {
+      "label": "Web Design Services",
+      "relevance": 0.4,
+      "description": "Services related to web design and development.",
+      "nouns": [
+        "Web design company london",
+        "Web design surrey",
+        "Web design hampshire",
+        "Web design northampton",
+        "Web design liverpool",
+        "Web design manchester",
+        "Web design swindon",
+        "Web design taunton",
+        "Web design lancaster",
+        "Web design bury st edmunds"
+      ],
+      "subtopics": [
+        "Web design company london",
+        "Web design surrey",
+        "Web design hampshire",
+        "Web design northampton",
+        "Web design liverpool",
+        "Web design manchester",
+        "Web design swindon",
+        "Web design taunton",
+        "Web design lancaster",
+        "Web design bury st edmunds"
+      ]
+    },
+    {
+      "label": "Web Design Markets",
+      "relevance": 0.2,
+      "description": "Specific markets related to web design and development.",
+      "nouns": [
+        "Ecommerce design",
+        "Medical website design",
+        "Charity website design",
+        "Recruitment website design",
+        "Retail design agency",
+        "Website redesign",
+        "Website makers",
+        "Website platforms",
+        "Artist websites",
+        "Websites for sale"
+     

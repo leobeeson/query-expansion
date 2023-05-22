@@ -1,0 +1,211 @@
+{
+  "label": "Snacks and Nuts",
+  "description": "A variety of snacks and nuts available for purchase online or in-store.",
+  "intents": [
+    "Find and purchase snacks and nuts",
+    "Discover new snack options",
+    "Compare prices and brands"
+  ],
+  "subcategories": [
+    {
+      "label": "Popcorn",
+      "relevance": 0.8,
+      "description": "A variety of popcorn flavors and brands.",
+      "nouns": [
+        "Popcorn kernels",
+        "Popcorn seasoning",
+        "Popcorn toppings",
+        "Popcorn machine",
+        "Popcorn containers",
+        "Popcorn gifts",
+        "Ready to pop popcorn",
+        "Flavored popcorn kernels",
+        "Sweet popcorn",
+        "Low fat popcorn"
+      ],
+      "subtopics": [
+        "Flavored popcorn",
+        "Microwave popcorn",
+        "Popcorn seasoning",
+        "Popcorn containers",
+        "Popcorn gifts"
+      ]
+    },
+    {
+      "label": "Nuts",
+      "relevance": 0.8,
+      "description": "A variety of nuts available for purchase online or in-store.",
+      "nouns": [
+        "Brazil nuts",
+        "Dry roasted peanuts",
+        "Organic almonds",
+        "Salted pistachios",
+        "Walnuts",
+        "Cashew nuts",
+        "Peanuts in shell",
+        "Activated almonds",
+        "Pistachio kernels",
+        "Raw peanuts"
+      ],
+      "subtopics": [
+        "Organic nuts",
+        "Roasted nuts",
+        "Salted nuts",
+        "Unsalted nuts",
+        "Mixed nuts"
+      ]
+    },
+    {
+      "label": "Crackers",
+      "relevance": 0.7,
+      "description": "A variety of crackers available for purchase online or in-store.",
+      "nouns": [
+        "Saltine crackers",
+        "Lobster crackers",
+        "Asda crackers",
+        "Rye crackers",
+        "Crisp bread",
+        "Jacobs cracker",
+        "Cheese crackers",
+        "Wheat crackers",
+        "Potato sticks",
+        "Rice crackers"
+      ],
+      "subtopics": [
+        "Cheese crackers",
+        "Wheat crackers",
+        "Rice crackers",
+        "Gluten-free crackers",
+        "Low-fat crackers"
+      ]
+    },
+    {
+      "label": "Biltong and Jerky",
+      "relevance": 0.6,
+      "description": "A variety of biltong and jerky available for purchase online or in-store.",
+      "nouns": [
+        "Chichester biltong",
+        "Cruga biltong",
+        "Beef jerky UK",
+        "Turkey jerky",
+        "Susmans biltong",
+        "St Marcus biltong",
+        "Oinks crisps",
+        "Bitter almonds",
+        "Pork scratchings",
+        "Smoked almonds"
+      ],
+      "subtopics": [
+        "Beef jerky",
+        "Turkey jerky",
+        "Biltong sticks",
+        "Biltong bites",
+        "Pork scratchings"
+      ]
+    },
+    {
+      "label": "Chips and Crisps",
+      "relevance": 0.6,
+      "description": "A variety of chips and crisps available for purchase online or in-store.",
+      "nouns": [
+        "Flamin hot cheetos",
+        "Salt and vinegar crisps",
+        "Belvita biscuits",
+        "Walkers pickled onion crisps",
+        "Tyrells popcorn",
+        "Cheese crisps",
+        "Sweet chilli crisps",
+        "Kp crisps",
+        "Pringles crisps",
+        "Golden wonder crisps"
+      ],
+      "subtopics": [
+        "Potato chips",
+        "Tortilla chips",
+        "Pita chips",
+        "Cheese crisps",
+        "Popchips"
+      ]
+    },
+    {
+      "label": "Dried Fruit",
+      "relevance": 0.5,
+      "description": "A variety of dried fruit available for purchase online or in-store.",
+      "nouns": [
+        "Fresh dates",
+        "Dried prunes",
+        "Dried cranberries",
+        "Dried fig",
+        "Dried raspberries",
+        "Dried blueberries",
+        "Dried banana",
+        "Dried apple",
+        "Dried pineapple",
+        "Deglet nour dates"
+      ],
+      "subtopics": [
+        "Organic dried fruit",
+        "Mixed dried fruit",
+        "Dried fruit snacks",
+        "Freeze-dried fruit",
+        "Dried fruit for baking"
+      ]
+    },
+    {
+      "label": "Biscuits",
+      "relevance": 0.5,
+      "description": "A variety of biscuits available for purchase online or in-store.",
+      "nouns": [
+        "Chocolate digestives",
+        "Glace cherries",
+        "Family circle biscuits",
+        "Carr's table water biscuits",
+        "Biscoff biscuits",
+        "McVities digestive",
+        "Victoria biscuits",
+        "Fox's biscuits",
+        "Hello panda",
+        "Gold bar biscuit"
+      ],
+      "subtopics": [
+        "Chocolate biscuits",
+        "Digestive biscuits",
+        "Shortbread biscuits",
+        "Gluten-free biscuits",
+        "Low-fat biscuits"
+      ]
+    },
+    {
+      "label": "Seaweed Snacks",
+      "relevance": 0.4,
+      "description": "A variety of seaweed snacks available for purchase online or in-store.",
+      "nouns": [
+        "Itsu seaweed thins",
+        "Its crispy seaweed",
+        "Roasted seaweed",
+        "Crispy seaweed",
+        "Seaweed snacks",
+        "Dried seaweed",
+        "Nori sheets",
+        "Wakame seaweed",
+        "Kombu seaweed",
+        "Hijiki seaweed"
+      ],
+      "subtopics": [
+        "Roasted seaweed",
+        "Crispy seaweed",
+        "Seaweed snacks",
+        "Nori sheets",
+        "Dried seaweed"
+      ]
+    },
+    {
+      "label": "Fruit Juice",
+      "relevance": 0.4,
+      "description": "A variety of fruit juice available for purchase online or in-store.",
+      "nouns": [
+        "Tart cherry juice",
+        "Prune juice",
+        "Sour cherry juice",
+        "Cherry juice concentrate",
+        "Cranberry

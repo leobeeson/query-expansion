@@ -1,0 +1,121 @@
+{
+    "label": "Fashion and Celebrity Merchandise",
+    "description": "Market category for fashion and celebrity merchandise, including clothing, accessories, and beauty products.",
+    "intents": [
+        "Purchase clothing and accessories worn by celebrities",
+        "Find beauty products used by celebrities",
+        "Shop for trendy fashion items"
+    ],
+    "subcategories": [
+        {
+            "label": "Celebrity Clothing",
+            "relevance": 0.9,
+            "description": "Clothing items worn by celebrities or inspired by their style.",
+            "nouns": [
+                "dresses",
+                "jeans",
+                "shorts",
+                "tops",
+                "sunglasses",
+                "swimwear",
+                "bikinis",
+                "jumpsuits",
+                "skirts",
+                "leather jackets"
+            ],
+            "subtopics": [
+                "Kardashian clothing",
+                "Victoria Beckham fashion",
+                "Myleene Klass dresses"
+            ]
+        },
+        {
+            "label": "Celebrity Beauty",
+            "relevance": 0.8,
+            "description": "Beauty products used by celebrities or recommended by them.",
+            "nouns": [
+                "makeup",
+                "lipstick",
+                "eyeshadow",
+                "brushes",
+                "fragrances",
+                "skincare",
+                "haircare",
+                "nail polish",
+                "mascara",
+                "eyeliner"
+            ],
+            "subtopics": [
+                "Ariana Grande makeup",
+                "Dita Von Teese makeup",
+                "Kylie Jenner eyeshadow"
+            ]
+        },
+        {
+            "label": "Celebrity Accessories",
+            "relevance": 0.7,
+            "description": "Accessories worn by celebrities or inspired by their style.",
+            "nouns": [
+                "handbags",
+                "jewelry",
+                "watches",
+                "hats",
+                "belts",
+                "scarves",
+                "sunglasses",
+                "anklets",
+                "bracelets",
+                "earrings"
+            ],
+            "subtopics": [
+                "David Beckham boots",
+                "Kim Kardashian sunglasses",
+                "Victoria Beckham handbags"
+            ]
+        },
+        {
+            "label": "Fashion Trends",
+            "relevance": 0.6,
+            "description": "Trendy fashion items and styles.",
+            "nouns": [
+                "mom shorts",
+                "leather skirts",
+                "thigh-high boots",
+                "bardot tops",
+                "midi skirts",
+                "denim dresses",
+                "lace shorts",
+                "skater skirts",
+                "block heels",
+                "over-the-knee boots"
+            ],
+            "subtopics": [
+                "Denim skirt outfit",
+                "Thigh-high boots outfit",
+                "Bardot top white"
+            ]
+        },
+        {
+            "label": "Celebrity Merchandise",
+            "relevance": 0.5,
+            "description": "Merchandise related to celebrities, such as books, calendars, and dolls.",
+            "nouns": [
+                "books",
+                "calendars",
+                "dolls",
+                "posters",
+                "mugs",
+                "vinyls",
+                "t-shirts",
+                "perfumes",
+                "makeup bags",
+                "socks"
+            ],
+            "subtopics": [
+                "Justin Bieber gifts",
+                "Donald Trump merchandise",
+                "Madonna fancy dress"
+            ]
+        }
+    ]
+}

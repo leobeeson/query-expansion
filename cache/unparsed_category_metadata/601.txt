@@ -1,0 +1,131 @@
+{
+  "label": "Classic Cars",
+  "description": "Vintage cars and motorcycles for sale in the UK and USA.",
+  "intents": [
+    "Buy a classic car",
+    "Sell a classic car",
+    "Find parts for a classic car"
+  ],
+  "subcategories": [
+    {
+      "label": "British Cars",
+      "relevance": 0.8,
+      "description": "Classic cars and motorcycles made in the UK.",
+      "nouns": [
+        "Triumph",
+        "Jaguar",
+        "Morris Minor",
+        "Rolls Royce",
+        "Austin Healey",
+        "MG",
+        "Hillman",
+        "Rover",
+        "Lotus",
+        "Ford Capri"
+      ],
+      "subtopics": [
+        "Triumph Spitfire",
+        "Jaguar E-Type",
+        "Morris Minor Pickup",
+        "Rolls Royce 20/25",
+        "Austin Healey 3000",
+        "MG Midget",
+        "Hillman Hunter",
+        "Rover P6",
+        "Lotus Elan",
+        "Ford Capri Mk1"
+      ]
+    },
+    {
+      "label": "American Cars",
+      "relevance": 0.7,
+      "description": "Classic cars and muscle cars made in the USA.",
+      "nouns": [
+        "Ford Mustang",
+        "Chevrolet Impala",
+        "Pontiac Firebird",
+        "Dodge Charger",
+        "Cobra",
+        "Trans Am",
+        "Rat Rod",
+        "Muscle Cars",
+        "Hot Rods",
+        "American Truck Imports"
+      ],
+      "subtopics": [
+        "Ford Mustang 1967",
+        "Chevrolet Impala 1957",
+        "Pontiac Firebird for sale UK",
+        "Dodge Charger for sale",
+        "Cobra kit car",
+        "Trans Am for sale",
+        "Rat Rod for sale UK",
+        "Muscle cars for sale UK",
+        "Hot rods for sale UK",
+        "American truck imports UK"
+      ]
+    },
+    {
+      "label": "Motorcycles",
+      "relevance": 0.5,
+      "description": "Classic motorcycles for sale in the UK and USA.",
+      "nouns": [
+        "Triumph Motorcycles",
+        "BSA Motorcycles",
+        "Indian Motorcycles",
+        "Norton Motorcycles",
+        "Metisse Motorcycles",
+        "Vintage Bikes",
+        "Ducati Scrambler",
+        "Ariel Arrow",
+        "Manx Norton",
+        "British Classic Motorcycles"
+      ],
+      "subtopics": [
+        "Triumph Bonneville",
+        "BSA B31",
+        "Indian Scout",
+        "Norton Commando",
+        "Metisse Motorcycles price",
+        "Vintage Raleigh bikes",
+        "Ducati Scrambler for sale",
+        "Ariel Arrow for sale",
+        "Manx Norton for sale",
+        "British classic motorcycles for sale"
+      ]
+    },
+    {
+      "label": "Accessories and Parts",
+      "relevance": 0.4,
+      "description": "Parts and accessories for classic cars and motorcycles.",
+      "nouns": [
+        "Classic Car Parts",
+        "MG Parts",
+        "MGB Parts",
+        "Triumph Spitfire Parts",
+        "Midget Parts",
+        "Rover P4 Parts",
+        "Morgan Plus 4",
+        "123 Ignition",
+        "Cosy Coupe Truck",
+        "Vintage Car Parts"
+      ],
+      "subtopics": [
+        "Classic Car Restoration",
+        "MGB Restoration",
+        "Spitfire Restoration",
+        "MG Midget Restoration",
+        "Classic Car Covers",
+        "Classic Car Financing",
+        "Classic Car Insurance",
+        "Classic Car Storage",
+        "Classic Car Projects",
+        "Vintage Car Shows"
+      ]
+    },
+    {
+      "label": "Other Vehicles",
+      "relevance": 0.3,
+      "description": "Other types of vintage vehicles for sale.",
+      "nouns": [
+        "Steam

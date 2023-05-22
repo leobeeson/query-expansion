@@ -1,0 +1,218 @@
+{
+  "label": "Fuel and Energy",
+  "description": "Market category encompassing search queries related to fuel and energy products, services, and information.",
+  "intents": [
+    "Find the best prices for fuel and energy products.",
+    "Learn about different types of fuel and energy products.",
+    "Find suppliers and delivery services for fuel and energy products.",
+    "Find jobs in the fuel and energy industry.",
+    "Learn about fuel and energy additives and treatments.",
+    "Find information on fuel and energy regulations and safety.",
+    "Find information on alternative and renewable energy sources."
+  ],
+  "subcategories": [
+    {
+      "label": "Fuel Additives",
+      "relevance": 0.8,
+      "description": "Products that improve the performance and efficiency of fuel.",
+      "nouns": [
+        "Diesel fuel",
+        "Gasoline",
+        "Cetane booster",
+        "Diesel treatment",
+        "Diesel cleaner",
+        "Octane booster",
+        "Fuel stabilizer",
+        "Fuel system cleaner",
+        "Diesel power",
+        "Fuel injector cleaner"
+      ],
+      "subtopics": [
+        "Diesel fuel additives",
+        "Gasoline additives",
+        "Performance enhancers",
+        "Fuel economy",
+        "Fuel efficiency"
+      ]
+    },
+    {
+      "label": "Fuel Delivery",
+      "relevance": 0.7,
+      "description": "Services that deliver fuel to homes, businesses, and other locations.",
+      "nouns": [
+        "Heating oil",
+        "Diesel delivery",
+        "Gas delivery",
+        "Propane delivery",
+        "LPG delivery",
+        "Calor gas delivery",
+        "Fuel tank",
+        "Oil tank",
+        "Gas cylinder",
+        "Fuel bowser"
+      ],
+      "subtopics": [
+        "Home fuel delivery",
+        "Commercial fuel delivery",
+        "Emergency fuel delivery",
+        "Fuel tank installation",
+        "Fuel tank maintenance"
+      ]
+    },
+    {
+      "label": "Fuel Types",
+      "relevance": 0.7,
+      "description": "Different types of fuel used for various purposes.",
+      "nouns": [
+        "Diesel fuel",
+        "Gasoline",
+        "Kerosene",
+        "LPG",
+        "Propane",
+        "Biofuels",
+        "Ethanol",
+        "Red diesel",
+        "Biodiesel",
+        "Hydrogen fuel"
+      ],
+      "subtopics": [
+        "Alternative fuels",
+        "Renewable fuels",
+        "Fossil fuels",
+        "Biofuels",
+        "Hydrogen fuel cells"
+      ]
+    },
+    {
+      "label": "Fuel Cards",
+      "relevance": 0.6,
+      "description": "Cards that offer discounts and other benefits for fuel purchases.",
+      "nouns": [
+        "Fuel card",
+        "Petrol card",
+        "Diesel card",
+        "Keyfuels card",
+        "Allstar fuel card",
+        "Fuel card management",
+        "Fuel card services",
+        "Business fuel cards",
+        "Personal fuel cards",
+        "Fuel card rewards"
+      ],
+      "subtopics": [
+        "Fuel card providers",
+        "Fuel card benefits",
+        "Fuel card fees",
+        "Fuel card usage",
+        "Fuel card security"
+      ]
+    },
+    {
+      "label": "Heating and Cooling",
+      "relevance": 0.6,
+      "description": "Products and services related to heating and cooling systems.",
+      "nouns": [
+        "Heating oil",
+        "Boilers",
+        "Pellet boilers",
+        "LPG heaters",
+        "Propane heaters",
+        "Air conditioning",
+        "Heat pumps",
+        "Radiators",
+        "Thermostats",
+        "Insulation"
+      ],
+      "subtopics": [
+        "Heating system installation",
+        "Heating system maintenance",
+        "Heating system repair",
+        "Cooling system installation",
+        "Cooling system maintenance"
+      ]
+    },
+    {
+      "label": "Gas and Propane",
+      "relevance": 0.5,
+      "description": "Products and services related to gas and propane fuel.",
+      "nouns": [
+        "LPG tanks",
+        "Propane tanks",
+        "Gas regulators",
+        "Gas fittings",
+        "Gas bottles",
+        "Gas canisters",
+        "Gas heaters",
+        "Gas fireplaces",
+        "Gas grills",
+        "Gas stoves"
+      ],
+      "subtopics": [
+        "Gas safety",
+        "Gas installation",
+        "Gas maintenance",
+        "Gas repair",
+        "Gas suppliers"
+      ]
+    },
+    {
+      "label": "Renewable Energy",
+      "relevance": 0.5,
+      "description": "Products and services related to renewable energy sources.",
+      "nouns": [
+        "Solar panels",
+        "Wind turbines",
+        "Hydroelectric power",
+        "Geothermal energy",
+        "Biomass energy",
+        "Fuel cells",
+        "Energy storage",
+        "Energy efficiency",
+        "Green energy",
+        "Carbon credits"
+      ],
+      "subtopics": [
+        "Renewable energy installation",
+        "Renewable energy maintenance",
+        "Renewable energy financing",
+        "Renewable energy incentives",
+        "Renewable energy regulations"
+      ]
+    },
+    {
+      "label": "Oil and Gas Industry",
+      "relevance": 0.4,
+      "description": "Information and services related to the oil and gas industry.",
+      "nouns": [
+        "Oil rigs",
+        "Oil and gas jobs",
+        "Oil and gas recruitment",
+        "Oil and gas prices",
+        "Oil and gas exploration",
+        "Oil and gas regulations",
+        "Oil and gas safety",
+        "Oil and gas investing",
+        "Oil and gas consulting",
+        "Oil and gas news"
+      ],
+      "subtopics": [
+        "Oil and gas production",
+        "Oil and gas transportation",
+        "Oil and gas refining",
+        "Oil and gas marketing",
+        "Oil and gas technology"
+      ]
+    },
+    {
+      "label": "Alternative Fuels",
+      "relevance": 0.4,
+      "description": "Products and services related to alternative fuel sources.",
+      "nouns": [
+        "Electric vehicles",
+        "Hybrid vehicles",
+        "Biofuels",
+        "Hydrogen fuel cells",
+        "Natural gas vehicles",
+        "Propane vehicles",
+        "Biodiesel",
+        "

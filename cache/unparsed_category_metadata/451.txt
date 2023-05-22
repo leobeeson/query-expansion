@@ -1,0 +1,224 @@
+{
+  "label": "Fashion Hoodies and Sweatshirts",
+  "description": "Clothing items made of soft, warm, and comfortable materials, designed for casual wear and outdoor activities.",
+  "intents": [
+    "Stay warm and comfortable in cold weather",
+    "Express personal style and fashion sense",
+    "Find clothing suitable for outdoor activities"
+  ],
+  "subcategories": [
+    {
+      "label": "Men's Hoodies",
+      "relevance": 0.8,
+      "description": "Hooded sweatshirts designed for men.",
+      "nouns": [
+        "Zip-up hoodie",
+        "Pullover hoodie",
+        "Sleeveless hoodie",
+        "Fleece hoodie",
+        "Camo hoodie",
+        "Grey hoodie",
+        "Black hoodie",
+        "Red hoodie",
+        "Green hoodie",
+        "Khaki hoodie"
+      ],
+      "subtopics": [
+        "Zip-up",
+        "Pullover",
+        "Sleeveless",
+        "Fleece",
+        "Camo",
+        "Grey",
+        "Black",
+        "Red",
+        "Green",
+        "Khaki"
+      ]
+    },
+    {
+      "label": "Women's Hoodies",
+      "relevance": 0.7,
+      "description": "Hooded sweatshirts designed for women.",
+      "nouns": [
+        "Zip-up hoodie",
+        "Pullover hoodie",
+        "Cropped hoodie",
+        "Grey hoodie",
+        "Black hoodie",
+        "Red hoodie",
+        "Green hoodie",
+        "Tan hoodie",
+        "Pink hoodie",
+        "White hoodie"
+      ],
+      "subtopics": [
+        "Zip-up",
+        "Pullover",
+        "Cropped",
+        "Grey",
+        "Black",
+        "Red",
+        "Green",
+        "Tan",
+        "Pink",
+        "White"
+      ]
+    },
+    {
+      "label": "Sweatshirts",
+      "relevance": 0.6,
+      "description": "Casual, comfortable, and warm clothing items without a hood.",
+      "nouns": [
+        "Grey sweatshirt",
+        "Black sweatshirt",
+        "Red sweatshirt",
+        "Green sweatshirt",
+        "Cropped sweatshirt",
+        "Fleece sweatshirt",
+        "Velvet sweatshirt",
+        "Embroidered sweatshirt",
+        "Whistles sweatshirt",
+        "Asos sweatshirt"
+      ],
+      "subtopics": [
+        "Grey",
+        "Black",
+        "Red",
+        "Green",
+        "Cropped",
+        "Fleece",
+        "Velvet",
+        "Embroidered",
+        "Whistles",
+        "Asos"
+      ]
+    },
+    {
+      "label": "Designer Hoodies",
+      "relevance": 0.5,
+      "description": "Hooded sweatshirts designed by luxury fashion brands.",
+      "nouns": [
+        "Tommy Hilfiger hoodie",
+        "Armani zip hoodie",
+        "Hugo Boss sweatshirt",
+        "Ralph Lauren hoodie",
+        "Versace hoodie",
+        "Moschino hoodie",
+        "Kenzo hoodie",
+        "Vetements hoodie",
+        "Palace hoodie",
+        "Bape hoodie"
+      ],
+      "subtopics": [
+        "Tommy Hilfiger",
+        "Armani",
+        "Hugo Boss",
+        "Ralph Lauren",
+        "Versace",
+        "Moschino",
+        "Kenzo",
+        "Vetements",
+        "Palace",
+        "Bape"
+      ]
+    },
+    {
+      "label": "Kids' Hoodies",
+      "relevance": 0.4,
+      "description": "Hooded sweatshirts designed for children.",
+      "nouns": [
+        "Boys sweatshirts",
+        "Girls hoodies",
+        "Pokemon hoodie",
+        "Spiderman hoodie",
+        "Wolf hoodie",
+        "Toothless hoodie",
+        "Unicorn hoodie",
+        "AJ hoodie",
+        "Stilinski hoodie",
+        "Dreamville hoodie"
+      ],
+      "subtopics": [
+        "Boys",
+        "Girls",
+        "Pokemon",
+        "Spiderman",
+        "Wolf",
+        "Toothless",
+        "Unicorn",
+        "AJ",
+        "Stilinski",
+        "Dreamville"
+      ]
+    },
+    {
+      "label": "Novelty Hoodies",
+      "relevance": 0.3,
+      "description": "Hooded sweatshirts with unique and creative designs.",
+      "nouns": [
+        "Dinosaur hoodie",
+        "Firetrap hoodies",
+        "Disney hoodies",
+        "Attack on Titan hoodie",
+        "Justin Bieber hoodie",
+        "Vape hoodie",
+        "Supreme hoodie",
+        "Geek hoodies",
+        "Twitch hoodie",
+        "Assassins Creed hoodie"
+      ],
+      "subtopics": [
+        "Dinosaur",
+        "Firetrap",
+        "Disney",
+        "Attack on Titan",
+        "Justin Bieber",
+        "Vape",
+        "Supreme",
+        "Geek",
+        "Twitch",
+        "Assassins Creed"
+      ]
+    },
+    {
+      "label": "Plain Hoodies",
+      "relevance": 0.2,
+      "description": "Hooded sweatshirts without any designs or patterns.",
+      "nouns": [
+        "Grey hoodie",
+        "Black hoodie",
+        "Red hoodie",
+        "Green hoodie",
+        "Khaki hoodie",
+        "Navy hoodie",
+        "Pink hoodie",
+        "Yellow hoodie",
+        "Brown hoodie",
+        "Beige hoodie"
+      ],
+      "subtopics": [
+        "Grey",
+        "Black",
+        "Red",
+        "Green",
+        "Khaki",
+        "Navy",
+        "Pink",
+        "Yellow",
+        "Brown",
+        "Beige"
+      ]
+    },
+    {
+      "label": "Zip-up Hoodies",
+      "relevance": 0.1,
+      "description": "Hooded sweatshirts with a zipper in the front.",
+      "nouns": [
+        "Stone Island zipper",
+        "Superdry zip hoodie",
+        "Black zip up hoodie",
+        "North Face hoodie",
+        "Converse hoodie",
+        "Zip up hoodies",
+        "Adidas zip up hoodie",

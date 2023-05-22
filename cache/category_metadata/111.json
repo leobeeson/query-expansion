@@ -1,0 +1,164 @@
+{
+    "label": "Charity and Volunteering",
+    "description": "Market category encompassing search queries related to charity, volunteering, and social service jobs.",
+    "intents": [
+        "Find volunteer opportunities",
+        "Donate to charity",
+        "Learn about social service jobs",
+        "Raise money for charity"
+    ],
+    "subcategories": [
+        {
+            "label": "Volunteering",
+            "relevance": 0.8,
+            "description": "Opportunities to volunteer locally and abroad.",
+            "nouns": [
+                "Volunteer",
+                "Opportunities",
+                "Abroad",
+                "Local",
+                "Work"
+            ],
+            "subtopics": [
+                "International",
+                "Local",
+                "With animals",
+                "With children",
+                "Environmental"
+            ]
+        },
+        {
+            "label": "Donations",
+            "relevance": 0.7,
+            "description": "Ways to donate money, clothes, and other items to charity.",
+            "nouns": [
+                "Donations",
+                "Money",
+                "Clothes",
+                "Items",
+                "Charity"
+            ],
+            "subtopics": [
+                "Clothes",
+                "Money",
+                "Christmas",
+                "Children",
+                "Furniture"
+            ]
+        },
+        {
+            "label": "Fundraising",
+            "relevance": 0.6,
+            "description": "Ideas and events for raising money for charity.",
+            "nouns": [
+                "Fundraising",
+                "Ideas",
+                "Events",
+                "Money",
+                "Charity"
+            ],
+            "subtopics": [
+                "Events",
+                "Ideas",
+                "Online",
+                "For children",
+                "For animals"
+            ]
+        },
+        {
+            "label": "Social Service Jobs",
+            "relevance": 0.5,
+            "description": "Information about jobs in social services.",
+            "nouns": [
+                "Social service",
+                "Jobs",
+                "Information",
+                "Training",
+                "Qualifications"
+            ],
+            "subtopics": [
+                "Training",
+                "Qualifications",
+                "Salary",
+                "Requirements",
+                "Benefits"
+            ]
+        },
+        {
+            "label": "Addiction and Rehabilitation",
+            "relevance": 0.4,
+            "description": "Information and resources for addiction and rehabilitation.",
+            "nouns": [
+                "Addiction",
+                "Rehabilitation",
+                "Information",
+                "Resources",
+                "Help"
+            ],
+            "subtopics": [
+                "Alcohol",
+                "Drugs",
+                "Support groups",
+                "Treatment",
+                "Recovery"
+            ]
+        },
+        {
+            "label": "Animal Welfare",
+            "relevance": 0.3,
+            "description": "Information and opportunities to volunteer with animals.",
+            "nouns": [
+                "Animal welfare",
+                "Volunteer",
+                "Opportunities",
+                "Information",
+                "Charity"
+            ],
+            "subtopics": [
+                "Shelters",
+                "Rescue",
+                "Wildlife",
+                "Farm animals",
+                "Pet adoption"
+            ]
+        },
+        {
+            "label": "Children in Need",
+            "relevance": 0.2,
+            "description": "Information and opportunities to help children in need.",
+            "nouns": [
+                "Children",
+                "Need",
+                "Information",
+                "Opportunities",
+                "Charity"
+            ],
+            "subtopics": [
+                "Poverty",
+                "Education",
+                "Healthcare",
+                "Foster care",
+                "Adoption"
+            ]
+        },
+        {
+            "label": "Environmental Conservation",
+            "relevance": 0.1,
+            "description": "Information and opportunities to volunteer for environmental conservation.",
+            "nouns": [
+                "Environmental conservation",
+                "Volunteer",
+                "Opportunities",
+                "Information",
+                "Charity"
+            ],
+            "subtopics": [
+                "Climate change",
+                "Sustainability",
+                "Wildlife",
+                "Pollution",
+                "Renewable energy"
+            ]
+        }
+    ]
+}

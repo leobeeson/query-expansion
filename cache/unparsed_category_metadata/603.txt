@@ -1,0 +1,204 @@
+{
+  "label": "Kitchenware and Cutlery",
+  "description": "Products and tools used for cooking and food preparation.",
+  "intents": [
+    "Find high-quality kitchen knives.",
+    "Shop for kitchen gadgets and tools.",
+    "Buy cutlery sets for home use.",
+    "Find unique and personalized kitchen items.",
+    "Sharpen and maintain kitchen knives and tools."
+  ],
+  "subcategories": [
+    {
+      "label": "Kitchen Knives",
+      "relevance": 0.9,
+      "description": "Sharp blades used for cutting and slicing food.",
+      "nouns": [
+        "chef knife",
+        "paring knife",
+        "serrated knife",
+        "fillet knife",
+        "carving knife",
+        "bread knife",
+        "vegetable knife",
+        "Japanese knife",
+        "global knife",
+        "damascus knife"
+      ],
+      "subtopics": [
+        "Sharpening tools",
+        "Knife sets",
+        "Knife storage",
+        "Knife accessories",
+        "Specialty knives"
+      ]
+    },
+    {
+      "label": "Cookware and Bakeware",
+      "relevance": 0.8,
+      "description": "Pots, pans, and baking dishes used for cooking and baking.",
+      "nouns": [
+        "frying pan",
+        "saucepan",
+        "stockpot",
+        "roasting pan",
+        "baking sheet",
+        "cake pan",
+        "muffin tin",
+        "cast iron skillet",
+        "Dutch oven",
+        "casserole dish"
+      ],
+      "subtopics": [
+        "Non-stick cookware",
+        "Stainless steel cookware",
+        "Copper cookware",
+        "Cast iron cookware",
+        "Bakeware sets"
+      ]
+    },
+    {
+      "label": "Kitchen Gadgets",
+      "relevance": 0.7,
+      "description": "Small tools and appliances used for food preparation.",
+      "nouns": [
+        "spiralizer",
+        "mandoline",
+        "vegetable chopper",
+        "egg slicer",
+        "potato peeler",
+        "garlic press",
+        "can opener",
+        "meat thermometer",
+        "kitchen scale",
+        "blender"
+      ],
+      "subtopics": [
+        "Food processors",
+        "Mixers",
+        "Juicers",
+        "Coffee makers",
+        "Toasters"
+      ]
+    },
+    {
+      "label": "Cutlery Sets",
+      "relevance": 0.6,
+      "description": "Sets of knives, forks, and spoons for dining and entertaining.",
+      "nouns": [
+        "dinner knife",
+        "dinner fork",
+        "salad fork",
+        "teaspoon",
+        "soup spoon",
+        "steak knife",
+        "dessert spoon",
+        "serving spoon",
+        "serving fork",
+        "cake server"
+      ],
+      "subtopics": [
+        "Stainless steel sets",
+        "Silverware sets",
+        "Flatware sets",
+        "Specialty sets",
+        "Children's sets"
+      ]
+    },
+    {
+      "label": "Chopping Boards",
+      "relevance": 0.5,
+      "description": "Boards used for cutting and chopping food.",
+      "nouns": [
+        "wooden board",
+        "plastic board",
+        "bamboo board",
+        "glass board",
+        "marble board",
+        "slate board",
+        "end grain board",
+        "cheese board",
+        "bread board",
+        "pastry board"
+      ],
+      "subtopics": [
+        "Cutting board sets",
+        "Board care and maintenance",
+        "Specialty boards",
+        "Personalized boards",
+        "Large boards"
+      ]
+    },
+    {
+      "label": "Kitchen Storage",
+      "relevance": 0.4,
+      "description": "Containers and organizers for storing food and kitchen tools.",
+      "nouns": [
+        "food storage containers",
+        "spice rack",
+        "utensil holder",
+        "dish rack",
+        "bread bin",
+        "canister set",
+        "pot lid holder",
+        "wine rack",
+        "kitchen cart",
+        "pantry organizer"
+      ],
+      "subtopics": [
+        "Refrigerator storage",
+        "Drawer organizers",
+        "Cabinet organizers",
+        "Countertop storage",
+        "Specialty storage"
+      ]
+    },
+    {
+      "label": "Kitchen Linens",
+      "relevance": 0.3,
+      "description": "Textiles used in the kitchen for cleaning and drying.",
+      "nouns": [
+        "dish towel",
+        "dishcloth",
+        "apron",
+        "oven mitt",
+        "pot holder",
+        "tablecloth",
+        "placemat",
+        "napkin",
+        "dish drying mat",
+        "kitchen rug"
+      ],
+      "subtopics": [
+        "Specialty linens",
+        "Seasonal linens",
+        "Personalized linens",
+        "Bulk linens",
+        "Luxury linens"
+      ]
+    },
+    {
+      "label": "Outdoor Cooking",
+      "relevance": 0.2,
+      "description": "Tools and equipment used for cooking outdoors.",
+      "nouns": [
+        "grill",
+        "smoker",
+        "fire pit",
+        "camp stove",
+        "outdoor oven",
+        "grilling tools",
+        "propane tank",
+        "charcoal",
+        "wood chips",
+        "grill cover"
+      ],
+      "subtopics": [
+        "Grill accessories",
+        "Camping cookware",
+        "Outdoor dining sets",
+        "Firewood storage",
+        "Outdoor lighting"
+      ]
+    }
+  ]

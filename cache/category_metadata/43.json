@@ -1,0 +1,64 @@
+{
+    "label": "Horse Riding and Equestrian",
+    "description": "Market category encompassing horse riding lessons, holidays, and related products and services.",
+    "intents": [
+        "Learn to ride a horse",
+        "Book a horse riding holiday",
+        "Find a horse riding school",
+        "Buy horse riding equipment"
+    ],
+    "entities": [
+        "New Forest Riding Holidays",
+        "Horse Riding Lessons",
+        "Horse Riding Holidays UK",
+        "Riding Schools in Surrey",
+        "Equestrian Jobs Scotland"
+    ],
+    "subcategories": [
+        {
+            "label": "Horse Riding Holidays",
+            "relevance": 0.8,
+            "description": "Holidays that involve horse riding activities.",
+            "nouns": [
+                "Horse riding",
+                "Holidays",
+                "Vacations"
+            ],
+            "subtopics": [
+                "Horse riding holidays in the UK",
+                "Horse riding holidays in Spain",
+                "Horse riding holidays in the USA"
+            ]
+        },
+        {
+            "label": "Horse Riding Lessons",
+            "relevance": 0.7,
+            "description": "Lessons for learning how to ride a horse.",
+            "nouns": [
+                "Horse riding",
+                "Lessons",
+                "Training"
+            ],
+            "subtopics": [
+                "Horse riding lessons for beginners",
+                "Advanced horse riding lessons",
+                "Private horse riding lessons"
+            ]
+        },
+        {
+            "label": "Horse Riding Equipment",
+            "relevance": 0.6,
+            "description": "Equipment used for horse riding activities.",
+            "nouns": [
+                "Horse riding",
+                "Equipment",
+                "Gear"
+            ],
+            "subtopics": [
+                "Horse riding helmets",
+                "Horse riding boots",
+                "Horse riding saddles"
+            ]
+        }
+    ]
+}

@@ -7,7 +7,7 @@ from src.dal.query_set import QuerySet
 class DataLoader:
     
 
-    def __init__(self, data_path: str, category_id: int, num_samples: int = 400, seed: int = 235) -> None:
+    def __init__(self, category_id: int, data_path: str ="./data/trainSet.csv", num_samples: int = 400, seed: int = 235) -> None:
         self.data_path = data_path
         self.category_id = category_id
         self.num_samples = num_samples

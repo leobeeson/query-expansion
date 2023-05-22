@@ -1,0 +1,389 @@
+{
+  "query_audits": [
+    {
+      "query": "asda bath mat",
+      "relevance": 0.6
+    },
+    {
+      "query": "bathroom accessories sale",
+      "relevance": 0.4
+    },
+    {
+      "query": "stainless steel toothbrush holder",
+      "relevance": 0.5
+    },
+    {
+      "query": "heritage bathrooms spares",
+      "relevance": 0.4
+    },
+    {
+      "query": "wenko bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "shabby chic accessories uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "ikea bathroom mats",
+      "relevance": 0.6
+    },
+    {
+      "query": "soap dish",
+      "relevance": 0.5
+    },
+    {
+      "query": "rubber duck bathroom",
+      "relevance": 0.4
+    },
+    {
+      "query": "toilet roll cover",
+      "relevance": 0.7
+    },
+    {
+      "query": "b&q bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "orange bathroom",
+      "relevance": 0.4
+    },
+    {
+      "query": "designer bathroom accessories sets",
+      "relevance": 0.4
+    },
+    {
+      "query": "toothbrush holder asda",
+      "relevance": 0.5
+    },
+    {
+      "query": "tile shelf",
+      "relevance": 0.4
+    },
+    {
+      "query": "shower recessed shelf",
+      "relevance": 0.8
+    },
+    {
+      "query": "disney bathroom",
+      "relevance": 0.4
+    },
+    {
+      "query": "toilet roll holder",
+      "relevance": 0.7
+    },
+    {
+      "query": "cheap bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "dunelm shower caddy",
+      "relevance": 0.8
+    },
+    {
+      "query": "shower accessories argos",
+      "relevance": 0.8
+    },
+    {
+      "query": "orange bath mat",
+      "relevance": 0.6
+    },
+    {
+      "query": "black and gold bathroom",
+      "relevance": 0.4
+    },
+    {
+      "query": "ceramic soap dispenser",
+      "relevance": 0.5
+    },
+    {
+      "query": "ceramic utensil holder",
+      "relevance": 0.4
+    },
+    {
+      "query": "art deco bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "homebase bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "nautical bathroom accessories uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "makeup brush holder pot",
+      "relevance": 0.4
+    },
+    {
+      "query": "marble utensil holder",
+      "relevance": 0.4
+    },
+    {
+      "query": "wilko bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "mirrors dunelm",
+      "relevance": 0.4
+    },
+    {
+      "query": "dunelm shower mats",
+      "relevance": 0.8
+    },
+    {
+      "query": "hairbrush holder",
+      "relevance": 0.4
+    },
+    {
+      "query": "toilet and basin sets",
+      "relevance": 0.4
+    },
+    {
+      "query": "pan handle cover",
+      "relevance": 0.4
+    },
+    {
+      "query": "b and q toilet roll holder",
+      "relevance": 0.7
+    },
+    {
+      "query": "bathroom accessories online",
+      "relevance": 0.4
+    },
+    {
+      "query": "croydex bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "wall mounted bathroom accessories set",
+      "relevance": 0.4
+    },
+    {
+      "query": "toilet seats dunelm",
+      "relevance": 0.7
+    },
+    {
+      "query": "dinosaur toothbrush holder",
+      "relevance": 0.5
+    },
+    {
+      "query": "christmas bathroom",
+      "relevance": 0.4
+    },
+    {
+      "query": "beach hut pictures for bathroom",
+      "relevance": 0.4
+    },
+    {
+      "query": "suction toothbrush holder",
+      "relevance": 0.5
+    },
+    {
+      "query": "accessory tray",
+      "relevance": 0.4
+    },
+    {
+      "query": "cool bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "make brush holder",
+      "relevance": 0.4
+    },
+    {
+      "query": "shower soap dish",
+      "relevance": 0.8
+    },
+    {
+      "query": "brass bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "kids bathroom set",
+      "relevance": 0.4
+    },
+    {
+      "query": "homebase toilet roll holder",
+      "relevance": 0.7
+    },
+    {
+      "query": "nautical bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "windsor bathrooms",
+      "relevance": 0.4
+    },
+    {
+      "query": "range bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "towel sets uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "bathroom essentials",
+      "relevance": 0.4
+    },
+    {
+      "query": "flamingo bathroom",
+      "relevance": 0.4
+    },
+    {
+      "query": "toothbrush holder wall",
+      "relevance": 0.5
+    },
+    {
+      "query": "toilet decor",
+      "relevance": 0.7
+    },
+    {
+      "query": "poundstretcher bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "luxury bathroom suites",
+      "relevance": 0.4
+    },
+    {
+      "query": "luxury bathroom sets",
+      "relevance": 0.4
+    },
+    {
+      "query": "brush baby chewable toothbrush",
+      "relevance": 0.4
+    },
+    {
+      "query": "personalised makeup brush holder",
+      "relevance": 0.4
+    },
+    {
+      "query": "debenhams bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "cassellie",
+      "relevance": 0.4
+    },
+    {
+      "query": "ulster weavers tea cosy",
+      "relevance": 0.4
+    },
+    {
+      "query": "beige bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "crystal bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "amazon bathroom sets",
+      "relevance": 0.4
+    },
+    {
+      "query": "barbie bathroom set",
+      "relevance": 0.4
+    },
+    {
+      "query": "b&q toilet roll holder",
+      "relevance": 0.7
+    },
+    {
+      "query": "kids toothbrush holder",
+      "relevance": 0.5
+    },
+    {
+      "query": "toilet roll holder uk",
+      "relevance": 0.7
+    },
+    {
+      "query": "hot water bottle cover knitting pattern",
+      "relevance": 0.4
+    },
+    {
+      "query": "towel racks",
+      "relevance": 0.8
+    },
+    {
+      "query": "seaside bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "white makeup brush holder",
+      "relevance": 0.4
+    },
+    {
+      "query": "toilet accessories",
+      "relevance": 0.7
+    },
+    {
+      "query": "wall toothbrush holder",
+      "relevance": 0.5
+    },
+    {
+      "query": "designer bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "corner shelf b&q",
+      "relevance": 0.8
+    },
+    {
+      "query": "hygienic toothbrush holder",
+      "relevance": 0.5
+    },
+    {
+      "query": "kids bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "suction toilet roll holder",
+      "relevance": 0.7
+    },
+    {
+      "query": "bathroom accessories set sale",
+      "relevance": 0.4
+    },
+    {
+      "query": "debenhams bath mats",
+      "relevance": 0.6
+    },
+    {
+      "query": "purple bathroom accessories sets",
+      "relevance": 0.4
+    },
+    {
+      "query": "beach bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "toilet roll cover doll",
+      "relevance": 0.7
+    },
+    {
+      "query": "keuco bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "slate bathroom accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "john lewis soap dish",
+      "relevance": 0.5
+    },
+    {
+      "query": "grey bathroom accessories uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "bathroom set accessories",
+      "relevance": 0.4
+    },
+    {
+      "query": "ebay bathroom accessories",
+      "relevance": 0.4

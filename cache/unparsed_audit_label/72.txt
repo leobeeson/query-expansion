@@ -1,0 +1,361 @@
+{
+  "query_audits": [
+    {
+      "query": "transport companies in felixstowe",
+      "relevance": 0.8
+    },
+    {
+      "query": "haulage prices",
+      "relevance": 0.8
+    },
+    {
+      "query": "film distribution jobs",
+      "relevance": 0
+    },
+    {
+      "query": "uk food supply chain",
+      "relevance": 0.4
+    },
+    {
+      "query": "heavy haulage manchester",
+      "relevance": 0.8
+    },
+    {
+      "query": "free fruit crates",
+      "relevance": 0.5
+    },
+    {
+      "query": "wholesale frozen fruit",
+      "relevance": 0.6
+    },
+    {
+      "query": "haulage job vacancies",
+      "relevance": 0.8
+    },
+    {
+      "query": "hiab haulage birmingham",
+      "relevance": 0.8
+    },
+    {
+      "query": "uk largest haulage companies",
+      "relevance": 0.8
+    },
+    {
+      "query": "pureed diet",
+      "relevance": 0.4
+    },
+    {
+      "query": "heavy haulage essex",
+      "relevance": 0.8
+    },
+    {
+      "query": "uk road haulage companies",
+      "relevance": 0.8
+    },
+    {
+      "query": "fresh vegetables suppliers",
+      "relevance": 0.4
+    },
+    {
+      "query": "pureed food molds suppliers uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "wholesale vegetable prices uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "transport companies in yorkshire",
+      "relevance": 0.8
+    },
+    {
+      "query": "haulage companies in bolton",
+      "relevance": 0.8
+    },
+    {
+      "query": "dysphagia meals",
+      "relevance": 0.4
+    },
+    {
+      "query": "bid for haulage",
+      "relevance": 0.8
+    },
+    {
+      "query": "beer wholesalers kent",
+      "relevance": 0.2
+    },
+    {
+      "query": "swindon haulage companies",
+      "relevance": 0.8
+    },
+    {
+      "query": "fruit punnets suppliers",
+      "relevance": 0.5
+    },
+    {
+      "query": "hormel thick and easy",
+      "relevance": 0.4
+    },
+    {
+      "query": "window companies south wales",
+      "relevance": 0.2
+    },
+    {
+      "query": "fresh vegetables uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "fresh vegetables",
+      "relevance": 0.4
+    },
+    {
+      "query": "fruit suppliers",
+      "relevance": 0.4
+    },
+    {
+      "query": "haulage loads uk",
+      "relevance": 0.8
+    },
+    {
+      "query": "haulage companies looking for hgv drivers",
+      "relevance": 0.8
+    },
+    {
+      "query": "heavy load transport",
+      "relevance": 0.8
+    },
+    {
+      "query": "leicester heavy haulage",
+      "relevance": 0.8
+    },
+    {
+      "query": "refrigerated transport scotland",
+      "relevance": 0.8
+    },
+    {
+      "query": "haulage companies in newcastle",
+      "relevance": 0.8
+    },
+    {
+      "query": "wholesale oranges",
+      "relevance": 0.6
+    },
+    {
+      "query": "polish haulage companies",
+      "relevance": 0.8
+    },
+    {
+      "query": "low loader transport costs",
+      "relevance": 0.8
+    },
+    {
+      "query": "haulage backloads",
+      "relevance": 0.8
+    },
+    {
+      "query": "beverage development company uk",
+      "relevance": 0.3
+    },
+    {
+      "query": "haulage companies bedfordshire",
+      "relevance": 0.8
+    },
+    {
+      "query": "wholesale fruit",
+      "relevance": 0.6
+    },
+    {
+      "query": "road haulage bristol",
+      "relevance": 0.8
+    },
+    {
+      "query": "fleet removals",
+      "relevance": 0.8
+    },
+    {
+      "query": "immingham transport jobs",
+      "relevance": 0.8
+    },
+    {
+      "query": "wholesale organic vegetables",
+      "relevance": 0.5
+    },
+    {
+      "query": "brit european transport jobs",
+      "relevance": 0.8
+    },
+    {
+      "query": "transport companies midlands",
+      "relevance": 0.8
+    },
+    {
+      "query": "haulage companies in suffolk",
+      "relevance": 0.8
+    },
+    {
+      "query": "farm foods frozen",
+      "relevance": 0.6
+    },
+    {
+      "query": "thick and easy uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "canute haulage jobs",
+      "relevance": 0.8
+    },
+    {
+      "query": "hormel thick and easy powder",
+      "relevance": 0.4
+    },
+    {
+      "query": "felixstowe container haulage",
+      "relevance": 0.8
+    },
+    {
+      "query": "uk ready meal market",
+      "relevance": 0.4
+    },
+    {
+      "query": "frozen farm foods",
+      "relevance": 0.6
+    },
+    {
+      "query": "felixstowe hauliers",
+      "relevance": 0.8
+    },
+    {
+      "query": "wholesale vegetables london",
+      "relevance": 0.5
+    },
+    {
+      "query": "food molds dysphagia uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "liquid thickener for dysphagia",
+      "relevance": 0.4
+    },
+    {
+      "query": "haulage companies south west",
+      "relevance": 0.8
+    },
+    {
+      "query": "greek food suppliers",
+      "relevance": 0.4
+    },
+    {
+      "query": "mulgrew transport jobs",
+      "relevance": 0.8
+    },
+    {
+      "query": "fiji water wholesale uk",
+      "relevance": 0.2
+    },
+    {
+      "query": "parcel distribution companies",
+      "relevance": 0.3
+    },
+    {
+      "query": "wholesale fruit and veg price list",
+      "relevance": 0.5
+    },
+    {
+      "query": "hgv jobs felixstowe",
+      "relevance": 0.8
+    },
+    {
+      "query": "heanor heavy haulage",
+      "relevance": 0.8
+    },
+    {
+      "query": "liquid thickener for swallowing problems",
+      "relevance": 0.4
+    },
+    {
+      "query": "haulage companies yorkshire",
+      "relevance": 0.8
+    },
+    {
+      "query": "transport companies in kent",
+      "relevance": 0.8
+    },
+    {
+      "query": "qed sameday courier ltd",
+      "relevance": 0.3
+    },
+    {
+      "query": "fortified drinks for elderly",
+      "relevance": 0.4
+    },
+    {
+      "query": "fruit and veg crates",
+      "relevance": 0.5
+    },
+    {
+      "query": "thick and easy thickener",
+      "relevance": 0.4
+    },
+    {
+      "query": "leicester heavy haulage jobs",
+      "relevance": 0.8
+    },
+    {
+      "query": "hgv walking floor jobs",
+      "relevance": 0.8
+    },
+    {
+      "query": "farmfoods frozen prawns",
+      "relevance": 0.6
+    },
+    {
+      "query": "haulage companies in west midlands",
+      "relevance": 0.8
+    },
+    {
+      "query": "fine foods uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "chicken factory west bromwich",
+      "relevance": 0.4
+    },
+    {
+      "query": "mansel davies jobs",
+      "relevance": 0.8
+    },
+    {
+      "query": "haulage companies blackpool",
+      "relevance": 0.8
+    },
+    {
+      "query": "light haulage companies",
+      "relevance": 0.8
+    },
+    {
+      "query": "pallet transport companies",
+      "relevance": 0.5
+    },
+    {
+      "query": "nutilis thickener",
+      "relevance": 0.4
+    },
+    {
+      "query": "fruit & veg suppliers",
+      "relevance": 0.4
+    },
+    {
+      "query": "largest haulage companies in uk",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap fruit crates",
+      "relevance": 0.5
+    },
+    {
+      "query": "organic fruits and vegetables wholesale",
+      "relevance": 0.5
+    },
+    {
+      "query": "3663 food service jobs",
+     

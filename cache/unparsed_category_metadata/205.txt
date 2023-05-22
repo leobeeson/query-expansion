@@ -1,0 +1,192 @@
+{
+  "label": "Management Consulting",
+  "description": "Advisory services provided to organizations to improve their performance and efficiency.",
+  "intents": [
+    "Find a management consulting job",
+    "Learn about management consulting careers",
+    "Hire a management consultant",
+    "Get ISO certification",
+    "Improve quality management",
+    "Manage tenders",
+    "Get help with retail management",
+    "Improve healthcare management",
+    "Get help with business growth",
+    "Improve supply chain management",
+    "Get help with regulatory compliance"
+  ],
+  "subcategories": [
+    {
+      "label": "ISO Certification",
+      "relevance": 0.8,
+      "description": "Certification of a company's quality management system to ISO standards.",
+      "nouns": [
+        "ISO certificate",
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 22301",
+        "UKAS certification",
+        "ISO standards"
+      ],
+      "subtopics": [
+        "ISO certification process",
+        "ISO certification cost",
+        "ISO certification benefits"
+      ]
+    },
+    {
+      "label": "Quality Management Consulting",
+      "relevance": 0.7,
+      "description": "Consulting services to improve quality management processes.",
+      "nouns": [
+        "Quality management consulting",
+        "OEE software",
+        "Sales pipeline management",
+        "Operational excellence consulting",
+        "ISO 9001 2015",
+        "ISO 9001 certification"
+      ],
+      "subtopics": [
+        "Quality management systems",
+        "Process improvement",
+        "Quality control",
+        "Quality assurance"
+      ]
+    },
+    {
+      "label": "Retail Management Consulting",
+      "relevance": 0.6,
+      "description": "Consulting services to improve retail management processes.",
+      "nouns": [
+        "Retail management consultants",
+        "Queue management",
+        "Visitor management",
+        "Market research consultant",
+        "Sales pipeline management"
+      ],
+      "subtopics": [
+        "Inventory management",
+        "Store layout optimization",
+        "Customer experience",
+        "Pricing strategy"
+      ]
+    },
+    {
+      "label": "Healthcare Consulting",
+      "relevance": 0.6,
+      "description": "Consulting services to improve healthcare management processes.",
+      "nouns": [
+        "Healthcare consulting",
+        "Healthcare consulting London",
+        "Medical consulting firms",
+        "Healthcare consulting firms"
+      ],
+      "subtopics": [
+        "Healthcare operations",
+        "Healthcare IT",
+        "Healthcare regulations",
+        "Healthcare finance"
+      ]
+    },
+    {
+      "label": "Interim Management",
+      "relevance": 0.5,
+      "description": "Temporary management services to fill gaps in leadership.",
+      "nouns": [
+        "Interim CFO",
+        "Interim director",
+        "Interim learning and development jobs",
+        "Interim management jobs",
+        "Interim engineering manager",
+        "Interim sales director",
+        "Interim headships",
+        "Interim recruitment agencies",
+        "Interim HR",
+        "Interim project manager",
+        "Interim FD roles",
+        "Interim headteacher",
+        "Interim executive",
+        "Interim procurement",
+        "Interim recruitment jobs",
+        "Interim management statement",
+        "Interim headteacher vacancies"
+      ],
+      "subtopics": [
+        "Interim leadership",
+        "Change management",
+        "Project management",
+        "Financial management"
+      ]
+    },
+    {
+      "label": "Business Growth Consulting",
+      "relevance": 0.5,
+      "description": "Consulting services to help businesses grow and expand.",
+      "nouns": [
+        "Business growth consultant",
+        "Business development intern",
+        "Business consulting companies",
+        "Small business consulting",
+        "Business consultant jobs",
+        "Business transformation consultant",
+        "Business plan consultant"
+      ],
+      "subtopics": [
+        "Market research",
+        "Marketing strategy",
+        "Sales strategy",
+        "Product development"
+      ]
+    },
+    {
+      "label": "IT Consulting",
+      "relevance": 0.4,
+      "description": "Consulting services to improve IT systems and processes.",
+      "nouns": [
+        "DevOps consulting",
+        "IoT consulting",
+        "Management consulting training",
+        "Management consulting internships",
+        "IT consultant jobs",
+        "Scala consulting",
+        "Data analytics companies",
+        "Data management consultant",
+        "Big data consultancy",
+        "Data consulting",
+        "Digital consulting firms",
+        "Net consulting",
+        "Digital marketing consultancy",
+        "API management",
+        "Software consultant"
+      ],
+      "subtopics": [
+        "IT strategy",
+        "IT project management",
+        "IT security",
+        "IT infrastructure"
+      ]
+    },
+    {
+      "label": "Change Management Consulting",
+      "relevance": 0.4,
+      "description": "Consulting services to help organizations manage change.",
+      "nouns": [
+        "Change consultant",
+        "Change management consultancy",
+        "Change management models NHS",
+        "Public sector management consulting",
+        "NHS change management model"
+      ],
+      "subtopics": [
+        "Organizational change",
+        "Crisis management",
+        "Employee engagement",
+        "Communication strategy"
+      ]
+    },
+    {
+      "label": "Freelance Consulting",
+      "relevance": 0.3,
+      "description": "Consulting services provided by independent consultants.",
+      "nouns": [
+        "Freelance recruitment consultant",
+        "Fre

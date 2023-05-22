@@ -1,0 +1,389 @@
+{
+  "query_audits": [
+    {
+      "query": "steampunk cane",
+      "relevance": 0
+    },
+    {
+      "query": "derby cane",
+      "relevance": 0
+    },
+    {
+      "query": "puppies for sale near bristol",
+      "relevance": 0.2
+    },
+    {
+      "query": "care cane",
+      "relevance": 0
+    },
+    {
+      "query": "cane screening",
+      "relevance": 0
+    },
+    {
+      "query": "puppies for sale in durham",
+      "relevance": 0.2
+    },
+    {
+      "query": "cane holder",
+      "relevance": 0
+    },
+    {
+      "query": "cocker spaniel puppies for sale near me",
+      "relevance": 0.8
+    },
+    {
+      "query": "cucciolo toilet brush",
+      "relevance": 0
+    },
+    {
+      "query": "cane & austin",
+      "relevance": 0
+    },
+    {
+      "query": "long coat german shepherd puppies for sale",
+      "relevance": 0.8
+    },
+    {
+      "query": "imperial shih tzu for sale",
+      "relevance": 0.7
+    },
+    {
+      "query": "bulldog garden ornament",
+      "relevance": 0.1
+    },
+    {
+      "query": "bolognese dog price",
+      "relevance": 0.5
+    },
+    {
+      "query": "ridgeback metro",
+      "relevance": 0.3
+    },
+    {
+      "query": "chocolate schnauzer",
+      "relevance": 0.7
+    },
+    {
+      "query": "bolognese dog for sale",
+      "relevance": 0.5
+    },
+    {
+      "query": "litter signs",
+      "relevance": 0
+    },
+    {
+      "query": "ridgeback meteor 2015",
+      "relevance": 0.3
+    },
+    {
+      "query": "german shepherd breeders",
+      "relevance": 0.8
+    },
+    {
+      "query": "german shepherd ornaments",
+      "relevance": 0.8
+    },
+    {
+      "query": "i love westies",
+      "relevance": 0.7
+    },
+    {
+      "query": "australian labradoodle uk",
+      "relevance": 0.2
+    },
+    {
+      "query": "ridgeback mx16 blue",
+      "relevance": 0.3
+    },
+    {
+      "query": "ridgeback mx16 red",
+      "relevance": 0.3
+    },
+    {
+      "query": "cocker pups for sale",
+      "relevance": 0.8
+    },
+    {
+      "query": "german shepherd kennels",
+      "relevance": 0.8
+    },
+    {
+      "query": "1920s cane",
+      "relevance": 0
+    },
+    {
+      "query": "long haired german shepherd puppies for sale",
+      "relevance": 0.8
+    },
+    {
+      "query": "french bulldog puppies for sale near me",
+      "relevance": 0.8
+    },
+    {
+      "query": "the riddler cane",
+      "relevance": 0
+    },
+    {
+      "query": "cane stand",
+      "relevance": 0
+    },
+    {
+      "query": "ridgeback 14",
+      "relevance": 0.3
+    },
+    {
+      "query": "cane suite",
+      "relevance": 0
+    },
+    {
+      "query": "burmese cats for rehoming",
+      "relevance": 0.2
+    },
+    {
+      "query": "ridgeback nova",
+      "relevance": 0.3
+    },
+    {
+      "query": "ridgeback minny 12",
+      "relevance": 0.3
+    },
+    {
+      "query": "ridgeback mx16 2015",
+      "relevance": 0.3
+    },
+    {
+      "query": "cane and austin",
+      "relevance": 0
+    },
+    {
+      "query": "lurcher ornaments",
+      "relevance": 0
+    },
+    {
+      "query": "exotic shorthair rescue",
+      "relevance": 0.2
+    },
+    {
+      "query": "mini toy",
+      "relevance": 0
+    },
+    {
+      "query": "jack russel toy",
+      "relevance": 0.2
+    },
+    {
+      "query": "christopher cane",
+      "relevance": 0
+    },
+    {
+      "query": "toy mini",
+      "relevance": 0
+    },
+    {
+      "query": "labradoodle mug",
+      "relevance": 0.2
+    },
+    {
+      "query": "cane magazine rack",
+      "relevance": 0
+    },
+    {
+      "query": "puppy breeders near me",
+      "relevance": 0.8
+    },
+    {
+      "query": "springer spaniel statue",
+      "relevance": 0.8
+    },
+    {
+      "query": "bichon frise for sale near me",
+      "relevance": 0.7
+    },
+    {
+      "query": "ridgeback honey 14",
+      "relevance": 0.3
+    },
+    {
+      "query": "border terrier ornaments and collectables",
+      "relevance": 0.8
+    },
+    {
+      "query": "puppy in pocket",
+      "relevance": 0
+    },
+    {
+      "query": "dog cycle",
+      "relevance": 0
+    },
+    {
+      "query": "cat rescue persian",
+      "relevance": 0.7
+    },
+    {
+      "query": "ridgeback flight 03",
+      "relevance": 0.3
+    },
+    {
+      "query": "dog ornaments by breed",
+      "relevance": 0.8
+    },
+    {
+      "query": "find puppies for sale near me",
+      "relevance": 0.8
+    },
+    {
+      "query": "buy rhodesian ridgeback",
+      "relevance": 0.8
+    },
+    {
+      "query": "black lab figurine",
+      "relevance": 0.8
+    },
+    {
+      "query": "wolf cane",
+      "relevance": 0
+    },
+    {
+      "query": "doberman ornament",
+      "relevance": 0.8
+    },
+    {
+      "query": "cane trader rum",
+      "relevance": 0
+    },
+    {
+      "query": "dog heat",
+      "relevance": 0
+    },
+    {
+      "query": "pug ornaments uk",
+      "relevance": 0.7
+    },
+    {
+      "query": "toy poodle puppies for sale near me",
+      "relevance": 0.7
+    },
+    {
+      "query": "puppy in my pocket argos",
+      "relevance": 0
+    },
+    {
+      "query": "ridgeback mx14 blue",
+      "relevance": 0.3
+    },
+    {
+      "query": "west highland terrier ornaments",
+      "relevance": 0.8
+    },
+    {
+      "query": "pups for sale near me",
+      "relevance": 0.8
+    },
+    {
+      "query": "staffie ornaments",
+      "relevance": 0.8
+    },
+    {
+      "query": "toy cane",
+      "relevance": 0
+    },
+    {
+      "query": "ridgeback mx 14",
+      "relevance": 0.3
+    },
+    {
+      "query": "hat and cane",
+      "relevance": 0
+    },
+    {
+      "query": "dog rescue lancaster",
+      "relevance": 0.8
+    },
+    {
+      "query": "persian blue cat for sale",
+      "relevance": 0.7
+    },
+    {
+      "query": "beagle ornament",
+      "relevance": 0.8
+    },
+    {
+      "query": "buy cane",
+      "relevance": 0
+    },
+    {
+      "query": "ragdoll for sale",
+      "relevance": 0.2
+    },
+    {
+      "query": "cocker spaniel doorstop",
+      "relevance": 0.8
+    },
+    {
+      "query": "buy a cane",
+      "relevance": 0
+    },
+    {
+      "query": "puggle puppies for sale near me",
+      "relevance": 0.7
+    },
+    {
+      "query": "snake cane",
+      "relevance": 0
+    },
+    {
+      "query": "kitty in my pocket",
+      "relevance": 0
+    },
+    {
+      "query": "devon rex rehoming",
+      "relevance": 0.2
+    },
+    {
+      "query": "sweet cane",
+      "relevance": 0
+    },
+    {
+      "query": "golden retriever breeders near me",
+      "relevance": 0.8
+    },
+    {
+      "query": "black lab ornament",
+      "relevance": 0.8
+    },
+    {
+      "query": "schnauzer socks",
+      "relevance": 0.7
+    },
+    {
+      "query": "kennel cleaner",
+      "relevance": 0
+    },
+    {
+      "query": "ridgeback mx4",
+      "relevance": 0.3
+    },
+    {
+      "query": "cheap puppies for sale near me",
+      "relevance": 0.2
+    },
+    {
+      "query": "schnauzer pictures",
+      "relevance": 0.7
+    },
+    {
+      "query": "working cocker spaniel gifts",
+      "relevance": 0.8
+    },
+    {
+      "query": "springer spaniel ornaments",
+      "relevance": 0.8
+    },
+    {
+      "query": "chocolate brown cockapoo puppies for sale",
+      "relevance": 0.8
+    },
+    {
+      "query": "french bulldog garden ornament",
+      "

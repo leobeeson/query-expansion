@@ -1,0 +1,191 @@
+{
+  "label": "Dining and Hospitality",
+  "description": "Market category encompassing search queries related to dining out, restaurants, hotels, and related experiences.",
+  "intents": [
+    "Find a restaurant for a special occasion",
+    "Book a hotel for a trip",
+    "Discover new dining experiences",
+    "Find deals and discounts for dining and hospitality",
+    "Buy restaurant vouchers"
+  ],
+  "subcategories": [
+    {
+      "label": "Restaurant Reviews",
+      "relevance": 0.8,
+      "description": "Reviews and ratings of restaurants",
+      "nouns": [
+        "restaurant",
+        "review",
+        "rating",
+        "food",
+        "menu",
+        "cuisine",
+        "ambience",
+        "service",
+        "price",
+        "location"
+      ],
+      "subtopics": [
+        "Fine dining",
+        "Casual dining",
+        "Fast food",
+        "Ethnic cuisine",
+        "Local favorites"
+      ]
+    },
+    {
+      "label": "Hotel Bookings",
+      "relevance": 0.7,
+      "description": "Booking hotels for trips and vacations",
+      "nouns": [
+        "hotel",
+        "booking",
+        "reservation",
+        "room",
+        "amenities",
+        "location",
+        "price",
+        "reviews",
+        "rating",
+        "cancellation"
+      ],
+      "subtopics": [
+        "Luxury hotels",
+        "Budget hotels",
+        "Boutique hotels",
+        "Resorts",
+        "Vacation rentals"
+      ]
+    },
+    {
+      "label": "Restaurant Deals and Discounts",
+      "relevance": 0.6,
+      "description": "Deals and discounts for dining out",
+      "nouns": [
+        "restaurant",
+        "deal",
+        "discount",
+        "voucher",
+        "coupon",
+        "offer",
+        "price",
+        "menu",
+        "cuisine",
+        "location"
+      ],
+      "subtopics": [
+        "Happy hour",
+        "Set menus",
+        "Group discounts",
+        "Loyalty programs",
+        "Seasonal promotions"
+      ]
+    },
+    {
+      "label": "Afternoon Tea",
+      "relevance": 0.5,
+      "description": "Traditional British afternoon tea experiences",
+      "nouns": [
+        "afternoon tea",
+        "scones",
+        "sandwiches",
+        "cakes",
+        "tea",
+        "location",
+        "price",
+        "reviews",
+        "rating",
+        "booking"
+      ],
+      "subtopics": [
+        "Traditional afternoon tea",
+        "Champagne afternoon tea",
+        "Vegan afternoon tea",
+        "Afternoon tea with a view",
+        "Afternoon tea for two"
+      ]
+    },
+    {
+      "label": "Steakhouse",
+      "relevance": 0.4,
+      "description": "Restaurants specializing in steak",
+      "nouns": [
+        "steak",
+        "restaurant",
+        "menu",
+        "cuisine",
+        "location",
+        "price",
+        "reviews",
+        "rating",
+        "booking",
+        "cuts"
+      ],
+      "subtopics": [
+        "Fine dining steakhouse",
+        "Casual steakhouse",
+        "Chain steakhouse",
+        "Steakhouse with a view",
+        "Steakhouse for special occasions"
+      ]
+    },
+    {
+      "label": "American Diner",
+      "relevance": 0.3,
+      "description": "Restaurants serving American diner-style food",
+      "nouns": [
+        "diner",
+        "restaurant",
+        "menu",
+        "cuisine",
+        "location",
+        "price",
+        "reviews",
+        "rating",
+        "booking",
+        "burgers"
+      ],
+      "subtopics": [
+        "Classic diner",
+        "Retro diner",
+        "Chain diner",
+        "Diner with a view",
+        "Diner for families"
+      ]
+    },
+    {
+      "label": "Seafood",
+      "relevance": 0.2,
+      "description": "Restaurants specializing in seafood",
+      "nouns": [
+        "seafood",
+        "restaurant",
+        "menu",
+        "cuisine",
+        "location",
+        "price",
+        "reviews",
+        "rating",
+        "booking",
+        "oysters"
+      ],
+      "subtopics": [
+        "Fine dining seafood",
+        "Casual seafood",
+        "Chain seafood",
+        "Seafood with a view",
+        "Seafood for special occasions"
+      ]
+    },
+    {
+      "label": "Takeaway and Delivery",
+      "relevance": 0.1,
+      "description": "Takeaway and delivery options for dining",
+      "nouns": [
+        "takeaway",
+        "delivery",
+        "restaurant",
+        "menu",
+        "cuisine",
+        "location",
+        "price",

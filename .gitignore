@@ -50,3 +50,6 @@ l10n/
 .env
 data/
 outputs/
+
+logs/*
+!logs/.gitkeep

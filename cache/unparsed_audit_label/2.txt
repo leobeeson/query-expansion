@@ -1,0 +1,392 @@
+{
+  "query_audits": [
+    {
+      "query": "antique gold cufflinks",
+      "relevance": 0.4
+    },
+    {
+      "query": "victorian pendant",
+      "relevance": 0.7
+    },
+    {
+      "query": "vintage silver rings",
+      "relevance": 0.5
+    },
+    {
+      "query": "art deco style bracelet",
+      "relevance": 0.8
+    },
+    {
+      "query": "lalique jewelry for sale",
+      "relevance": 0.6
+    },
+    {
+      "query": "1920s costume jewellery uk",
+      "relevance": 0.8
+    },
+    {
+      "query": "art nouveau brooch",
+      "relevance": 0.6
+    },
+    {
+      "query": "vintage art deco earrings",
+      "relevance": 0.8
+    },
+    {
+      "query": "egyptian pendants",
+      "relevance": 0
+    },
+    {
+      "query": "pacapod napier moonstone",
+      "relevance": 0
+    },
+    {
+      "query": "cameo ring value",
+      "relevance": 0.7
+    },
+    {
+      "query": "silver art deco ring",
+      "relevance": 0.8
+    },
+    {
+      "query": "art nouveau jewelry",
+      "relevance": 0.6
+    },
+    {
+      "query": "art nouveau art",
+      "relevance": 0.6
+    },
+    {
+      "query": "art deco style jewelry",
+      "relevance": 0.8
+    },
+    {
+      "query": "what is marcasite jewellery worth",
+      "relevance": 0.8
+    },
+    {
+      "query": "tortoise shell necklace",
+      "relevance": 0
+    },
+    {
+      "query": "art deco nouveau",
+      "relevance": 0.6
+    },
+    {
+      "query": "art deco bangle",
+      "relevance": 0.8
+    },
+    {
+      "query": "antique silver charm bracelet value",
+      "relevance": 0.5
+    },
+    {
+      "query": "1930s engagement rings",
+      "relevance": 0.8
+    },
+    {
+      "query": "victorian pearl necklace",
+      "relevance": 0.7
+    },
+    {
+      "query": "victorian engagement rings",
+      "relevance": 0.7
+    },
+    {
+      "query": "antique pearl necklace value",
+      "relevance": 0.7
+    },
+    {
+      "query": "vintage jewellry",
+      "relevance": 0.5
+    },
+    {
+      "query": "vintage pins",
+      "relevance": 0.5
+    },
+    {
+      "query": "rene lalique jewellery",
+      "relevance": 0.6
+    },
+    {
+      "query": "vintage jewellery brighton",
+      "relevance": 0.5
+    },
+    {
+      "query": "antique gold jewellery",
+      "relevance": 0.4
+    },
+    {
+      "query": "1940s rings",
+      "relevance": 0.5
+    },
+    {
+      "query": "art deco cufflinks",
+      "relevance": 0.8
+    },
+    {
+      "query": "three graces jewelry",
+      "relevance": 0
+    },
+    {
+      "query": "vintage charm",
+      "relevance": 0.5
+    },
+    {
+      "query": "vintage style pearl necklace",
+      "relevance": 0.5
+    },
+    {
+      "query": "art deco silver earrings",
+      "relevance": 0.8
+    },
+    {
+      "query": "arts and crafts posters",
+      "relevance": 0
+    },
+    {
+      "query": "antique jewellery uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "antique diamond brooch",
+      "relevance": 0.5
+    },
+    {
+      "query": "vintage style brooches uk",
+      "relevance": 0.5
+    },
+    {
+      "query": "flapper necklace",
+      "relevance": 0
+    },
+    {
+      "query": "pandora vintage allure ring",
+      "relevance": 0
+    },
+    {
+      "query": "aurora borealis jewellery uk",
+      "relevance": 0
+    },
+    {
+      "query": "suffragette brooches",
+      "relevance": 0.7
+    },
+    {
+      "query": "victorian mourning ring",
+      "relevance": 0.7
+    },
+    {
+      "query": "vintage inspired jewelry",
+      "relevance": 0.5
+    },
+    {
+      "query": "vintage gold locket",
+      "relevance": 0.5
+    },
+    {
+      "query": "antique jewellery brighton",
+      "relevance": 0.4
+    },
+    {
+      "query": "faberge brooch",
+      "relevance": 0.5
+    },
+    {
+      "query": "suffragette ring",
+      "relevance": 0.7
+    },
+    {
+      "query": "ancient jewelry",
+      "relevance": 0
+    },
+    {
+      "query": "cameo necklace antique",
+      "relevance": 0.7
+    },
+    {
+      "query": "vintage earrings",
+      "relevance": 0.5
+    },
+    {
+      "query": "art deco style necklace",
+      "relevance": 0.8
+    },
+    {
+      "query": "1920s style engagement rings",
+      "relevance": 0.8
+    },
+    {
+      "query": "georgian diamond ring",
+      "relevance": 0.5
+    },
+    {
+      "query": "micro mosaic",
+      "relevance": 0
+    },
+    {
+      "query": "locket vintage",
+      "relevance": 0.5
+    },
+    {
+      "query": "antique gold lamp",
+      "relevance": 0.4
+    },
+    {
+      "query": "egyptian rings",
+      "relevance": 0
+    },
+    {
+      "query": "1940s earrings",
+      "relevance": 0.5
+    },
+    {
+      "query": "1920s lamp",
+      "relevance": 0.8
+    },
+    {
+      "query": "cameo earrings",
+      "relevance": 0.7
+    },
+    {
+      "query": "alphonse mucha art nouveau",
+      "relevance": 0.6
+    },
+    {
+      "query": "1950s brooch",
+      "relevance": 0.5
+    },
+    {
+      "query": "faberge egg price",
+      "relevance": 0.5
+    },
+    {
+      "query": "edwardian pendant",
+      "relevance": 0.5
+    },
+    {
+      "query": "mother of pearl cufflinks antique",
+      "relevance": 0.5
+    },
+    {
+      "query": "edwardian earrings",
+      "relevance": 0.5
+    },
+    {
+      "query": "vintage amber necklace",
+      "relevance": 0.5
+    },
+    {
+      "query": "art deco shoe clips",
+      "relevance": 0.8
+    },
+    {
+      "query": "art nouveau engagement rings",
+      "relevance": 0.6
+    },
+    {
+      "query": "wedgewood brooches",
+      "relevance": 0.5
+    },
+    {
+      "query": "art nouveau radiator",
+      "relevance": 0.6
+    },
+    {
+      "query": "ivory jewelry",
+      "relevance": 0
+    },
+    {
+      "query": "scarab beetle jewelry",
+      "relevance": 0
+    },
+    {
+      "query": "vintage masonic pins",
+      "relevance": 0.5
+    },
+    {
+      "query": "art deco necklace",
+      "relevance": 0.8
+    },
+    {
+      "query": "vintage jewellery edinburgh",
+      "relevance": 0.5
+    },
+    {
+      "query": "laurelle antique jewellery",
+      "relevance": 0.5
+    },
+    {
+      "query": "suffragette jewellery",
+      "relevance": 0.7
+    },
+    {
+      "query": "victorian gold ring",
+      "relevance": 0.7
+    },
+    {
+      "query": "jewellers inverness victorian market",
+      "relevance": 0.7
+    },
+    {
+      "query": "victorian brooches and pins",
+      "relevance": 0.7
+    },
+    {
+      "query": "faberge jewelry for sale",
+      "relevance": 0.5
+    },
+    {
+      "query": "jewelled table lamp",
+      "relevance": 0
+    },
+    {
+      "query": "victorian diamond ring",
+      "relevance": 0.7
+    },
+    {
+      "query": "antique jewellery company",
+      "relevance": 0.4
+    },
+    {
+      "query": "wedgwood cameo brooch",
+      "relevance": 0.5
+    },
+    {
+      "query": "ebay vintage jewelry",
+      "relevance": 0.5
+    },
+    {
+      "query": "old brooches",
+      "relevance": 0.5
+    },
+    {
+      "query": "vintage lamps 1920s",
+      "relevance": 0.8
+    },
+    {
+      "query": "mucha art",
+      "relevance": 0.6
+    },
+    {
+      "query": "egypt jewelry",
+      "relevance": 0
+    },
+    {
+      "query": "art nouveau gate",
+      "relevance": 0.6
+    },
+    {
+      "query": "wedgewood rings antique",
+      "relevance": 0.5
+    },
+    {
+      "query": "art deco marcasite jewelry",
+      "relevance": 0.8
+    },
+    {
+      "query": "opal brooch",
+      "relevance": 0.5
+    },
+    {
+      "query": "ant

@@ -1,0 +1,102 @@
+{
+    "label": "First Aid Supplies",
+    "description": "Products and services related to first aid and wound care.",
+    "intents": [
+        "Treat minor injuries at home",
+        "Stock up on first aid supplies",
+        "Learn about first aid techniques"
+    ],
+    "entities": [
+        "Savlon",
+        "St. John's Ambulance",
+        "Boots",
+        "Tesco",
+        "Dermatix",
+        "Mepilex",
+        "Aquacel",
+        "Kaltostat",
+        "Cavilon",
+        "Allevyn"
+    ],
+    "subcategories": [
+        {
+            "label": "Wound Dressings",
+            "relevance": 0.8,
+            "description": "Products used to cover and protect wounds.",
+            "nouns": [
+                "Dressing",
+                "Bandage",
+                "Gauze",
+                "Tape",
+                "Plaster"
+            ],
+            "subtopics": [
+                "Types of wound dressings",
+                "How to apply wound dressings",
+                "Wound care techniques"
+            ]
+        },
+        {
+            "label": "Pain Relief",
+            "relevance": 0.7,
+            "description": "Products used to relieve pain and discomfort.",
+            "nouns": [
+                "Numbing cream",
+                "Heat pad",
+                "Cold compress",
+                "Hot water bottle"
+            ],
+            "subtopics": [
+                "Types of pain relief products",
+                "How to use pain relief products",
+                "When to use pain relief products"
+            ]
+        },
+        {
+            "label": "First Aid Kits",
+            "relevance": 0.6,
+            "description": "Pre-packaged kits containing first aid supplies.",
+            "nouns": [
+                "Kit",
+                "Bag",
+                "Box"
+            ],
+            "subtopics": [
+                "Types of first aid kits",
+                "What to include in a first aid kit",
+                "How to use a first aid kit"
+            ]
+        },
+        {
+            "label": "Burn Care",
+            "relevance": 0.5,
+            "description": "Products used to treat burns.",
+            "nouns": [
+                "Burn dressing",
+                "Burn ointment",
+                "Cooling gel"
+            ],
+            "subtopics": [
+                "Types of burn care products",
+                "How to treat burns",
+                "When to seek medical attention for burns"
+            ]
+        },
+        {
+            "label": "Injury Support",
+            "relevance": 0.4,
+            "description": "Products used to support injured body parts.",
+            "nouns": [
+                "Splint",
+                "Sling",
+                "Tape",
+                "Brace"
+            ],
+            "subtopics": [
+                "Types of injury support products",
+                "How to use injury support products",
+                "When to use injury support products"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "label": "Online Dictionaries",
+    "description": "Online resources for finding definitions and translations of words and phrases.",
+    "intents": [
+        "Find the meaning of a word",
+        "Translate a word or phrase",
+        "Learn a new language",
+        "Prepare for a driving MOT test"
+    ],
+    "subcategories": [
+        {
+            "label": "English Dictionaries",
+            "relevance": 0.8,
+            "description": "Online resources for finding definitions and translations of English words and phrases.",
+            "nouns": [
+                "Dictionary",
+                "Thesaurus",
+                "Quotations",
+                "Gem",
+                "Book",
+                "Primary",
+                "School",
+                "Collins",
+                "Oxford",
+                "Longman"
+            ],
+            "subtopics": [
+                "Definitions",
+                "Synonyms",
+                "Antonyms",
+                "Etymology",
+                "Pronunciation"
+            ]
+        },
+        {
+            "label": "Foreign Language Dictionaries",
+            "relevance": 0.7,
+            "description": "Online resources for finding translations of words and phrases in foreign languages.",
+            "nouns": [
+                "French",
+                "Turkish",
+                "Spanish",
+                "German",
+                "Lithuanian"
+            ],
+            "subtopics": [
+                "Translations",
+                "Grammar",
+                "Vocabulary",
+                "Phrases"
+            ]
+        },
+        {
+            "label": "MOT Test Resources",
+            "relevance": 0.5,
+            "description": "Online resources for preparing for a driving MOT test.",
+            "nouns": [
+                "Test",
+                "Course",
+                "Inspection",
+                "Fee",
+                "Reprint",
+                "Station",
+                "Price",
+                "Deals",
+                "Service",
+                "Failures"
+            ],
+            "subtopics": [
+                "Requirements",
+                "Preparation",
+                "Cost",
+                "Booking",
+                "Passing"
+            ]
+        }
+    ]
+}

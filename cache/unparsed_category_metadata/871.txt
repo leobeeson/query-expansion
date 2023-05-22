@@ -1,0 +1,192 @@
+{
+  "label": "Sports Equipment",
+  "description": "Equipment and protective gear for various sports.",
+  "intents": [
+    "Find sports equipment for purchase.",
+    "Find protective gear for sports.",
+    "Find equipment for specific sports."
+  ],
+  "subcategories": [
+    {
+      "label": "Football Equipment",
+      "relevance": 0.8,
+      "description": "Equipment and protective gear for football.",
+      "nouns": [
+        "Football goal",
+        "Football gloves",
+        "Football helmet",
+        "Football pads",
+        "Football shorts",
+        "Football socks",
+        "Football sticks",
+        "Football thigh guard",
+        "Football training equipment",
+        "Football rebounder"
+      ],
+      "subtopics": [
+        "Goalkeeping equipment",
+        "Training equipment",
+        "Protective gear"
+      ]
+    },
+    {
+      "label": "Lacrosse Equipment",
+      "relevance": 0.7,
+      "description": "Equipment and protective gear for lacrosse.",
+      "nouns": [
+        "Lacrosse gloves",
+        "Lacrosse sticks",
+        "Lacrosse helmet",
+        "Lacrosse balls",
+        "Lacrosse rebounder",
+        "Lacrosse shorts",
+        "Lacrosse socks",
+        "Lacrosse jerseys",
+        "Lacrosse stick bag",
+        "Lacrosse goggles"
+      ],
+      "subtopics": [
+        "Goalkeeping equipment",
+        "Training equipment",
+        "Protective gear"
+      ]
+    },
+    {
+      "label": "Boxing Equipment",
+      "relevance": 0.6,
+      "description": "Equipment and protective gear for boxing.",
+      "nouns": [
+        "Boxing gloves",
+        "Boxing head guard",
+        "Boxing pads",
+        "Boxing groin guard",
+        "Boxing knuckle protection",
+        "Boxing shield",
+        "Boxing coach body protector",
+        "Boxing pad set",
+        "Boxing protection",
+        "Boxing knuckle guards"
+      ],
+      "subtopics": [
+        "Training equipment",
+        "Protective gear",
+        "Competition equipment"
+      ]
+    },
+    {
+      "label": "Hockey Equipment",
+      "relevance": 0.6,
+      "description": "Equipment and protective gear for hockey.",
+      "nouns": [
+        "Hockey sticks",
+        "Hockey shorts",
+        "Hockey helmet",
+        "Hockey pads",
+        "Hockey goalkeeper shorts",
+        "Hockey goalkeeper padding",
+        "Hockey helmet stickers",
+        "Hockey shin pad sizing",
+        "Hockey goalkeeper gloves",
+        "Hockey helmet uk"
+      ],
+      "subtopics": [
+        "Goalkeeping equipment",
+        "Training equipment",
+        "Protective gear"
+      ]
+    },
+    {
+      "label": "Rugby Equipment",
+      "relevance": 0.5,
+      "description": "Equipment and protective gear for rugby.",
+      "nouns": [
+        "Rugby shoulder protection",
+        "Rugby forearm guard",
+        "Rugby head guard",
+        "Rugby chest guard",
+        "Rugby shorts",
+        "Rugby socks",
+        "Rugby sticks",
+        "Rugby thigh guard",
+        "Rugby arm guards",
+        "Rugby sublimated jerseys"
+      ],
+      "subtopics": [
+        "Goalkeeping equipment",
+        "Training equipment",
+        "Protective gear"
+      ]
+    },
+    {
+      "label": "Cricket Equipment",
+      "relevance": 0.4,
+      "description": "Equipment and protective gear for cricket.",
+      "nouns": [
+        "Cricket helmet",
+        "Cricket chest guard",
+        "Cricket thigh pads",
+        "Cricket bat protection sheet",
+        "Cricket groin protector",
+        "Cricket thigh pads youth",
+        "Cricket jock strap",
+        "Cricket protective shorts",
+        "Cricket wicket keeping face protector",
+        "Cricket presents"
+      ],
+      "subtopics": [
+        "Batting equipment",
+        "Bowling equipment",
+        "Protective gear"
+      ]
+    },
+    {
+      "label": "MMA Equipment",
+      "relevance": 0.3,
+      "description": "Equipment and protective gear for mixed martial arts.",
+      "nouns": [
+        "MMA groin protector",
+        "MMA gloves",
+        "MMA head guard",
+        "MMA shin and instep guards",
+        "MMA sparring pad",
+        "MMA rib protector",
+        "MMA ankle shield",
+        "MMA groin guard",
+        "MMA protection guard",
+        "MMA coach body protector"
+      ],
+      "subtopics": [
+        "Training equipment",
+        "Protective gear",
+        "Competition equipment"
+      ]
+    },
+    {
+      "label": "Soccer Equipment",
+      "relevance": 0.3,
+      "description": "Equipment and protective gear for soccer.",
+      "nouns": [
+        "Soccer goal",
+        "Soccer goal nets",
+        "Soccer rebounder",
+        "Soccer ankle guards",
+        "Soccer training equipment",
+        "Soccer net",
+        "Soccer goalkeeper gloves",
+        "Soccer pop up goals",
+        "Soccer target nets",
+        "Soccer indoor goals"
+      ],
+      "subtopics": [
+        "Goalkeeping equipment",
+        "Training equipment",
+        "Protective gear"
+      ]
+    },
+    {
+      "label": "Other Sports Equipment",
+      "relevance": 0.2,
+      "description": "Equipment and protective gear for other sports.",
+      "nouns": [
+        "Lax ball",
+        "Venom

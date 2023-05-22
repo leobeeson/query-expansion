@@ -1,0 +1,86 @@
+{
+    "label": "Financial Planning and Management",
+    "description": "Services and tools for managing personal finances, including budgeting, retirement planning, and inheritance.",
+    "intents": [
+        "Create a budget and track expenses",
+        "Plan for retirement and calculate pension income",
+        "Find a financial advisor or investment company",
+        "Understand probate and inheritance laws"
+    ],
+    "subcategories": [
+        {
+            "label": "Budgeting Tools",
+            "relevance": 0.8,
+            "description": "Software and spreadsheets for creating and tracking personal budgets.",
+            "nouns": [
+                "Budget planner",
+                "Household budget",
+                "Budget spreadsheet",
+                "Budget book",
+                "Budgeting apps"
+            ],
+            "subtopics": [
+                "Free budget planners",
+                "Monthly budget planners",
+                "Home budget planners"
+            ]
+        },
+        {
+            "label": "Retirement Planning",
+            "relevance": 0.7,
+            "description": "Services and tools for planning and managing retirement savings and income.",
+            "nouns": [
+                "Pension income",
+                "Pension calculator",
+                "Pension companies",
+                "Pension funds",
+                "Pension plan"
+            ],
+            "subtopics": [
+                "Pension contribution calculator",
+                "CETV pension",
+                "Lifetime allowance",
+                "Pension retirement age",
+                "SIPP"
+            ]
+        },
+        {
+            "label": "Financial Advisors",
+            "relevance": 0.6,
+            "description": "Professional financial advice and services for managing personal finances and investments.",
+            "nouns": [
+                "Financial advisor",
+                "IFA",
+                "Financial broker",
+                "Independent financial advisor",
+                "Financial planner"
+            ],
+            "subtopics": [
+                "Financial advisor cost",
+                "What do financial advisors do",
+                "Financial advisor jobs",
+                "Financial advisor near me",
+                "Financial advisor fees"
+            ]
+        },
+        {
+            "label": "Probate and Inheritance",
+            "relevance": 0.5,
+            "description": "Legal and financial services related to probate and inheritance, including wills, trusts, and estate planning.",
+            "nouns": [
+                "Contesting a will",
+                "Legacy probate services",
+                "Grant of probate",
+                "Inheritance tax",
+                "Will and testament"
+            ],
+            "subtopics": [
+                "Protecting assets from nursing homes",
+                "Challenging a will",
+                "Setting up a trust",
+                "Inheritance tax planning",
+                "Heir hunters"
+            ]
+        }
+    ]
+}

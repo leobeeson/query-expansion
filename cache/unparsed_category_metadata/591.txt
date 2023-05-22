@@ -1,0 +1,203 @@
+{
+  "label": "Buttons and Carvings",
+  "description": "Market category for buttons, carvings, and sculptures made from various materials such as wood, ivory, bone, and enamel.",
+  "intents": [
+    "Find unique buttons for clothing",
+    "Buy hand-carved wooden sculptures",
+    "Purchase ivory carvings",
+    "Find antique buttons and carvings",
+    "Learn about different types of buttons and carvings"
+  ],
+  "subcategories": [
+    {
+      "label": "Wooden Buttons",
+      "relevance": 0.8,
+      "description": "Buttons made from wood or with a wooden design.",
+      "nouns": [
+        "snap button",
+        "owl buttons",
+        "navy buttons",
+        "silver buttons",
+        "wooden heart buttons",
+        "corozo buttons",
+        "cloth covered buttons",
+        "velvet covered buttons",
+        "large white buttons",
+        "wooden buttons"
+      ],
+      "subtopics": [
+        "Decorative wooden buttons",
+        "Wooden buttons for clothing",
+        "Hand-carved wooden buttons"
+      ]
+    },
+    {
+      "label": "Ivory Carvings",
+      "relevance": 0.7,
+      "description": "Carvings made from ivory, including jewelry, sculptures, and chess sets.",
+      "nouns": [
+        "ivory puzzle ball",
+        "ivory carving",
+        "ivory jewelry box",
+        "elephant ivory prices",
+        "ivory carvings for sale",
+        "antique ivory carvings for sale",
+        "ivory tusks for sale",
+        "ivory bangles",
+        "ivory table lamp",
+        "ivory buddha"
+      ],
+      "subtopics": [
+        "Antique ivory carvings",
+        "Ivory jewelry",
+        "Ivory sculptures"
+      ]
+    },
+    {
+      "label": "Wooden Carvings",
+      "relevance": 0.7,
+      "description": "Carvings made from wood, including sculptures, wall art, and animals.",
+      "nouns": [
+        "wooden owl sculpture",
+        "wood carved ducks",
+        "carved wooden horse",
+        "african carved wooden figures",
+        "wood carved animals",
+        "wood carved wall art panels",
+        "wooden dog sculpture",
+        "wooden wall carvings",
+        "wooden chess set uk",
+        "wooden buddha statue"
+      ],
+      "subtopics": [
+        "Hand-carved wooden sculptures",
+        "Wooden animal carvings",
+        "Wooden wall art"
+      ]
+    },
+    {
+      "label": "Enamel Buttons and Carvings",
+      "relevance": 0.6,
+      "description": "Buttons and carvings made from enamel, including champleve and torch-fired enamel.",
+      "nouns": [
+        "champleve enamel",
+        "torch fired enamel",
+        "bilston enamel",
+        "halcyon days enamel bracelet",
+        "vitreous enamel",
+        "enamel powder",
+        "enamel buttons",
+        "fine enamels",
+        "elliot hall enamels",
+        "thompson enamels uk"
+      ],
+      "subtopics": [
+        "Enamel jewelry",
+        "Enamel sculptures",
+        "Enamel buttons for clothing"
+      ]
+    },
+    {
+      "label": "Bone and Inlay Carvings",
+      "relevance": 0.6,
+      "description": "Carvings made from bone or with bone inlay, including furniture and jewelry.",
+      "nouns": [
+        "bone inlay side table",
+        "bone inlay chest of drawers",
+        "bone inlay mirror",
+        "bone buttons",
+        "diamante buttons for upholstery",
+        "copper blanks for enameling",
+        "copper enamel paint",
+        "bone inlay furniture uk",
+        "bone inlay table",
+        "carved bone"
+      ],
+      "subtopics": [
+        "Bone inlay furniture",
+        "Bone jewelry",
+        "Bone carvings"
+      ]
+    },
+    {
+      "label": "Novelty Buttons and Push Pins",
+      "relevance": 0.5,
+      "description": "Unique and novelty buttons and push pins for clothing and crafts.",
+      "nouns": [
+        "novelty push pins",
+        "disney buttons",
+        "santa buttons",
+        "butterfly buttons",
+        "bumble bee buttons",
+        "novelty baby buttons",
+        "snowman buttons",
+        "frog buttons",
+        "cute buttons",
+        "buttons galore"
+      ],
+      "subtopics": [
+        "Novelty buttons for clothing",
+        "Unique push pins",
+        "Fun craft buttons"
+      ]
+    },
+    {
+      "label": "African Carvings and Sculptures",
+      "relevance": 0.5,
+      "description": "Carvings and sculptures made in Africa, including wooden bowls and figures.",
+      "nouns": [
+        "african carved wooden figures",
+        "african carvings",
+        "african wooden bowls",
+        "african walking stick",
+        "african lady ornaments",
+        "african figurines",
+        "african vase",
+        "african candle holders",
+        "african statue",
+        "african ornaments uk"
+      ],
+      "subtopics": [
+        "African wooden sculptures",
+        "African pottery",
+        "African masks"
+      ]
+    },
+    {
+      "label": "Metal Buttons and Ornaments",
+      "relevance": 0.4,
+      "description": "Buttons and ornaments made from metal, including brass and copper.",
+      "nouns": [
+        "brass figures",
+        "brass bangles",
+        "brass elephant",
+        "metal blazer buttons uk",
+        "copper buttons",
+        "copper enameling",
+        "copper enamel paint",
+        "spurs cufflinks",
+        "brass ornaments wanted",
+        "metallic buttons"
+      ],
+      "subtopics": [
+        "Metallic buttons for clothing",
+        "Brass sculptures",
+        "Copper jewelry"
+      ]
+    },
+    {
+      "label": "Japanese Carvings and Ornaments",
+      "relevance": 0.4,
+      "description": "Carvings and ornaments made in Japan, including chess sets and smoking pipes.",
+      "nouns": [
+        "japanese chess set",
+        "japanese smoking pipe",
+        "japanese knot wood",
+        "japanese cloisonne vase",
+        "wooden japanese dolls",
+        "oriental ornaments"
+      ],
+      "subtopics": [
+        "Japanese chess sets",
+        "Japanese pottery",
+        "

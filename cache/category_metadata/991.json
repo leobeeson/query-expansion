@@ -1,0 +1,241 @@
+{
+    "label": "Kitchen Appliances",
+    "description": "Appliances used for cooking and food preparation in a kitchen.",
+    "intents": [
+        "Find appliances for cooking and food preparation",
+        "Compare prices and features of kitchen appliances",
+        "Learn about different types of kitchen appliances"
+    ],
+    "subcategories": [
+        {
+            "label": "Toasters",
+            "relevance": 0.9,
+            "description": "Appliances used for toasting bread.",
+            "nouns": [
+                "4 slice toaster",
+                "long slot toaster",
+                "purple toaster",
+                "blue toaster",
+                "pink toaster",
+                "toaster sale",
+                "toaster oven",
+                "toaster 4 slice",
+                "toasters tesco",
+                "toaster and kettle set"
+            ],
+            "subtopics": [
+                "4 slice",
+                "long slot",
+                "colored",
+                "sale",
+                "oven"
+            ]
+        },
+        {
+            "label": "Coffee Makers",
+            "relevance": 0.9,
+            "description": "Appliances used for making coffee.",
+            "nouns": [
+                "krups coffee machine",
+                "nespresso pod holder",
+                "philips senseo",
+                "bean to cup coffee machine",
+                "coffee machine tassimo",
+                "kitchenaid coffee machine",
+                "dualit coffee machine",
+                "nespresso inissia",
+                "illy coffee machine",
+                "nespresso descaling"
+            ],
+            "subtopics": [
+                "espresso",
+                "pod",
+                "bean to cup",
+                "tassimo",
+                "nespresso"
+            ]
+        },
+        {
+            "label": "Food Processors",
+            "relevance": 0.8,
+            "description": "Appliances used for chopping, slicing, and blending food.",
+            "nouns": [
+                "mini food processor",
+                "tesco blender",
+                "cookworks breadmaker",
+                "magimix food processor",
+                "kenwood multipro",
+                "nutribullet 900",
+                "nutribullet vs ninja",
+                "tommee tippee steamer blender",
+                "kenwood multipro food processor",
+                "food processor argos"
+            ],
+            "subtopics": [
+                "mini",
+                "blender",
+                "breadmaker",
+                "nutribullet",
+                "steamer"
+            ]
+        },
+        {
+            "label": "Fryers",
+            "relevance": 0.8,
+            "description": "Appliances used for frying food.",
+            "nouns": [
+                "deep fat fryer argos",
+                "breville health fryer",
+                "actifry reviews",
+                "tefal actifry 1.5 kg",
+                "hot air fryer",
+                "delonghi deep fat fryer",
+                "breville deep fat fryer",
+                "small deep fat fryer",
+                "airfryers",
+                "actifry parts"
+            ],
+            "subtopics": [
+                "health",
+                "tefal",
+                "breville",
+                "delonghi",
+                "air"
+            ]
+        },
+        {
+            "label": "Kettles",
+            "relevance": 0.7,
+            "description": "Appliances used for boiling water.",
+            "nouns": [
+                "dualit kettle and toaster",
+                "russell hobbs buckingham kettle",
+                "bosch styline kettle",
+                "morphy richards kettle and toaster",
+                "cream coffee machine",
+                "tesco kettles",
+                "delonghi scultura kettle",
+                "delonghi argento kettle",
+                "dualit classic kettle",
+                "cuisinart kettle"
+            ],
+            "subtopics": [
+                "dualit",
+                "russell hobbs",
+                "bosch",
+                "morphy richards",
+                "delonghi"
+            ]
+        },
+        {
+            "label": "Blenders",
+            "relevance": 0.7,
+            "description": "Appliances used for blending food and drinks.",
+            "nouns": [
+                "blender tesco",
+                "sage toaster",
+                "breville blend active review",
+                "blendtec uk",
+                "blendtec blender",
+                "amazon nutribullet",
+                "magimix coffee machine",
+                "nutri ninja vs nutribullet",
+                "nutribullet blender",
+                "smarter coffee machine"
+            ],
+            "subtopics": [
+                "personal",
+                "sage",
+                "blendtec",
+                "nutribullet",
+                "smarter"
+            ]
+        },
+        {
+            "label": "Steamers",
+            "relevance": 0.6,
+            "description": "Appliances used for steaming food.",
+            "nouns": [
+                "steamer food",
+                "electric steamer",
+                "steam cooker",
+                "rice cooker",
+                "vegetable steamer",
+                "morphy richards steamer",
+                "tefal rice cooker",
+                "slow cooker argos",
+                "slow cooker",
+                "tamale steamer"
+            ],
+            "subtopics": [
+                "electric",
+                "rice",
+                "vegetable",
+                "morphy richards",
+                "tefal"
+            ]
+        },
+        {
+            "label": "Mixers",
+            "relevance": 0.6,
+            "description": "Appliances used for mixing food and drinks.",
+            "nouns": [
+                "hand mixer",
+                "stand mixer",
+                "kenwood mixer",
+                "kitchenaid mixer",
+                "kenwood kmix",
+                "kenwood chef",
+                "cooks professional stand mixer",
+                "stand mixer sale",
+                "kitchenaid hand mixer",
+                "milk frothers"
+            ],
+            "subtopics": [
+                "hand",
+                "stand",
+                "kenwood",
+                "kitchenaid",
+                "milk frother"
+            ]
+        },
+        {
+            "label": "Pressure Cookers",
+            "relevance": 0.5,
+            "description": "Appliances used for cooking food under high pressure.",
+            "nouns": [
+                "best pressure cooker",
+                "pressure cooker",
+                "argos pressure cooker",
+                "tower pressure cooker",
+                "presto"
+            ],
+            "subtopics": [
+                "electric",
+                "stainless steel",
+                "argos",
+                "tower",
+                "presto"
+            ]
+        },
+        {
+            "label": "Air Fryers",
+            "relevance": 0.5,
+            "description": "Appliances used for frying food with hot air.",
+            "nouns": [
+                "breville halo",
+                "philips air fryer",
+                "tefal health fryer",
+                "tefal actifry argos",
+                "salter air fryer"
+            ],
+            "subtopics": [
+                "breville",
+                "philips",
+                "tefal",
+                "salter",
+                "actifry"
+            ]
+        }
+    ]
+}

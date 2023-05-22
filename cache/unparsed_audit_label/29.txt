@@ -1,0 +1,373 @@
+{
+  "query_audits": [
+    {
+      "query": "east village apartments",
+      "relevance": 0.9
+    },
+    {
+      "query": "new york penthouses for sale",
+      "relevance": 1
+    },
+    {
+      "query": "byty na predaj michalovce",
+      "relevance": 0
+    },
+    {
+      "query": "tarcha light",
+      "relevance": 0
+    },
+    {
+      "query": "condo for sale in makati",
+      "relevance": 0
+    },
+    {
+      "query": "mansions in miami",
+      "relevance": 0.8
+    },
+    {
+      "query": "massa ticino tropic",
+      "relevance": 0
+    },
+    {
+      "query": "manhattan property for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "the edgar townhouse",
+      "relevance": 0
+    },
+    {
+      "query": "apartments for sale amsterdam",
+      "relevance": 0
+    },
+    {
+      "query": "room for rent pattaya 5000 baht",
+      "relevance": 0
+    },
+    {
+      "query": "new york apartments for sale cheap",
+      "relevance": 0.9
+    },
+    {
+      "query": "predaj bytov bardejov",
+      "relevance": 0
+    },
+    {
+      "query": "miami south beach apartments",
+      "relevance": 0.8
+    },
+    {
+      "query": "real estate vancouver",
+      "relevance": 0.7
+    },
+    {
+      "query": "real estate new york",
+      "relevance": 0.9
+    },
+    {
+      "query": "penthouses for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "byty na predaj kosice",
+      "relevance": 0
+    },
+    {
+      "query": "winston churchill art for sale",
+      "relevance": 0
+    },
+    {
+      "query": "room for rent warrington",
+      "relevance": 0
+    },
+    {
+      "query": "man in a can",
+      "relevance": 0
+    },
+    {
+      "query": "vista cay townhomes",
+      "relevance": 0
+    },
+    {
+      "query": "ty dre town house",
+      "relevance": 0
+    },
+    {
+      "query": "stratford apartments for sale",
+      "relevance": 0
+    },
+    {
+      "query": "apartments for sale in los angeles",
+      "relevance": 0.6
+    },
+    {
+      "query": "homes in new york",
+      "relevance": 0.9
+    },
+    {
+      "query": "vancouver real estate market",
+      "relevance": 0.7
+    },
+    {
+      "query": "apartments for sale los angeles",
+      "relevance": 0.6
+    },
+    {
+      "query": "vancouver houses for rent",
+      "relevance": 0.7
+    },
+    {
+      "query": "new york penthouse",
+      "relevance": 0.9
+    },
+    {
+      "query": "apartments in new york for rent",
+      "relevance": 0.9
+    },
+    {
+      "query": "praha byty pronájem",
+      "relevance": 0
+    },
+    {
+      "query": "houses in new york",
+      "relevance": 0.9
+    },
+    {
+      "query": "plaza hotel tallaght",
+      "relevance": 0
+    },
+    {
+      "query": "miami rentals",
+      "relevance": 0.8
+    },
+    {
+      "query": "tropic garden santa eulalia ibiza",
+      "relevance": 0
+    },
+    {
+      "query": "lego townhouse",
+      "relevance": 0
+    },
+    {
+      "query": "timhop",
+      "relevance": 0
+    },
+    {
+      "query": "los angeles apartments for sale",
+      "relevance": 0.6
+    },
+    {
+      "query": "houses for sale malton",
+      "relevance": 0
+    },
+    {
+      "query": "brooklyn heights apartments",
+      "relevance": 0.6
+    },
+    {
+      "query": "units to rent near me",
+      "relevance": 0
+    },
+    {
+      "query": "town house 62",
+      "relevance": 0
+    },
+    {
+      "query": "penthouse new york",
+      "relevance": 0.9
+    },
+    {
+      "query": "tribeca apartments",
+      "relevance": 0.9
+    },
+    {
+      "query": "rent apartment nyc",
+      "relevance": 0.9
+    },
+    {
+      "query": "new york townhouse for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "new york city real estate",
+      "relevance": 0.9
+    },
+    {
+      "query": "tower unit",
+      "relevance": 0
+    },
+    {
+      "query": "new york rentals",
+      "relevance": 0.9
+    },
+    {
+      "query": "new york homes",
+      "relevance": 0.9
+    },
+    {
+      "query": "2 bedroom apartments new york",
+      "relevance": 0.9
+    },
+    {
+      "query": "penthouse apartment new york",
+      "relevance": 0.9
+    },
+    {
+      "query": "bangkok apartment rental",
+      "relevance": 0.3
+    },
+    {
+      "query": "splendora hotel hanoi",
+      "relevance": 0
+    },
+    {
+      "query": "rent in bangkok",
+      "relevance": 0.3
+    },
+    {
+      "query": "penthouse for rent",
+      "relevance": 0.9
+    },
+    {
+      "query": "london townhouse for sale",
+      "relevance": 0.5
+    },
+    {
+      "query": "apartments for sale in la",
+      "relevance": 0.6
+    },
+    {
+      "query": "brooklyn brownstone for sale",
+      "relevance": 0.6
+    },
+    {
+      "query": "manhattan penthouse",
+      "relevance": 0.9
+    },
+    {
+      "query": "wework nyc",
+      "relevance": 0
+    },
+    {
+      "query": "montreal rentals",
+      "relevance": 0
+    },
+    {
+      "query": "lofts for sale in london",
+      "relevance": 0.5
+    },
+    {
+      "query": "free sky view",
+      "relevance": 0
+    },
+    {
+      "query": "house for sale miami",
+      "relevance": 0.8
+    },
+    {
+      "query": "apartments for rent in miami",
+      "relevance": 0.8
+    },
+    {
+      "query": "vancouver homes",
+      "relevance": 0.7
+    },
+    {
+      "query": "houses for rent in dunbar",
+      "relevance": 0.7
+    },
+    {
+      "query": "providence tower for sale",
+      "relevance": 0
+    },
+    {
+      "query": "property for sale in new york",
+      "relevance": 0.9
+    },
+    {
+      "query": "property for sale manhattan",
+      "relevance": 0.9
+    },
+    {
+      "query": "tropic garden ibiza",
+      "relevance": 0
+    },
+    {
+      "query": "ibiza tropic garden hotel",
+      "relevance": 0
+    },
+    {
+      "query": "cis cooperative insurance",
+      "relevance": 0
+    },
+    {
+      "query": "mi tower for sale",
+      "relevance": 0
+    },
+    {
+      "query": "la condos",
+      "relevance": 0.6
+    },
+    {
+      "query": "houses for sale in vancouver bc",
+      "relevance": 0.7
+    },
+    {
+      "query": "riviera hotel scarborough",
+      "relevance": 0
+    },
+    {
+      "query": "vancouver rental properties",
+      "relevance": 0.7
+    },
+    {
+      "query": "cooperative young drivers insurance dashboard",
+      "relevance": 0
+    },
+    {
+      "query": "miami real estate",
+      "relevance": 0.8
+    },
+    {
+      "query": "house for sale toronto",
+      "relevance": 0.4
+    },
+    {
+      "query": "brooklyn rentals",
+      "relevance": 0.6
+    },
+    {
+      "query": "condo in makati",
+      "relevance": 0
+    },
+    {
+      "query": "apartments for sale in vancouver",
+      "relevance": 0.7
+    },
+    {
+      "query": "apartments in surrey",
+      "relevance": 0
+    },
+    {
+      "query": "london lofts for rent",
+      "relevance": 0.5
+    },
+    {
+      "query": "room for rent harlow",
+      "relevance": 0
+    },
+    {
+      "query": "ridge tents for sale",
+      "relevance": 0
+    },
+    {
+      "query": "singapore apartment for sale",
+      "relevance": 0
+    },
+    {
+      "query": "short term rentals new york",
+      "relevance": 0.9
+    },
+    {
+      "query": "london loft apartments for sale",
+      "relevance":

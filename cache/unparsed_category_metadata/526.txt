@@ -1,0 +1,162 @@
+{
+  "label": "Incontinence Products",
+  "description": "Products and treatments for urinary and fecal incontinence in adults, children, and pets.",
+  "intents": [
+    "Find products to manage incontinence",
+    "Learn about causes and treatments for incontinence",
+    "Find incontinence products for pets"
+  ],
+  "subcategories": [
+    {
+      "label": "Incontinence Pads",
+      "relevance": 0.8,
+      "description": "Disposable and reusable pads for managing urinary and fecal incontinence.",
+      "nouns": [
+        "Pads",
+        "Diapers",
+        "Briefs",
+        "Underpads",
+        "Bed pads"
+      ],
+      "subtopics": [
+        "Disposable pads",
+        "Reusable pads",
+        "Bed pads",
+        "Underpads",
+        "Incontinence briefs"
+      ]
+    },
+    {
+      "label": "Incontinence Pants",
+      "relevance": 0.7,
+      "description": "Underwear designed to manage urinary and fecal incontinence.",
+      "nouns": [
+        "Pants",
+        "Underwear",
+        "Briefs",
+        "Knickers",
+        "Pull-ups"
+      ],
+      "subtopics": [
+        "Disposable pants",
+        "Reusable pants",
+        "Incontinence briefs",
+        "Pull-up pants",
+        "Incontinence underwear"
+      ]
+    },
+    {
+      "label": "Incontinence Products for Men",
+      "relevance": 0.6,
+      "description": "Products designed specifically for male urinary and fecal incontinence.",
+      "nouns": [
+        "Products",
+        "Pads",
+        "Diapers",
+        "Underwear",
+        "Briefs"
+      ],
+      "subtopics": [
+        "Incontinence pads for men",
+        "Incontinence briefs for men",
+        "Incontinence underwear for men",
+        "Incontinence products for male dogs",
+        "Incontinence products for male cats"
+      ]
+    },
+    {
+      "label": "Incontinence Products for Women",
+      "relevance": 0.6,
+      "description": "Products designed specifically for female urinary and fecal incontinence.",
+      "nouns": [
+        "Products",
+        "Pads",
+        "Diapers",
+        "Underwear",
+        "Briefs"
+      ],
+      "subtopics": [
+        "Incontinence pads for women",
+        "Incontinence briefs for women",
+        "Incontinence underwear for women",
+        "Incontinence products for female dogs",
+        "Incontinence products for female cats"
+      ]
+    },
+    {
+      "label": "Incontinence Products for Children",
+      "relevance": 0.5,
+      "description": "Products designed specifically for children with urinary and fecal incontinence.",
+      "nouns": [
+        "Products",
+        "Pads",
+        "Diapers",
+        "Underwear",
+        "Briefs"
+      ],
+      "subtopics": [
+        "Incontinence pads for children",
+        "Incontinence briefs for children",
+        "Incontinence underwear for children",
+        "Bedwetting alarms",
+        "Bedwetting pads"
+      ]
+    },
+    {
+      "label": "Incontinence Products for Pets",
+      "relevance": 0.5,
+      "description": "Products designed specifically for pets with urinary and fecal incontinence.",
+      "nouns": [
+        "Products",
+        "Pads",
+        "Diapers",
+        "Underpads",
+        "Bed pads"
+      ],
+      "subtopics": [
+        "Incontinence pads for dogs",
+        "Incontinence pads for cats",
+        "Incontinence diapers for dogs",
+        "Incontinence diapers for cats",
+        "Underpads for pets"
+      ]
+    },
+    {
+      "label": "Incontinence Treatments",
+      "relevance": 0.4,
+      "description": "Medical and non-medical treatments for urinary and fecal incontinence.",
+      "nouns": [
+        "Treatments",
+        "Medications",
+        "Exercises",
+        "Therapies",
+        "Devices"
+      ],
+      "subtopics": [
+        "Medications for incontinence",
+        "Exercises for incontinence",
+        "Behavioral therapies for incontinence",
+        "Surgical treatments for incontinence",
+        "Incontinence devices"
+      ]
+    },
+    {
+      "label": "Incontinence Accessories",
+      "relevance": 0.3,
+      "description": "Accessories to aid in managing urinary and fecal incontinence.",
+      "nouns": [
+        "Accessories",
+        "Bedding",
+        "Mattress protectors",
+        "Catheter supplies",
+        "Skin care products"
+      ],
+      "subtopics": [
+        "Bedding protectors",
+        "Mattress protectors",
+        "Catheter supplies",
+        "Skin care products for incontinence",
+        "Odor control products"
+      ]
+    }
+ 

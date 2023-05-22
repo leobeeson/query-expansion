@@ -1,0 +1,370 @@
+{
+  "query_audits": [
+    {
+      "query": "ionization smoke detector",
+      "relevance": 0.8
+    },
+    {
+      "query": "carbon monoxide detector free",
+      "relevance": 0.5
+    },
+    {
+      "query": "nest screwfix",
+      "relevance": 0
+    },
+    {
+      "query": "addressable fire alarm system",
+      "relevance": 0.6
+    },
+    {
+      "query": "kidde combination smoke and carbon monoxide alarm",
+      "relevance": 0.5
+    },
+    {
+      "query": "aico ei141",
+      "relevance": 0.8
+    },
+    {
+      "query": "gas detector alarm",
+      "relevance": 0.6
+    },
+    {
+      "query": "thermoptek smoke alarm",
+      "relevance": 0.8
+    },
+    {
+      "query": "monoxide detector",
+      "relevance": 0.8
+    },
+    {
+      "query": "screwfix carbon monoxide detector",
+      "relevance": 0.5
+    },
+    {
+      "query": "hardwired smoke detector",
+      "relevance": 0.8
+    },
+    {
+      "query": "nest protect wired",
+      "relevance": 0.5
+    },
+    {
+      "query": "ei151 smoke alarm",
+      "relevance": 0.8
+    },
+    {
+      "query": "carbon dioxide monitor",
+      "relevance": 0.5
+    },
+    {
+      "query": "mains powered smoke alarm wiring diagram",
+      "relevance": 0.6
+    },
+    {
+      "query": "fireangel smoke alarm battery",
+      "relevance": 0.8
+    },
+    {
+      "query": "optical smoke alarm ei146",
+      "relevance": 0.8
+    },
+    {
+      "query": "heat and smoke detectors",
+      "relevance": 0.6
+    },
+    {
+      "query": "kidde 10y29",
+      "relevance": 0.5
+    },
+    {
+      "query": "smoking alarm",
+      "relevance": 0.6
+    },
+    {
+      "query": "carbon monoxide alarm b&q",
+      "relevance": 0.5
+    },
+    {
+      "query": "gas detector b&q",
+      "relevance": 0.5
+    },
+    {
+      "query": "ei450",
+      "relevance": 0.8
+    },
+    {
+      "query": "kidde 7dco",
+      "relevance": 0.5
+    },
+    {
+      "query": "mudder carbon monoxide detector",
+      "relevance": 0.5
+    },
+    {
+      "query": "screwfix smoke alarm",
+      "relevance": 0.6
+    },
+    {
+      "query": "fibaro smoke sensor",
+      "relevance": 0.6
+    },
+    {
+      "query": "fire beam",
+      "relevance": 0.6
+    },
+    {
+      "query": "ei141 smoke alarm screwfix",
+      "relevance": 0.8
+    },
+    {
+      "query": "b and q carbon monoxide detector",
+      "relevance": 0.5
+    },
+    {
+      "query": "kidde smoke detector",
+      "relevance": 0.8
+    },
+    {
+      "query": "draeger safety",
+      "relevance": 0.5
+    },
+    {
+      "query": "firex smoke alarm 1240c",
+      "relevance": 0.8
+    },
+    {
+      "query": "heat battery",
+      "relevance": 0.6
+    },
+    {
+      "query": "smoke alarm fire angel",
+      "relevance": 0.8
+    },
+    {
+      "query": "c tec fire alarm",
+      "relevance": 0.6
+    },
+    {
+      "query": "argos carbon monoxide alarm",
+      "relevance": 0.5
+    },
+    {
+      "query": "co2 monitor uk",
+      "relevance": 0.5
+    },
+    {
+      "query": "carbon monoxide detector landlord",
+      "relevance": 0.5
+    },
+    {
+      "query": "hive smoke alarm",
+      "relevance": 0.6
+    },
+    {
+      "query": "formaldehyde detector",
+      "relevance": 0.5
+    },
+    {
+      "query": "nest smoke detectors",
+      "relevance": 0.5
+    },
+    {
+      "query": "wilko carbon monoxide alarm",
+      "relevance": 0.5
+    },
+    {
+      "query": "fire angel carbon monoxide alarm instructions",
+      "relevance": 0.8
+    },
+    {
+      "query": "mains powered smoke and carbon monoxide detector",
+      "relevance": 0.5
+    },
+    {
+      "query": "firex heat alarm",
+      "relevance": 0.8
+    },
+    {
+      "query": "firex smoke detector",
+      "relevance": 0.8
+    },
+    {
+      "query": "travel carbon monoxide detector",
+      "relevance": 0.5
+    },
+    {
+      "query": "ei146 smoke alarm",
+      "relevance": 0.8
+    },
+    {
+      "query": "dicon smoke alarm",
+      "relevance": 0.8
+    },
+    {
+      "query": "fireangel smoke alarm so 610",
+      "relevance": 0.8
+    },
+    {
+      "query": "first alert smoke alarm",
+      "relevance": 0.6
+    },
+    {
+      "query": "nest carbon monoxide detector",
+      "relevance": 0.5
+    },
+    {
+      "query": "xtralis vesda",
+      "relevance": 0.6
+    },
+    {
+      "query": "oxygen monitor",
+      "relevance": 0.5
+    },
+    {
+      "query": "wilko smoke alarm",
+      "relevance": 0.6
+    },
+    {
+      "query": "carbon monoxide detector argos",
+      "relevance": 0.5
+    },
+    {
+      "query": "fire back panel",
+      "relevance": 0.6
+    },
+    {
+      "query": "radon sump",
+      "relevance": 0.5
+    },
+    {
+      "query": "fire angel smoke alarm instructions",
+      "relevance": 0.8
+    },
+    {
+      "query": "carbon monoxide detector toolstation",
+      "relevance": 0.5
+    },
+    {
+      "query": "screwfix alarm battery",
+      "relevance": 0.5
+    },
+    {
+      "query": "fire alarms free",
+      "relevance": 0.6
+    },
+    {
+      "query": "gascoseeker",
+      "relevance": 0.5
+    },
+    {
+      "query": "heat detector",
+      "relevance": 0.6
+    },
+    {
+      "query": "kidde i9060",
+      "relevance": 0.5
+    },
+    {
+      "query": "alarmsense",
+      "relevance": 0.6
+    },
+    {
+      "query": "battery powered smoke alarm",
+      "relevance": 0.6
+    },
+    {
+      "query": "free smoke detectors",
+      "relevance": 0.6
+    },
+    {
+      "query": "kitchen heat detector",
+      "relevance": 0.6
+    },
+    {
+      "query": "radio interlinked smoke alarms",
+      "relevance": 0.6
+    },
+    {
+      "query": "co meter",
+      "relevance": 0.5
+    },
+    {
+      "query": "smoke detector tester",
+      "relevance": 0.8
+    },
+    {
+      "query": "ei144rc",
+      "relevance": 0.8
+    },
+    {
+      "query": "domestic gas leak detector",
+      "relevance": 0.5
+    },
+    {
+      "query": "angel smoke alarms",
+      "relevance": 0.8
+    },
+    {
+      "query": "nest wired smoke alarm",
+      "relevance": 0.5
+    },
+    {
+      "query": "wifi smoke alarm",
+      "relevance": 0.6
+    },
+    {
+      "query": "fire alarm control panel",
+      "relevance": 0.6
+    },
+    {
+      "query": "kidde firex kf1",
+      "relevance": 0.5
+    },
+    {
+      "query": "kidde alarm",
+      "relevance": 0.6
+    },
+    {
+      "query": "mains heat detector",
+      "relevance": 0.6
+    },
+    {
+      "query": "gas sniffer detector",
+      "relevance": 0.6
+    },
+    {
+      "query": "smoke detectors screwfix",
+      "relevance": 0.6
+    },
+    {
+      "query": "10 year smoke alarm",
+      "relevance": 0.8
+    },
+    {
+      "query": "ei144",
+      "relevance": 0.8
+    },
+    {
+      "query": "fire angel carbon monoxide detector",
+      "relevance": 0.8
+    },
+    {
+      "query": "rauchmelder",
+      "relevance": 0.5
+    },
+    {
+      "query": "smoke detector cover",
+      "relevance": 0.8
+    },
+    {
+      "query": "ei144 heat alarm",
+      "relevance": 0.8
+    },
+    {
+      "query": "ctec fire",
+      "relevance": 0.6
+    },
+    {
+      "query": "apollo xp95",
+      "relevance": 0.6
+   

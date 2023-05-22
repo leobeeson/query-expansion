@@ -1,0 +1,353 @@
+{
+  "query_audits": [
+    {
+      "query": "aqua fantasy aquapark hotel & spa",
+      "relevance": 0.3
+    },
+    {
+      "query": "dayman t shirt",
+      "relevance": 0
+    },
+    {
+      "query": "uk detox retreat",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap detox retreats uk",
+      "relevance": 0.5
+    },
+    {
+      "query": "rafayel spa",
+      "relevance": 0.7
+    },
+    {
+      "query": "vann",
+      "relevance": 0
+    },
+    {
+      "query": "retreat somerset",
+      "relevance": 0.6
+    },
+    {
+      "query": "spa hotel levitunturi",
+      "relevance": 0.7
+    },
+    {
+      "query": "weight loss retreat uk cheap",
+      "relevance": 0.8
+    },
+    {
+      "query": "ambar beach & spa",
+      "relevance": 0.3
+    },
+    {
+      "query": "zalagh kasbah & spa",
+      "relevance": 0.3
+    },
+    {
+      "query": "palm springs spa",
+      "relevance": 0.4
+    },
+    {
+      "query": "spa in weybridge",
+      "relevance": 0.7
+    },
+    {
+      "query": "grayshott spa offers",
+      "relevance": 0.7
+    },
+    {
+      "query": "the weybridge health club and spa",
+      "relevance": 0.6
+    },
+    {
+      "query": "sofitel agadir thalassa sea & spa",
+      "relevance": 0.4
+    },
+    {
+      "query": "health retreat bali",
+      "relevance": 0.6
+    },
+    {
+      "query": "ocean beach hotel and spa",
+      "relevance": 0.7
+    },
+    {
+      "query": "groupon spa weekend",
+      "relevance": 0.5
+    },
+    {
+      "query": "luxury fitness retreats",
+      "relevance": 0.6
+    },
+    {
+      "query": "villa padierna palace hotel",
+      "relevance": 0.9
+    },
+    {
+      "query": "chevin park otley",
+      "relevance": 0.5
+    },
+    {
+      "query": "spa weekend suffolk",
+      "relevance": 0.6
+    },
+    {
+      "query": "cedar falls health farm & spa taunton",
+      "relevance": 0.8
+    },
+    {
+      "query": "spa weekend gift",
+      "relevance": 0.5
+    },
+    {
+      "query": "piestany spa",
+      "relevance": 0.4
+    },
+    {
+      "query": "therme parka",
+      "relevance": 0
+    },
+    {
+      "query": "chateau de pizay",
+      "relevance": 0.4
+    },
+    {
+      "query": "venosa beach resort & spa turkey",
+      "relevance": 0.3
+    },
+    {
+      "query": "guildford spa",
+      "relevance": 0.6
+    },
+    {
+      "query": "spa days taunton",
+      "relevance": 0.6
+    },
+    {
+      "query": "wellness retreats uk",
+      "relevance": 0.6
+    },
+    {
+      "query": "champneys forest mere",
+      "relevance": 0.7
+    },
+    {
+      "query": "karma hotel st martins",
+      "relevance": 0.4
+    },
+    {
+      "query": "champneys day spa offers",
+      "relevance": 0.7
+    },
+    {
+      "query": "hotel helvetia",
+      "relevance": 0.4
+    },
+    {
+      "query": "skodsborg kurhotel",
+      "relevance": 0.4
+    },
+    {
+      "query": "luxury spa retreats uk",
+      "relevance": 0.9
+    },
+    {
+      "query": "vale spa",
+      "relevance": 0.7
+    },
+    {
+      "query": "wellbeing retreats europe",
+      "relevance": 0.6
+    },
+    {
+      "query": "wellness hotel",
+      "relevance": 0.6
+    },
+    {
+      "query": "luxury yoga retreats",
+      "relevance": 0.6
+    },
+    {
+      "query": "forest mere spa offers",
+      "relevance": 0.7
+    },
+    {
+      "query": "spa bury st edmunds",
+      "relevance": 0.7
+    },
+    {
+      "query": "russell hotel tunbridge wells",
+      "relevance": 0.6
+    },
+    {
+      "query": "kech boutique hotel and spa",
+      "relevance": 0.4
+    },
+    {
+      "query": "champneys spa offers",
+      "relevance": 0.7
+    },
+    {
+      "query": "cascade wellness",
+      "relevance": 0.5
+    },
+    {
+      "query": "spa weekend for 3",
+      "relevance": 0.5
+    },
+    {
+      "query": "spa breaks staffordshire",
+      "relevance": 0.6
+    },
+    {
+      "query": "irena eris spa",
+      "relevance": 0.4
+    },
+    {
+      "query": "smart and simple hotel tunbridge wells",
+      "relevance": 0.5
+    },
+    {
+      "query": "qc termeroma spa and resort",
+      "relevance": 0.4
+    },
+    {
+      "query": "jandia golf",
+      "relevance": 0.3
+    },
+    {
+      "query": "henlow grange spa day",
+      "relevance": 0.6
+    },
+    {
+      "query": "ananda himalayas",
+      "relevance": 0.6
+    },
+    {
+      "query": "pontlands park hotel spa",
+      "relevance": 0.6
+    },
+    {
+      "query": "premier spa software",
+      "relevance": 0
+    },
+    {
+      "query": "weight loss retreat",
+      "relevance": 0.8
+    },
+    {
+      "query": "weight loss retreat centers",
+      "relevance": 0.8
+    },
+    {
+      "query": "hotel solverde spa & wellness center",
+      "relevance": 0.4
+    },
+    {
+      "query": "bernardus lodge",
+      "relevance": 0.9
+    },
+    {
+      "query": "health farm uk weight loss",
+      "relevance": 0.8
+    },
+    {
+      "query": "yoga retreats in thailand",
+      "relevance": 0.6
+    },
+    {
+      "query": "crep cure",
+      "relevance": 0
+    },
+    {
+      "query": "avenli spa",
+      "relevance": 0.3
+    },
+    {
+      "query": "spa weekend liverpool",
+      "relevance": 0.5
+    },
+    {
+      "query": "thalasso spa",
+      "relevance": 0.4
+    },
+    {
+      "query": "spa afternoon",
+      "relevance": 0.5
+    },
+    {
+      "query": "tivoli victoria",
+      "relevance": 0.9
+    },
+    {
+      "query": "hivernage hotel and spa",
+      "relevance": 0.4
+    },
+    {
+      "query": "spa weekend bristol",
+      "relevance": 0.6
+    },
+    {
+      "query": "hilton spa reading",
+      "relevance": 0.7
+    },
+    {
+      "query": "les jardins de l agdal hotel & spa",
+      "relevance": 0.4
+    },
+    {
+      "query": "chevin country park hotel",
+      "relevance": 0.5
+    },
+    {
+      "query": "spa stockholm",
+      "relevance": 0.4
+    },
+    {
+      "query": "bali fitness retreat",
+      "relevance": 0.6
+    },
+    {
+      "query": "wellness app",
+      "relevance": 0
+    },
+    {
+      "query": "the grand hotel & spa york",
+      "relevance": 0.7
+    },
+    {
+      "query": "spa in dover",
+      "relevance": 0.5
+    },
+    {
+      "query": "ananda spa himalayas",
+      "relevance": 0.6
+    },
+    {
+      "query": "brooklands spa hotel",
+      "relevance": 0.7
+    },
+    {
+      "query": "ragdale offers",
+      "relevance": 0.7
+    },
+    {
+      "query": "weight loss health farms uk",
+      "relevance": 0.8
+    },
+    {
+      "query": "hotel austria obergurgl",
+      "relevance": 0.4
+    },
+    {
+      "query": "carnac helmet",
+      "relevance": 0
+    },
+    {
+      "query": "hudson bourbon",
+      "relevance": 0
+    },
+    {
+      "query": "avenida sofia hotel & spa",
+      "relevance

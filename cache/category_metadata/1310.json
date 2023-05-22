@@ -1,0 +1,194 @@
+{
+    "label": "Building Inspection and Compliance",
+    "description": "Services related to building inspection, compliance, and regulation.",
+    "intents": [
+        "Ensure compliance with building regulations",
+        "Get a structural engineer's report",
+        "Remove asbestos from a property",
+        "Conduct a property inspection",
+        "Find a building inspector",
+        "Get a fire safety inspection",
+        "Check electrical installation",
+        "Conduct a mold inspection",
+        "Get a vehicle inspection",
+        "Conduct a medication risk assessment"
+    ],
+    "subcategories": [
+        {
+            "label": "Structural Engineering",
+            "relevance": 0.9,
+            "description": "Services related to structural engineering and calculations.",
+            "nouns": [
+                "Structural engineer",
+                "Report",
+                "Cost",
+                "Jobs",
+                "Survey",
+                "Calculations",
+                "Inspection",
+                "Companies",
+                "Doncaster",
+                "Wolverhampton"
+            ],
+            "subtopics": [
+                "Structural engineer report",
+                "Structural engineer cost",
+                "Structural engineering jobs"
+            ]
+        },
+        {
+            "label": "Building Regulations and Compliance",
+            "relevance": 0.8,
+            "description": "Services related to building regulations and compliance.",
+            "nouns": [
+                "Building control services",
+                "Lack of building regulations approval indemnity insurance",
+                "Amendment 3 consumer unit",
+                "Loft insulation thickness regulations",
+                "Driveway regulations",
+                "Building regulations for loft conversion",
+                "Soakaway regulations",
+                "Building regulations online",
+                "Temporary building planning permission",
+                "Private building control inspectors"
+            ],
+            "subtopics": [
+                "Building control services",
+                "Building regulations approval",
+                "Loft conversion regulations"
+            ]
+        },
+        {
+            "label": "Fire Safety",
+            "relevance": 0.7,
+            "description": "Services related to fire safety in buildings.",
+            "nouns": [
+                "Fire safety in care homes",
+                "Fire extinguisher maintenance",
+                "Fire safety log book",
+                "Fire extinguisher codes",
+                "Extinguisher for electrical fire",
+                "Fire drill log",
+                "Fire alarm certificate of completion",
+                "Smoke alarms",
+                "Smoke vents building regulations",
+                "Fire escape stairs regulations"
+            ],
+            "subtopics": [
+                "Fire safety inspection",
+                "Fire extinguisher maintenance",
+                "Fire alarm certification"
+            ]
+        },
+        {
+            "label": "Asbestos Inspection and Removal",
+            "relevance": 0.7,
+            "description": "Services related to asbestos inspection and removal.",
+            "nouns": [
+                "Mould specialist",
+                "Lead paint test",
+                "Asbestos garage removal",
+                "Asbestos sampling",
+                "Artex asbestos testing",
+                "Asbestos air testing",
+                "Domestic asbestos survey",
+                "Asbestos identification",
+                "Asbestos management plan",
+                "Asbestos survey northern ireland"
+            ],
+            "subtopics": [
+                "Asbestos inspection",
+                "Asbestos removal",
+                "Asbestos testing"
+            ]
+        },
+        {
+            "label": "Vehicle Inspection",
+            "relevance": 0.6,
+            "description": "Services related to vehicle inspection.",
+            "nouns": [
+                "PSV inspection sheet",
+                "HGV inspection sheets",
+                "Vehicle daily check sheet template",
+                "Vehicle inspection checklist template",
+                "HGV 6 week inspection sheets",
+                "VOSA MOT checklist",
+                "Vehicle inspection report",
+                "HGV daily check sheet template",
+                "Vehicle check sheet",
+                "Vehicle checklist form"
+            ],
+            "subtopics": [
+                "PSV inspection",
+                "HGV inspection",
+                "Vehicle checklists"
+            ]
+        },
+        {
+            "label": "Property Inspection",
+            "relevance": 0.6,
+            "description": "Services related to property inspection.",
+            "nouns": [
+                "Printable checklist for moving house",
+                "Property inspection report template free",
+                "Inventory report",
+                "Property inspection report for spouse visa",
+                "Property inspection template",
+                "Home condition report",
+                "Rental property inspection checklist",
+                "Nationwide property valuation",
+                "Home survey report",
+                "Property inspection report london"
+            ],
+            "subtopics": [
+                "Property inspection report",
+                "Home inspection services",
+                "Rental property inspection"
+            ]
+        },
+        {
+            "label": "Electrical Inspection",
+            "relevance": 0.5,
+            "description": "Services related to electrical inspection.",
+            "nouns": [
+                "Electrical installation certificate template",
+                "Electrical inspection report",
+                "Electrical inspection cost",
+                "Electrical permit to work form",
+                "Niceic test sheets",
+                "BS7671",
+                "PAT testing paperwork",
+                "PAT testing sheets",
+                "PAT test log sheet",
+                "PAT testing template"
+            ],
+            "subtopics": [
+                "Electrical inspection report",
+                "PAT testing",
+                "BS7671 regulations"
+            ]
+        },
+        {
+            "label": "CQC Inspection and Ratings",
+            "relevance": 0.5,
+            "description": "Services related to Care Quality Commission (CQC) inspection and ratings.",
+            "nouns": [
+                "CQC inspection ratings",
+                "CQC regulations 2009",
+                "CQC reports nursing homes",
+                "CQC 5 standards",
+                "CQC standards 2015",
+                "CQC reports domiciliary care",
+                "CQC care certificate",
+                "CQC inspector vacancies",
+                "Preparing for CQC inspection",
+                "Essential standards CQC"
+            ],
+            "subtopics": [
+                "CQC inspection ratings",
+                "CQC inspection reports",
+                "CQC inspection checklist"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,385 @@
+{
+  "query_audits": [
+    {
+      "query": "dumper ticket prices",
+      "relevance": 0.5
+    },
+    {
+      "query": "mini diggers for sale ebay",
+      "relevance": 1
+    },
+    {
+      "query": "sit on digger",
+      "relevance": 0.8
+    },
+    {
+      "query": "hitachi excavator for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "skip loader",
+      "relevance": 0.5
+    },
+    {
+      "query": "jcb spare parts",
+      "relevance": 0.8
+    },
+    {
+      "query": "jcb phone",
+      "relevance": 0.2
+    },
+    {
+      "query": "caterpillar outfit",
+      "relevance": 0.1
+    },
+    {
+      "query": "coin dozer pirates",
+      "relevance": 0
+    },
+    {
+      "query": "rc bulldozer",
+      "relevance": 0.3
+    },
+    {
+      "query": "dozer games",
+      "relevance": 0.2
+    },
+    {
+      "query": "amd bulldozer",
+      "relevance": 0
+    },
+    {
+      "query": "jcb 535 95 for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "jcb 803",
+      "relevance": 0.7
+    },
+    {
+      "query": "3 tonne excavator",
+      "relevance": 0.9
+    },
+    {
+      "query": "manitou for sale",
+      "relevance": 0.6
+    },
+    {
+      "query": "jcb crane",
+      "relevance": 0.4
+    },
+    {
+      "query": "13 ton excavator for sale uk",
+      "relevance": 0.9
+    },
+    {
+      "query": "buy mini digger",
+      "relevance": 1
+    },
+    {
+      "query": "excavator attachments",
+      "relevance": 0.9
+    },
+    {
+      "query": "used machinery",
+      "relevance": 0.5
+    },
+    {
+      "query": "jcb loading shovel",
+      "relevance": 0.7
+    },
+    {
+      "query": "diggers for sale scotland",
+      "relevance": 0.8
+    },
+    {
+      "query": "grab lorry",
+      "relevance": 0.5
+    },
+    {
+      "query": "skid steer hire",
+      "relevance": 0.5
+    },
+    {
+      "query": "jcb toy digger",
+      "relevance": 0.8
+    },
+    {
+      "query": "jcb 530 70",
+      "relevance": 0.7
+    },
+    {
+      "query": "360 digger training",
+      "relevance": 0.8
+    },
+    {
+      "query": "digger hire",
+      "relevance": 0.9
+    },
+    {
+      "query": "charlie caterpillar",
+      "relevance": 0.1
+    },
+    {
+      "query": "digger licence",
+      "relevance": 0.8
+    },
+    {
+      "query": "hire a mini digger",
+      "relevance": 1
+    },
+    {
+      "query": "telehandler hire",
+      "relevance": 0.6
+    },
+    {
+      "query": "counting caterpillar",
+      "relevance": 0
+    },
+    {
+      "query": "multione",
+      "relevance": 0.5
+    },
+    {
+      "query": "rc construction",
+      "relevance": 0.3
+    },
+    {
+      "query": "tracked mini dumper",
+      "relevance": 0.9
+    },
+    {
+      "query": "digger parts",
+      "relevance": 0.9
+    },
+    {
+      "query": "excavator for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "ride on digger excavator",
+      "relevance": 0.8
+    },
+    {
+      "query": "machinery for sale",
+      "relevance": 0.5
+    },
+    {
+      "query": "cat phone",
+      "relevance": 0.1
+    },
+    {
+      "query": "360 digger for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "used mini diggers",
+      "relevance": 0.9
+    },
+    {
+      "query": "second hand mini diggers for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "avant loader for sale",
+      "relevance": 0.5
+    },
+    {
+      "query": "chenille jumper",
+      "relevance": 0.1
+    },
+    {
+      "query": "muck truck for sale",
+      "relevance": 0.5
+    },
+    {
+      "query": "jcb 3cx for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "3 ton mini digger for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "brokk",
+      "relevance": 0.3
+    },
+    {
+      "query": "tumble track uk",
+      "relevance": 0
+    },
+    {
+      "query": "pallet forks",
+      "relevance": 0.5
+    },
+    {
+      "query": "mini dumper for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "articulated truck",
+      "relevance": 0.5
+    },
+    {
+      "query": "caterpillar games",
+      "relevance": 0.1
+    },
+    {
+      "query": "cat parts",
+      "relevance": 0.1
+    },
+    {
+      "query": "jcb 3cx",
+      "relevance": 0.9
+    },
+    {
+      "query": "cat ladders for sale",
+      "relevance": 0.1
+    },
+    {
+      "query": "bobcat digger for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "telehandler licence",
+      "relevance": 0.6
+    },
+    {
+      "query": "doosan forklift",
+      "relevance": 0.5
+    },
+    {
+      "query": "kubota excavator",
+      "relevance": 0.9
+    },
+    {
+      "query": "hitachi mini digger for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "hitachi excavators uk",
+      "relevance": 0.9
+    },
+    {
+      "query": "cheap mini diggers for sale",
+      "relevance": 1
+    },
+    {
+      "query": "expedition equipment",
+      "relevance": 0
+    },
+    {
+      "query": "bulldozer for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "used excavator for sale",
+      "relevance": 0.9
+    },
+    {
+      "query": "skytrak golf",
+      "relevance": 0
+    },
+    {
+      "query": "pink caterpillar",
+      "relevance": 0.1
+    },
+    {
+      "query": "cat construction express train",
+      "relevance": 0.1
+    },
+    {
+      "query": "loader for sale",
+      "relevance": 0.5
+    },
+    {
+      "query": "diggers for sale ireland",
+      "relevance": 0.8
+    },
+    {
+      "query": "mini telehandler",
+      "relevance": 0.6
+    },
+    {
+      "query": "lumia 950 specs",
+      "relevance": 0
+    },
+    {
+      "query": "jcb sitemaster",
+      "relevance": 0.7
+    },
+    {
+      "query": "excavator sales",
+      "relevance": 0.9
+    },
+    {
+      "query": "suma bac d10",
+      "relevance": 0
+    },
+    {
+      "query": "trima loaders",
+      "relevance": 0.5
+    },
+    {
+      "query": "mini dumper hire",
+      "relevance": 0.9
+    },
+    {
+      "query": "mini excavator for sale uk",
+      "relevance": 1
+    },
+    {
+      "query": "loader truck",
+      "relevance": 0.5
+    },
+    {
+      "query": "the very hungover caterpillar",
+      "relevance": 0.1
+    },
+    {
+      "query": "telehandler jobs",
+      "relevance": 0.6
+    },
+    {
+      "query": "mini digger sales",
+      "relevance": 1
+    },
+    {
+      "query": "lego excavator",
+      "relevance": 0.3
+    },
+    {
+      "query": "power barrow for sale",
+      "relevance": 0.5
+    },
+    {
+      "query": "mini digger hire kent",
+      "relevance": 1
+    },
+    {
+      "query": "grundomat",
+      "relevance": 0.3
+    },
+    {
+      "query": "tracked dumper",
+      "relevance": 0.9
+    },
+    {
+      "query": "digger rental",
+      "relevance": 0.9
+    },
+    {
+      "query": "jcb 520 50",
+      "relevance": 0.7
+    },
+    {
+      "query": "used excavators for sale uk",
+      "relevance": 0.9
+    },
+    {
+      "query": "stump grinder for sale uk",
+      "relevance": 0.5
+    },
+    {
+      "query": "jcb forklift",
+      "relevance

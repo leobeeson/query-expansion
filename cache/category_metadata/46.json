@@ -1,0 +1,74 @@
+{
+    "label": "Paranormal and Spiritual Services",
+    "description": "Services related to psychic readings, magic, spiritual guidance, and ghost hunting.",
+    "intents": [
+        "Get a psychic reading",
+        "Learn about magic and spells",
+        "Connect with spiritual guides",
+        "Go on a ghost hunt"
+    ],
+    "subcategories": [
+        {
+            "label": "Psychic Readings",
+            "relevance": 0.8,
+            "description": "Services that offer psychic readings and predictions.",
+            "nouns": [
+                "clairvoyant",
+                "medium",
+                "psychic",
+                "tarot cards"
+            ],
+            "subtopics": [
+                "Love and relationships",
+                "Career and finance",
+                "Past life regression"
+            ]
+        },
+        {
+            "label": "Magic and Spells",
+            "relevance": 0.7,
+            "description": "Services that offer magic and spells for various purposes.",
+            "nouns": [
+                "black magic",
+                "candle magic",
+                "money spells",
+                "wish spells"
+            ],
+            "subtopics": [
+                "Love spells",
+                "Protection spells",
+                "Good luck spells"
+            ]
+        },
+        {
+            "label": "Spiritual Guidance",
+            "relevance": 0.6,
+            "description": "Services that offer spiritual guidance and advice.",
+            "nouns": [
+                "spiritualist",
+                "spiritual medium",
+                "spiritual guidance"
+            ],
+            "subtopics": [
+                "Meditation",
+                "Chakra balancing",
+                "Energy healing"
+            ]
+        },
+        {
+            "label": "Ghost Hunting",
+            "relevance": 0.5,
+            "description": "Services that offer ghost hunting experiences and equipment.",
+            "nouns": [
+                "ghost hunts",
+                "ghost tours",
+                "ghost equipment"
+            ],
+            "subtopics": [
+                "Haunted locations",
+                "Paranormal investigations",
+                "EMF meters"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,387 @@
+{
+  "query_audits": [
+    {
+      "query": "cheap flights to jamaica",
+      "relevance": 0.8
+    },
+    {
+      "query": "birmingham airport lounge",
+      "relevance": 0.7
+    },
+    {
+      "query": "flights to philippines",
+      "relevance": 0.8
+    },
+    {
+      "query": "stratajet",
+      "relevance": 0
+    },
+    {
+      "query": "edinburgh airport lounge",
+      "relevance": 0.7
+    },
+    {
+      "query": "lounge pass",
+      "relevance": 0.4
+    },
+    {
+      "query": "flights to tenerife south",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to oslo",
+      "relevance": 0.8
+    },
+    {
+      "query": "gatwick lounges",
+      "relevance": 0.7
+    },
+    {
+      "query": "flights to prague from london",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to india",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to new york",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to mauritius",
+      "relevance": 0.8
+    },
+    {
+      "query": "london to edinburgh flights",
+      "relevance": 0.4
+    },
+    {
+      "query": "flights to antalya",
+      "relevance": 0.8
+    },
+    {
+      "query": "virgin flights to orlando",
+      "relevance": 0.5
+    },
+    {
+      "query": "flights to newcastle",
+      "relevance": 0.8
+    },
+    {
+      "query": "aspire lounge manchester",
+      "relevance": 0.7
+    },
+    {
+      "query": "heathrow airport lounges",
+      "relevance": 0.7
+    },
+    {
+      "query": "flights to bucharest",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to morocco",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to new zealand",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to sydney",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to st lucia",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to hamburg",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to anywhere",
+      "relevance": 0.6
+    },
+    {
+      "query": "cheap airlines",
+      "relevance": 0.6
+    },
+    {
+      "query": "cheap flights to krakow",
+      "relevance": 0.8
+    },
+    {
+      "query": "low cost airlines",
+      "relevance": 0.6
+    },
+    {
+      "query": "book flights",
+      "relevance": 0.4
+    },
+    {
+      "query": "cheap flights to bali",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights glasgow to london",
+      "relevance": 0.4
+    },
+    {
+      "query": "alicante flights",
+      "relevance": 0.8
+    },
+    {
+      "query": "london to toronto",
+      "relevance": 0.4
+    },
+    {
+      "query": "london to hong kong",
+      "relevance": 0.4
+    },
+    {
+      "query": "flights to edinburgh",
+      "relevance": 0.8
+    },
+    {
+      "query": "manchester to amsterdam",
+      "relevance": 0.4
+    },
+    {
+      "query": "egyptair flight",
+      "relevance": 0.4
+    },
+    {
+      "query": "cheap european flights",
+      "relevance": 0.6
+    },
+    {
+      "query": "flights to split",
+      "relevance": 0.8
+    },
+    {
+      "query": "birmingham to dublin",
+      "relevance": 0.4
+    },
+    {
+      "query": "cheap flights to alicante",
+      "relevance": 0.8
+    },
+    {
+      "query": "emirates business class",
+      "relevance": 0.5
+    },
+    {
+      "query": "cheap flights to vienna",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights ryanair",
+      "relevance": 0.6
+    },
+    {
+      "query": "cheap flights to malta",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to marseille",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to athens",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to las vegas",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to calgary",
+      "relevance": 0.8
+    },
+    {
+      "query": "london to san francisco",
+      "relevance": 0.4
+    },
+    {
+      "query": "cheapflights",
+      "relevance": 0.4
+    },
+    {
+      "query": "passagens aereas",
+      "relevance": 0
+    },
+    {
+      "query": "cheap flights to lisbon",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to gran canaria",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to vegas",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to tenerife from manchester",
+      "relevance": 0.8
+    },
+    {
+      "query": "bilete avion ieftine",
+      "relevance": 0
+    },
+    {
+      "query": "cheap flights to geneva",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to barcelona from london",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to vancouver",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights co uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "florida flights",
+      "relevance": 0.8
+    },
+    {
+      "query": "edinburgh to london flights",
+      "relevance": 0.4
+    },
+    {
+      "query": "flights to boston",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to nice",
+      "relevance": 0.8
+    },
+    {
+      "query": "eu flight delay compensation",
+      "relevance": 0.4
+    },
+    {
+      "query": "manchester airport lounge",
+      "relevance": 0.7
+    },
+    {
+      "query": "cheap flights to morocco",
+      "relevance": 0.8
+    },
+    {
+      "query": "london to budapest",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to larnaca",
+      "relevance": 0.8
+    },
+    {
+      "query": "bali flights",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to murcia",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to corfu",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to bangkok",
+      "relevance": 0.8
+    },
+    {
+      "query": "london to dubai",
+      "relevance": 0.4
+    },
+    {
+      "query": "flights to china",
+      "relevance": 0.8
+    },
+    {
+      "query": "manchester to dublin",
+      "relevance": 0.4
+    },
+    {
+      "query": "flights",
+      "relevance": 0.4
+    },
+    {
+      "query": "cheap flights to majorca",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to amsterdam",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to delhi",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights london to dublin",
+      "relevance": 0.4
+    },
+    {
+      "query": "cheap flights to europe",
+      "relevance": 0.6
+    },
+    {
+      "query": "heathrow terminal 3 parking",
+      "relevance": 0.4
+    },
+    {
+      "query": "flights to finland",
+      "relevance": 0.8
+    },
+    {
+      "query": "cheap flights to rome",
+      "relevance": 0.8
+    },
+    {
+      "query": "flights to tenerife",
+      "relevance": 0.8
+    },
+    {
+      "query": "ucuz uçak bileti",
+      "relevance": 0
+    },
+    {
+      "query": "london to alicante",
+      "relevance": 0.8
+    },
+    {
+      "query": "london flights",
+      "relevance": 0.4
+    },
+    {
+      "query": "london to paris flights",
+      "relevance": 0.4
+    },
+    {
+      "query": "bilete avion londra bucuresti",
+      "relevance": 0
+    },
+    {
+      "query": "flights to limoges",
+      "relevance": 0.8
+    },
+    {
+      "query": "simon air",
+      "relevance": 0.5
+    },
+    {
+      "query": "newcastle airport lounge",
+      "relevance": 0.7
+    },
+    {

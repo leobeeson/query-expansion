@@ -1,0 +1,136 @@
+{
+    "label": "Medical Practices and Clinics",
+    "description": "Market category encompassing search queries related to medical practices and clinics.",
+    "intents": [
+        "Find a medical practice or clinic near me",
+        "Buy or sell a medical practice",
+        "Book an appointment with a private GP",
+        "Get travel vaccinations or advice",
+        "Find a podiatrist or chiropractor",
+        "Get an online doctor consultation",
+        "Get a sick note or repeat prescription",
+        "Find a job in a medical practice or clinic"
+    ],
+    "subcategories": [
+        {
+            "label": "Private General Practitioners",
+            "relevance": 0.9,
+            "description": "Medical practices that provide primary care services to private patients.",
+            "nouns": [
+                "GP surgery",
+                "private GP",
+                "doctor's appointment",
+                "health check",
+                "sick note",
+                "repeat prescription"
+            ],
+            "subtopics": [
+                "Online consultations",
+                "Home visits",
+                "Corporate health services"
+            ]
+        },
+        {
+            "label": "Travel Clinics",
+            "relevance": 0.8,
+            "description": "Clinics that provide travel vaccinations and advice to people traveling abroad.",
+            "nouns": [
+                "travel clinic",
+                "vaccinations",
+                "malaria tablets",
+                "yellow fever",
+                "travel advice"
+            ],
+            "subtopics": [
+                "Destination-specific advice",
+                "Group bookings",
+                "Corporate travel services"
+            ]
+        },
+        {
+            "label": "Podiatrists and Chiropodists",
+            "relevance": 0.7,
+            "description": "Medical professionals that specialize in foot and ankle care.",
+            "nouns": [
+                "podiatrist",
+                "chiropodist",
+                "foot care",
+                "ankle care",
+                "orthotics"
+            ],
+            "subtopics": [
+                "Sports injuries",
+                "Diabetic foot care",
+                "Nail surgery"
+            ]
+        },
+        {
+            "label": "Chiropractors",
+            "relevance": 0.6,
+            "description": "Medical professionals that specialize in diagnosing and treating musculoskeletal problems.",
+            "nouns": [
+                "chiropractor",
+                "back pain",
+                "neck pain",
+                "spinal adjustment",
+                "muscle pain"
+            ],
+            "subtopics": [
+                "Sports injuries",
+                "Pregnancy care",
+                "Corporate health services"
+            ]
+        },
+        {
+            "label": "Osteopaths",
+            "relevance": 0.6,
+            "description": "Medical professionals that specialize in diagnosing and treating musculoskeletal problems.",
+            "nouns": [
+                "osteopath",
+                "back pain",
+                "neck pain",
+                "spinal adjustment",
+                "muscle pain"
+            ],
+            "subtopics": [
+                "Sports injuries",
+                "Pregnancy care",
+                "Corporate health services"
+            ]
+        },
+        {
+            "label": "Medical Equipment and Furniture",
+            "relevance": 0.5,
+            "description": "Suppliers of medical equipment and furniture to medical practices and clinics.",
+            "nouns": [
+                "medical equipment",
+                "medical furniture",
+                "exam table",
+                "medical chair",
+                "medical plinth"
+            ],
+            "subtopics": [
+                "Examination lights",
+                "Medical scales",
+                "Medical storage solutions"
+            ]
+        },
+        {
+            "label": "Medical Jobs",
+            "relevance": 0.4,
+            "description": "Job listings and recruitment services for medical practices and clinics.",
+            "nouns": [
+                "medical jobs",
+                "healthcare jobs",
+                "doctor jobs",
+                "nurse jobs",
+                "healthcare assistant jobs"
+            ],
+            "subtopics": [
+                "Locum positions",
+                "Permanent positions",
+                "Part-time positions"
+            ]
+        }
+    ]
+}

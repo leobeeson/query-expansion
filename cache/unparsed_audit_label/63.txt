@@ -1,0 +1,400 @@
+{
+  "query_audits": [
+    {
+      "query": "new product development jobs food",
+      "relevance": 0.6
+    },
+    {
+      "query": "probiotic manufacturers",
+      "relevance": 0.0
+    },
+    {
+      "query": "haccp accreditation",
+      "relevance": 0.3
+    },
+    {
+      "query": "testing for nut allergy",
+      "relevance": 0.4
+    },
+    {
+      "query": "custom probiotics d lactate free",
+      "relevance": 0.0
+    },
+    {
+      "query": "food production jobs birmingham",
+      "relevance": 0.8
+    },
+    {
+      "query": "preserving salt",
+      "relevance": 0.0
+    },
+    {
+      "query": "yeast intolerance test nhs",
+      "relevance": 0.4
+    },
+    {
+      "query": "tate & lyle pectin",
+      "relevance": 0.0
+    },
+    {
+      "query": "food technology assistant jobs",
+      "relevance": 0.6
+    },
+    {
+      "query": "allergy and intolerance testing uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "fruit preserved in alcohol",
+      "relevance": 0.0
+    },
+    {
+      "query": "tigernut milk",
+      "relevance": 0.0
+    },
+    {
+      "query": "food technology consulting",
+      "relevance": 0.6
+    },
+    {
+      "query": "paramedic science bsc hons",
+      "relevance": 0.3
+    },
+    {
+      "query": "mcvities jobs manchester",
+      "relevance": 0.0
+    },
+    {
+      "query": "best allergy testing uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "gmp audit checklist for food manufacturers",
+      "relevance": 0.3
+    },
+    {
+      "query": "haccp meaning food safety",
+      "relevance": 0.3
+    },
+    {
+      "query": "igg allergy testing",
+      "relevance": 0.4
+    },
+    {
+      "query": "food nutrition analysis",
+      "relevance": 0.0
+    },
+    {
+      "query": "food powder manufacturers",
+      "relevance": 0.0
+    },
+    {
+      "query": "haccp certification",
+      "relevance": 0.3
+    },
+    {
+      "query": "haccp food safety",
+      "relevance": 0.3
+    },
+    {
+      "query": "tiger nut extract",
+      "relevance": 0.0
+    },
+    {
+      "query": "idli mould",
+      "relevance": 0.0
+    },
+    {
+      "query": "food technician jobs",
+      "relevance": 0.8
+    },
+    {
+      "query": "meat industry jobs uk",
+      "relevance": 0.0
+    },
+    {
+      "query": "degree in paramedic science",
+      "relevance": 0.3
+    },
+    {
+      "query": "technical manager food",
+      "relevance": 0.0
+    },
+    {
+      "query": "test for milk allergy",
+      "relevance": 0.4
+    },
+    {
+      "query": "food technology jobs",
+      "relevance": 0.6
+    },
+    {
+      "query": "allergy uk testing",
+      "relevance": 0.4
+    },
+    {
+      "query": "heat food in car",
+      "relevance": 0.0
+    },
+    {
+      "query": "food hazard analysis",
+      "relevance": 0.0
+    },
+    {
+      "query": "vegetable fermentation",
+      "relevance": 0.0
+    },
+    {
+      "query": "food packing jobs in birmingham",
+      "relevance": 0.8
+    },
+    {
+      "query": "universities for paramedic science",
+      "relevance": 0.3
+    },
+    {
+      "query": "the optimum nutrition bible",
+      "relevance": 0.0
+    },
+    {
+      "query": "food science jobs scotland",
+      "relevance": 0.6
+    },
+    {
+      "query": "types of food processing",
+      "relevance": 0.8
+    },
+    {
+      "query": "food quality assurance job description",
+      "relevance": 0.6
+    },
+    {
+      "query": "university paramedic science",
+      "relevance": 0.3
+    },
+    {
+      "query": "really rotten experiments the kit",
+      "relevance": 0.0
+    },
+    {
+      "query": "vegetable preservation",
+      "relevance": 0.0
+    },
+    {
+      "query": "cholesterol lowering yogurt drinks",
+      "relevance": 0.0
+    },
+    {
+      "query": "food safety audit checklist restaurant",
+      "relevance": 0.3
+    },
+    {
+      "query": "foundation degree paramedic science",
+      "relevance": 0.3
+    },
+    {
+      "query": "testing for peanut allergy",
+      "relevance": 0.4
+    },
+    {
+      "query": "bakery ingredients suppliers",
+      "relevance": 0.0
+    },
+    {
+      "query": "food product development jobs",
+      "relevance": 0.6
+    },
+    {
+      "query": "coffee aroma kit",
+      "relevance": 0.0
+    },
+    {
+      "query": "rast testing for allergies",
+      "relevance": 0.4
+    },
+    {
+      "query": "kinesiology testing for food allergies",
+      "relevance": 0.4
+    },
+    {
+      "query": "boilie ingredients suppliers",
+      "relevance": 0.0
+    },
+    {
+      "query": "test for cat allergy",
+      "relevance": 0.4
+    },
+    {
+      "query": "food packing jobs in london",
+      "relevance": 0.8
+    },
+    {
+      "query": "food science books",
+      "relevance": 0.6
+    },
+    {
+      "query": "jobs in food production",
+      "relevance": 0.8
+    },
+    {
+      "query": "food manufacturing jobs",
+      "relevance": 0.8
+    },
+    {
+      "query": "new product development jobs",
+      "relevance": 0.6
+    },
+    {
+      "query": "bsc paramedic science distance learning",
+      "relevance": 0.3
+    },
+    {
+      "query": "oligosaccharide syrup",
+      "relevance": 0.0
+    },
+    {
+      "query": "mcvities jobs glasgow",
+      "relevance": 0.0
+    },
+    {
+      "query": "testing baby for allergies",
+      "relevance": 0.4
+    },
+    {
+      "query": "cinnachrome",
+      "relevance": 0.0
+    },
+    {
+      "query": "meat industry jobs",
+      "relevance": 0.0
+    },
+    {
+      "query": "sensory smelling pots",
+      "relevance": 0.0
+    },
+    {
+      "query": "aseptic manufacturing jobs",
+      "relevance": 0.0
+    },
+    {
+      "query": "paramedic science degree scotland",
+      "relevance": 0.3
+    },
+    {
+      "query": "asyra food sensitivity testing",
+      "relevance": 0.4
+    },
+    {
+      "query": "food production supervisor jobs",
+      "relevance": 0.8
+    },
+    {
+      "query": "access to paramedic science",
+      "relevance": 0.3
+    },
+    {
+      "query": "open university paramedic science",
+      "relevance": 0.3
+    },
+    {
+      "query": "jobs in food science",
+      "relevance": 0.6
+    },
+    {
+      "query": "access to paramedic science course",
+      "relevance": 0.3
+    },
+    {
+      "query": "holland and barrett food intolerance",
+      "relevance": 0.0
+    },
+    {
+      "query": "food bioscience jobs",
+      "relevance": 0.6
+    },
+    {
+      "query": "paramedic science clearing",
+      "relevance": 0.3
+    },
+    {
+      "query": "haccp training manual free download",
+      "relevance": 0.3
+    },
+    {
+      "query": "brc auditor jobs",
+      "relevance": 0.0
+    },
+    {
+      "query": "food science jobs birmingham",
+      "relevance": 0.6
+    },
+    {
+      "query": "allergy testing in kent",
+      "relevance": 0.4
+    },
+    {
+      "query": "paramedic science uk",
+      "relevance": 0.3
+    },
+    {
+      "query": "beany coffee",
+      "relevance": 0.0
+    },
+    {
+      "query": "milk sterilization",
+      "relevance": 0.0
+    },
+    {
+      "query": "quality assurance food jobs",
+      "relevance": 0.6
+    },
+    {
+      "query": "jobs food manufacturing",
+      "relevance": 0.8
+    },
+    {
+      "query": "tate and lyle pectin",
+      "relevance": 0.0
+    },
+    {
+      "query": "food science and technology jobs",
+      "relevance": 0.6
+    },
+    {
+      "query": "horrible science really rotten experiments",
+      "relevance": 0.0
+    },
+    {
+      "query": "test your intolerance reviews",
+      "relevance": 0.4
+    },
+    {
+      "query": "food packing jobs wolverhampton",
+      "relevance": 0.8
+    },
+    {
+      "query": "food manufacturing jobs north west",
+      "relevance": 0.8
+    },
+    {
+      "query": "how to test for nut allergy",
+      "relevance": 0.4
+    },
+    {
+      "query": "food safety management system example",
+      "relevance": 0.3
+    },
+    {
+      "query": "mycotoxin testing",
+      "relevance": 0.0
+    },
+    {
+      "query": "food accreditation",
+      "relevance": 0.3
+    },
+    {
+      "query": "groupon intolerance test",
+      "relevance": 0.4
+    },
+    {
+      "query":

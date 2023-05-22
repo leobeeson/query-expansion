@@ -1,0 +1,173 @@
+{
+  "label": "Printing Equipment",
+  "description": "Machines and tools used for printing and related activities.",
+  "intents": [
+    "Purchase printing equipment",
+    "Find printing press near me",
+    "Learn about lithographic printing",
+    "Buy hydrographics equipment"
+  ],
+  "subcategories": [
+    {
+      "label": "Offset Printers",
+      "relevance": 0.9,
+      "description": "Printing machines that use a flat plate to transfer ink onto paper.",
+      "nouns": [
+        "Offset printer",
+        "Litho printing machines",
+        "Litho plate",
+        "Lithographic printing plates",
+        "Lithographic stone",
+        "Litho machine minder jobs",
+        "Litho printers for sale",
+        "Litho printers leeds",
+        "Litho printing london",
+        "Litho printer vacancies"
+      ],
+      "subtopics": [
+        "Sheet-fed offset printers",
+        "Web offset printers",
+        "Digital offset printers"
+      ]
+    },
+    {
+      "label": "Digital Printers",
+      "relevance": 0.8,
+      "description": "Printing machines that use digital files to print onto paper or other materials.",
+      "nouns": [
+        "Digital printing machine",
+        "Digital label press",
+        "HP Indigo printing",
+        "HP Indigo digital press",
+        "Roland machine",
+        "Roland printing machine",
+        "Large printing machine",
+        "Poster printing machine",
+        "Printing press software",
+        "Printing machine price"
+      ],
+      "subtopics": [
+        "Inkjet printers",
+        "Laser printers",
+        "UV printers"
+      ]
+    },
+    {
+      "label": "Letterpress Printers",
+      "relevance": 0.7,
+      "description": "Printing machines that use raised type or images to press ink onto paper.",
+      "nouns": [
+        "Letterpress plates",
+        "Letterpress printing uk",
+        "Letterpress printing machine",
+        "Letterpress plates uk",
+        "Letterpress printer for sale",
+        "Custom letterpress plates",
+        "Letterpress equipment",
+        "Adana printing machine",
+        "Adana printing press",
+        "Adana printing press for sale"
+      ],
+      "subtopics": [
+        "Platen presses",
+        "Cylinder presses",
+        "Tabletop presses"
+      ]
+    },
+    {
+      "label": "Hydrographics Equipment",
+      "relevance": 0.6,
+      "description": "Equipment used for hydrographic printing, a process of transferring designs onto three-dimensional objects.",
+      "nouns": [
+        "Hydrographics equipment",
+        "Hydro dipping machine",
+        "Hydro dipping printer",
+        "Hydrographic film printer",
+        "Water transfer printing machine",
+        "Water transfer printer",
+        "Hydro dipping equipment for sale",
+        "Cost of hydro dipping equipment",
+        "Sublimation plate press",
+        "Sublimation printing machines for sale"
+      ],
+      "subtopics": [
+        "Hydrographic tanks",
+        "Activator sprays",
+        "Hydrographic films"
+      ]
+    },
+    {
+      "label": "Flexographic Printers",
+      "relevance": 0.5,
+      "description": "Printing machines that use flexible plates to print onto various materials.",
+      "nouns": [
+        "Flexo printing machine",
+        "Flexographic printer",
+        "Flexo plate making",
+        "Flexo plate",
+        "Flexo label printing machine",
+        "Flexographic printer salary",
+        "Flexo jobs",
+        "Flex machine",
+        "Flexographic printers",
+        "Flexographic printing machine"
+      ],
+      "subtopics": [
+        "Stack presses",
+        "Central impression presses",
+        "In-line presses"
+      ]
+    },
+    {
+      "label": "Proofing Presses",
+      "relevance": 0.4,
+      "description": "Printing machines used for creating test prints before final production.",
+      "nouns": [
+        "Proof press for sale",
+        "Proofing press for sale",
+        "Intaglio press for sale",
+        "Printing guillotine",
+        "Printing presses for sale",
+        "Printing presses for sale on gumtree",
+        "Printing press for sale uk",
+        "Printing press london",
+        "Printing press near me",
+        "Printing press uk"
+      ],
+      "subtopics": [
+        "Roller proof presses",
+        "Platen proof presses",
+        "Flatbed proof presses"
+      ]
+    },
+    {
+      "label": "Bookbinding Equipment",
+      "relevance": 0.3,
+      "description": "Tools and machines used for binding books.",
+      "nouns": [
+        "Bookbinding equipment",
+        "Bookbinding press",
+        "Bookbinding press for sale",
+        "Bookbinding tools for sale",
+        "Print on a plate",
+        "Photopolymer plate",
+        "Custom letterpress plates",
+        "Letterpress plates",
+        "Letterpress plates uk",
+        "Letterpress printing press"
+      ],
+      "subtopics": [
+        "Sewing machines",
+        "Gluing machines",
+        "Cutting machines"
+      ]
+    },
+    {
+      "label": "Screen Printing Equipment",
+      "relevance": 0.2,
+      "description": "Printing machines that use a mesh screen to transfer ink onto various materials.",
+      "nouns": [
+        "Screen printing platen",
+        "Screen printing equipment",
+        "Screen printing machine",
+        "Home screen printing machine",

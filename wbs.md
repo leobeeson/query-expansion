@@ -9,6 +9,9 @@ An application that can:
 3. Given a search query, decide to which `categories` it is most relevant, and why.
 4. Given a search query, suggest other related `categories` it could be associated to, and why.
 5. Given a set of labelled search queries, identify search queries that are potentially misclassified, suggest a more relevant `category`, and why.
+   * Use to **retrain transformer model**.
+6. Given a small set of search queries from an unbalanced class, suggest similar search queries for upsampling category, and balancing training set.
+   * Use to **retrain transformer model**.
 
 ## Deliverables
 
@@ -20,6 +23,7 @@ An application that can:
    * A `relevance` score for its current `category` label.
    * A suggested label for its most relevant `category`.
    * A `relevance` score for the suggested most relevant `category`.
+6. API POST endpoint that receives a batch of search queries belonging to the same `category`, and returns similar search queries.
 
 ## Tasks
 
@@ -41,14 +45,40 @@ An application that can:
   * Store the LLM category prediction in cache.
   * Allow user to decide if updating the search query's previous persisted prediction with current prediction.
 
+### Improve Model Training Data
+
+#### Option 1: OpenAI API
+
+* For every category:
+  * Provide the LLM with its metadata.
+  * Provide the LLM with its batch of search queries
+  * Make the LLM assign a relevance score to very search query.
+  * Rank the search queries by relevance score.
+  * Identify a threshold for chosing search queries to re-valuate their category.
+* For every search query under the threshold:
+  * Ask the model to suggest the user's intent.
+  * Compare it to every category's embedded (with the same fine-tuned model) metadata.
+  * Define thresholds of certainty/uncertainty to select search queries that require reclassification.
+  * Replace category_id assigned to it in training data with most likely from cosine similarity.
+
+#### Option 2: Fine-Tuned Causal Generation Model
+
+* For every search query:
+  * Ask the LLM to infer the user's intent.
+  * Embed it's answer with the fine-tuned model.
+  * Compare it to every category's embedded (with the same fine-tuned model) metadata.
+  * Define thresholds of certainty/uncertainty to select search queries that require reclassification.
+  * Replace category_id assigned to it in training data with most likely from cosine similarity.
+
 ## Work Packages
 
 * Generate Category Metadata:
-  * Create DTO for set of search queries associated to a same category. #WIP
-  * Create Output Parser Schemas for labels and relevance scores for `category`, `subcategory`, `entities`, `products`, `services`, `brands`, and `companies`. #WIP
-  * Create Prompt Template for sending search queries, and response schema. #WIP
-  * Create response parser. #WIP
-  * Create persistance layer for `category` metadata. #FOCUS
-  * Create index for tracking categories with and without metadata. #FOCUS
+  * Create DTO for set of search queries associated to a same category. #DONE
+  * Create Output Parser Schemas for labels and relevance scores for `category`, `subcategory`, `entities`, `products`, `services`, `brands`, and `companies`. #DONE
+  * Create Prompt Template for sending search queries, and response schema. #DONE
+  * Create response parser. #DONE
+  * Create DataLoader class for loading raw search queries into a DTO. #DONE
+  * Create persistance layer for `category` metadata. #DONE
+  * Create index for tracking categories with and without metadata. #DONE
   * Create QueryHandler for calling LLM, store results, and update index for success or failure of call. #FOCUS
   * Create DAL for `category` metadata.

@@ -1,0 +1,337 @@
+{
+  "query_audits": [
+    {
+      "query": "boys north face jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "north face sangro jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "salomon ski gloves",
+      "relevance": 0.7
+    },
+    {
+      "query": "spyder ski wear",
+      "relevance": 0.9
+    },
+    {
+      "query": "retro ski jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "womens north face puffer jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "trespass ski",
+      "relevance": 0.5
+    },
+    {
+      "query": "the north face aconcagua jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "salomon gloves",
+      "relevance": 0.7
+    },
+    {
+      "query": "ski sale uk",
+      "relevance": 0.5
+    },
+    {
+      "query": "the north face resolve jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "nuptse",
+      "relevance": 0.9
+    },
+    {
+      "query": "mens thermal vests",
+      "relevance": 0.6
+    },
+    {
+      "query": "spyder ski jackets",
+      "relevance": 0.9
+    },
+    {
+      "query": "mens ski suit",
+      "relevance": 0.8
+    },
+    {
+      "query": "the north face nuptse jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "o neill jacket",
+      "relevance": 0.4
+    },
+    {
+      "query": "north face jd",
+      "relevance": 0.4
+    },
+    {
+      "query": "black balaclava",
+      "relevance": 0.5
+    },
+    {
+      "query": "ladies jackets sale",
+      "relevance": 0.4
+    },
+    {
+      "query": "adidas snowboarding jacket",
+      "relevance": 0.5
+    },
+    {
+      "query": "north face jacket junior",
+      "relevance": 0.9
+    },
+    {
+      "query": "tog 24",
+      "relevance": 0.8
+    },
+    {
+      "query": "north face slippers mens",
+      "relevance": 0.4
+    },
+    {
+      "query": "patagonia hats",
+      "relevance": 0.4
+    },
+    {
+      "query": "north face waterproof jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "ski jackets mens sale",
+      "relevance": 0.8
+    },
+    {
+      "query": "thermals for women",
+      "relevance": 0.6
+    },
+    {
+      "query": "ski jackets women sale",
+      "relevance": 0.8
+    },
+    {
+      "query": "helly hansen sale",
+      "relevance": 0.4
+    },
+    {
+      "query": "snowboard sale uk",
+      "relevance": 0.5
+    },
+    {
+      "query": "boys ski jackets",
+      "relevance": 0.9
+    },
+    {
+      "query": "north face boys",
+      "relevance": 0.4
+    },
+    {
+      "query": "north face 3 in 1",
+      "relevance": 0.9
+    },
+    {
+      "query": "gore tex jacket",
+      "relevance": 0.5
+    },
+    {
+      "query": "the north face kids",
+      "relevance": 0.4
+    },
+    {
+      "query": "ski pants mens",
+      "relevance": 0.8
+    },
+    {
+      "query": "man jacket sale",
+      "relevance": 0.4
+    },
+    {
+      "query": "oakley snowboard jackets",
+      "relevance": 0.5
+    },
+    {
+      "query": "north face shoes",
+      "relevance": 0.4
+    },
+    {
+      "query": "o neill ski pants",
+      "relevance": 0.8
+    },
+    {
+      "query": "ladies thermals",
+      "relevance": 0.6
+    },
+    {
+      "query": "schoffel",
+      "relevance": 0.8
+    },
+    {
+      "query": "mens ski clothing",
+      "relevance": 0.8
+    },
+    {
+      "query": "the north face t shirts",
+      "relevance": 0.4
+    },
+    {
+      "query": "cheap ski clothes",
+      "relevance": 0.5
+    },
+    {
+      "query": "the north face fleece",
+      "relevance": 0.6
+    },
+    {
+      "query": "black ski jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "north face stratos jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "ski boots sale",
+      "relevance": 0.8
+    },
+    {
+      "query": "merino wool base layer",
+      "relevance": 0.6
+    },
+    {
+      "query": "north face ski pants",
+      "relevance": 0.9
+    },
+    {
+      "query": "ladies fleece jackets",
+      "relevance": 0.6
+    },
+    {
+      "query": "walking jackets",
+      "relevance": 0.4
+    },
+    {
+      "query": "volcom snowboard jackets",
+      "relevance": 0.5
+    },
+    {
+      "query": "north face quest insulated jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "zara jackets uk",
+      "relevance": 0.4
+    },
+    {
+      "query": "snowboard goggles sale",
+      "relevance": 0.5
+    },
+    {
+      "query": "north face softshell jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "the north face cap",
+      "relevance": 0.4
+    },
+    {
+      "query": "waterproof trousers",
+      "relevance": 0.5
+    },
+    {
+      "query": "ski coats womens",
+      "relevance": 0.8
+    },
+    {
+      "query": "mcmurdo parka",
+      "relevance": 0.4
+    },
+    {
+      "query": "ski jackets uk",
+      "relevance": 0.8
+    },
+    {
+      "query": "billabong ski jacket",
+      "relevance": 0.5
+    },
+    {
+      "query": "ski coats",
+      "relevance": 0.8
+    },
+    {
+      "query": "ski pants",
+      "relevance": 0.8
+    },
+    {
+      "query": "longjohns",
+      "relevance": 0.6
+    },
+    {
+      "query": "marmot jacket",
+      "relevance": 0.8
+    },
+    {
+      "query": "mens camo jacket",
+      "relevance": 0.4
+    },
+    {
+      "query": "the north face gilet",
+      "relevance": 0.9
+    },
+    {
+      "query": "womens base layer",
+      "relevance": 0.6
+    },
+    {
+      "query": "ski clothing uk",
+      "relevance": 0.8
+    },
+    {
+      "query": "north face down jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "north face triclimate",
+      "relevance": 0.9
+    },
+    {
+      "query": "ski suit mens",
+      "relevance": 0.8
+    },
+    {
+      "query": "nuptse 2 jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "the north face coats mens",
+      "relevance": 0.9
+    },
+    {
+      "query": "ski jacket ladies",
+      "relevance": 0.8
+    },
+    {
+      "query": "north face t shirts",
+      "relevance": 0.4
+    },
+    {
+      "query": "thermoball jacket",
+      "relevance": 0.9
+    },
+    {
+      "query": "snowboarding gloves",
+      "relevance": 0.7
+    },
+    {
+      "query": "the north face jacket womens",
+      "relevance": 0.9
+    },
+    {
+      "query": "vintage ski jacket",
+      "

@@ -1,0 +1,368 @@
+{
+    "query_audits": [
+        {
+            "query": "ferry portsmouth to cherbourg",
+            "relevance": 0.8
+        },
+        {
+            "query": "ferry from france to uk",
+            "relevance": 0.8
+        },
+        {
+            "query": "larne to cairnryan",
+            "relevance": 0.7
+        },
+        {
+            "query": "bilbao ferry",
+            "relevance": 0.5
+        },
+        {
+            "query": "p&o cruises",
+            "relevance": 0.9
+        },
+        {
+            "query": "ferry to iom",
+            "relevance": 0.4
+        },
+        {
+            "query": "fishguard rosslare",
+            "relevance": 0.7
+        },
+        {
+            "query": "book a ferry",
+            "relevance": 0.9
+        },
+        {
+            "query": "ferries from liverpool",
+            "relevance": 0.7
+        },
+        {
+            "query": "amsterdam ferry deals",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry to normandy",
+            "relevance": 0.8
+        },
+        {
+            "query": "portsmouth to st malo ferry",
+            "relevance": 0.8
+        },
+        {
+            "query": "liverpool dublin ferry",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry to ireland from holyhead",
+            "relevance": 0.7
+        },
+        {
+            "query": "holyhead to dun laoghaire",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry to amsterdam from london",
+            "relevance": 0.6
+        },
+        {
+            "query": "cheap ferry to dunkirk",
+            "relevance": 0.8
+        },
+        {
+            "query": "stranraer to larne ferry",
+            "relevance": 0.7
+        },
+        {
+            "query": "dfds promo code",
+            "relevance": 0.6
+        },
+        {
+            "query": "isle of man ferry prices",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry crossing",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry from newhaven to dieppe",
+            "relevance": 0.8
+        },
+        {
+            "query": "poole to cherbourg ferry",
+            "relevance": 0.8
+        },
+        {
+            "query": "myferrylink",
+            "relevance": 0.6
+        },
+        {
+            "query": "portsmouth to cherbourg ferry",
+            "relevance": 0.8
+        },
+        {
+            "query": "larne cairnryan",
+            "relevance": 0.7
+        },
+        {
+            "query": "boat to amsterdam",
+            "relevance": 0.6
+        },
+        {
+            "query": "london to amsterdam ferry",
+            "relevance": 0.6
+        },
+        {
+            "query": "dover ferry crossing",
+            "relevance": 0.8
+        },
+        {
+            "query": "ferry harwich to hook of holland",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry newhaven dieppe",
+            "relevance": 0.8
+        },
+        {
+            "query": "dfds code",
+            "relevance": 0.6
+        },
+        {
+            "query": "boat from belfast to liverpool",
+            "relevance": 0.7
+        },
+        {
+            "query": "fishguard to rosslare ferry",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry fishguard to rosslare",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry uk to amsterdam",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferries to the isle of wight",
+            "relevance": 0.7
+        },
+        {
+            "query": "dover dunkirk ferry",
+            "relevance": 0.8
+        },
+        {
+            "query": "dover to calais ferry",
+            "relevance": 0.8
+        },
+        {
+            "query": "dover to calais distance",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferries to france from uk",
+            "relevance": 0.8
+        },
+        {
+            "query": "uk to amsterdam ferry",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry portsmouth caen",
+            "relevance": 0.8
+        },
+        {
+            "query": "ferry from uk to holland",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry to ireland from liverpool",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry to ireland from scotland",
+            "relevance": 0.7
+        },
+        {
+            "query": "car ferry dover to calais",
+            "relevance": 0.8
+        },
+        {
+            "query": "hull to zeebrugge ferry",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry to belfast",
+            "relevance": 0.7
+        },
+        {
+            "query": "newcastle amsterdam",
+            "relevance": 0.6
+        },
+        {
+            "query": "newcastle to amsterdam",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferries from holyhead",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry liverpool to belfast",
+            "relevance": 0.7
+        },
+        {
+            "query": "overnight ferry to france",
+            "relevance": 0.8
+        },
+        {
+            "query": "dublin to holyhead",
+            "relevance": 0.7
+        },
+        {
+            "query": "newcastle to bergen ferry",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry to hook of holland",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry to dublin from scotland",
+            "relevance": 0.7
+        },
+        {
+            "query": "p&o ferry offers",
+            "relevance": 0.9
+        },
+        {
+            "query": "promy z anglii",
+            "relevance": 0.4
+        },
+        {
+            "query": "jersey to guernsey",
+            "relevance": 0.5
+        },
+        {
+            "query": "dover dunkierka",
+            "relevance": 0.8
+        },
+        {
+            "query": "po cruises",
+            "relevance": 0.9
+        },
+        {
+            "query": "ferry to denmark from hull",
+            "relevance": 0.6
+        },
+        {
+            "query": "uk to spain ferry",
+            "relevance": 0.5
+        },
+        {
+            "query": "ferry from portsmouth to bilbao",
+            "relevance": 0.5
+        },
+        {
+            "query": "southampton to france",
+            "relevance": 0.6
+        },
+        {
+            "query": "newcastle amsterdam ferry",
+            "relevance": 0.6
+        },
+        {
+            "query": "dover ferry to calais",
+            "relevance": 0.8
+        },
+        {
+            "query": "harwich hook of holland",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry to guernsey from poole",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry prices to isle of wight",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry to northern ireland",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry uk to ireland",
+            "relevance": 0.7
+        },
+        {
+            "query": "fähre dover calais",
+            "relevance": 0.8
+        },
+        {
+            "query": "ferry belfast to scotland",
+            "relevance": 0.7
+        },
+        {
+            "query": "england to ireland ferry",
+            "relevance": 0.7
+        },
+        {
+            "query": "ferry to netherlands",
+            "relevance": 0.6
+        },
+        {
+            "query": "portsmouth caen",
+            "relevance": 0.8
+        },
+        {
+            "query": "ferry to england",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry cairnryan to belfast",
+            "relevance": 0.7
+        },
+        {
+            "query": "traghetti sardegna",
+            "relevance": 0.4
+        },
+        {
+            "query": "uk to norway ferry",
+            "relevance": 0.5
+        },
+        {
+            "query": "dover calais ferry prices",
+            "relevance": 0.8
+        },
+        {
+            "query": "cheap ferry to dublin",
+            "relevance": 0.8
+        },
+        {
+            "query": "dover to france ferry",
+            "relevance": 0.8
+        },
+        {
+            "query": "portsmouth cherbourg",
+            "relevance": 0.8
+        },
+        {
+            "query": "harwich to holland",
+            "relevance": 0.6
+        },
+        {
+            "query": "ferry crossing to calais",
+            "relevance": 0.8
+        },
+        {
+            "query": "ferry to liverpool",
+            "relevance": 0.7
+        },
+        {
+            "query": "cheap crossing to france",
+            "relevance": 0.8
+        },
+        {
+            "query": "p & o ferries hull
