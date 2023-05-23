@@ -91,7 +91,7 @@ class MetadataGenerator:
             self.logger.info(f"Total categories to go: {len(unprocessed_categories) - processed_categories}")
             processed_categories += 1
             self.logger.info(f"PROCESSING CATEGORY: {category_id}")
-            data_loader = DataLoader(category_id=category_id, num_samples=100)
+            data_loader = DataLoader(category_id=category_id, num_samples=10)
             query_set: QuerySet = data_loader.get_category_queries()
             category_taxonomy: CategoryMetadata = self.metadata_cacher.get_metadata(category_id=category_id)
             category_taxonomy_compact: str = f"{category_taxonomy.dict()}"

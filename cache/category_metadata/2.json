@@ -1,1 +1,121 @@
-{"label": "Vintage Jewelry", "description": "Antique and vintage jewelry from various eras and styles.", "intents": ["Find unique jewelry pieces", "Buy vintage jewelry", "Learn about antique jewelry"], "subcategories": [{"label": "Art Deco Jewelry", "relevance": 0.8, "description": "Jewelry from the Art Deco era (1920s-1930s) characterized by geometric shapes and bold colors.", "nouns": ["Art Deco", "1920s", "1930s", "Geometric shapes", "Bold colors", "Marcasite", "Cufflinks", "Earrings", "Necklaces", "Rings"], "subtopics": ["Marcasite jewelry", "Art Deco cufflinks", "Art Deco earrings"]}, {"label": "Victorian Jewelry", "relevance": 0.7, "description": "Jewelry from the Victorian era (1837-1901) characterized by romantic and sentimental designs.", "nouns": ["Victorian", "1837-1901", "Romantic", "Sentimental", "Pearls", "Engagement rings", "Brooches", "Pendants", "Lockets", "Jet"], "subtopics": ["Victorian pearl necklace", "Victorian engagement rings", "Victorian mourning ring"]}, {"label": "Art Nouveau Jewelry", "relevance": 0.6, "description": "Jewelry from the Art Nouveau era (1890s-1910s) characterized by flowing lines and nature-inspired designs.", "nouns": ["Art Nouveau", "1890s-1910s", "Flowing lines", "Nature-inspired", "Rene Lalique", "Brooches", "Pendants", "Earrings", "Rings", "Cat"], "subtopics": ["Rene Lalique jewelry", "Art Nouveau brooch", "Art Nouveau engagement rings"]}, {"label": "Vintage Silver Jewelry", "relevance": 0.5, "description": "Vintage jewelry made of silver.", "nouns": ["Vintage", "Silver", "Rings", "Earrings", "Brooches", "Necklaces", "Bracelets", "Pendants", "Lockets", "Charms"], "subtopics": ["Vintage silver rings", "Vintage silver earrings", "Vintage silver brooch"]}, {"label": "Antique Gold Jewelry", "relevance": 0.4, "description": "Antique jewelry made of gold.", "nouns": ["Antique", "Gold", "Rings", "Necklaces", "Bracelets", "Charms", "Brooches", "Pendants", "Lockets", "Lamp"], "subtopics": ["Antique gold cufflinks", "Antique gold necklace", "Antique gold lamp"]}]}
+{
+    "label": "Vintage Jewelry",
+    "description": "Antique and vintage jewelry from various eras and styles.",
+    "intents": [
+        "Find unique jewelry pieces",
+        "Buy vintage jewelry",
+        "Learn about antique jewelry"
+    ],
+    "subcategories": [
+        {
+            "label": "Art Deco Jewelry",
+            "relevance": 0.8,
+            "description": "Jewelry from the Art Deco era (1920s-1930s) characterized by geometric shapes and bold colors.",
+            "nouns": [
+                "Art Deco",
+                "1920s",
+                "1930s",
+                "Geometric shapes",
+                "Bold colors",
+                "Marcasite",
+                "Cufflinks",
+                "Earrings",
+                "Necklaces",
+                "Rings"
+            ],
+            "subtopics": [
+                "Marcasite jewelry",
+                "Art Deco cufflinks",
+                "Art Deco earrings"
+            ]
+        },
+        {
+            "label": "Victorian Jewelry",
+            "relevance": 0.7,
+            "description": "Jewelry from the Victorian era (1837-1901) characterized by romantic and sentimental designs.",
+            "nouns": [
+                "Victorian",
+                "1837-1901",
+                "Romantic",
+                "Sentimental",
+                "Pearls",
+                "Engagement rings",
+                "Brooches",
+                "Pendants",
+                "Lockets",
+                "Jet"
+            ],
+            "subtopics": [
+                "Victorian pearl necklace",
+                "Victorian engagement rings",
+                "Victorian mourning ring"
+            ]
+        },
+        {
+            "label": "Art Nouveau Jewelry",
+            "relevance": 0.6,
+            "description": "Jewelry from the Art Nouveau era (1890s-1910s) characterized by flowing lines and nature-inspired designs.",
+            "nouns": [
+                "Art Nouveau",
+                "1890s-1910s",
+                "Flowing lines",
+                "Nature-inspired",
+                "Rene Lalique",
+                "Brooches",
+                "Pendants",
+                "Earrings",
+                "Rings",
+                "Cat"
+            ],
+            "subtopics": [
+                "Rene Lalique jewelry",
+                "Art Nouveau brooch",
+                "Art Nouveau engagement rings"
+            ]
+        },
+        {
+            "label": "Vintage Silver Jewelry",
+            "relevance": 0.5,
+            "description": "Vintage jewelry made of silver.",
+            "nouns": [
+                "Vintage",
+                "Silver",
+                "Rings",
+                "Earrings",
+                "Brooches",
+                "Necklaces",
+                "Bracelets",
+                "Pendants",
+                "Lockets",
+                "Charms"
+            ],
+            "subtopics": [
+                "Vintage silver rings",
+                "Vintage silver earrings",
+                "Vintage silver brooch"
+            ]
+        },
+        {
+            "label": "Antique Gold Jewelry",
+            "relevance": 0.4,
+            "description": "Antique jewelry made of gold.",
+            "nouns": [
+                "Antique",
+                "Gold",
+                "Rings",
+                "Necklaces",
+                "Bracelets",
+                "Charms",
+                "Brooches",
+                "Pendants",
+                "Lockets",
+                "Lamp"
+            ],
+            "subtopics": [
+                "Antique gold cufflinks",
+                "Antique gold necklace",
+                "Antique gold lamp"
+            ]
+        }
+    ]
+}

@@ -1,1 +1,81 @@
-{"label": "Prepaid Travel Money Cards", "description": "Cards that allow users to load money onto them before traveling abroad, avoiding foreign transaction fees and providing a safer way to carry money.", "intents": ["Avoid foreign transaction fees", "Safer way to carry money while traveling", "Convenient way to manage travel budget"], "subcategories": [{"label": "Cards for Under 18s", "relevance": 0.8, "description": "Prepaid travel money cards designed for minors under the age of 18.", "nouns": ["Teenagers", "Minors"], "subtopics": ["Parental control", "Low fees", "Easy to use"]}, {"label": "No-Fee Cards", "relevance": 0.7, "description": "Prepaid travel money cards that do not charge foreign transaction fees.", "nouns": ["No fees", "Low fees"], "subtopics": ["Exchange rates", "ATM fees", "Card activation fees"]}, {"label": "Visa Cards", "relevance": 0.6, "description": "Prepaid travel money cards that are issued by Visa.", "nouns": ["Visa", "Credit cards"], "subtopics": ["Accepted worldwide", "Rewards programs", "Customer service"]}, {"label": "Multi-Currency Cards", "relevance": 0.5, "description": "Prepaid travel money cards that allow users to load multiple currencies onto them.", "nouns": ["Multiple currencies", "Exchange rates"], "subtopics": ["Conversion fees", "Exchange rate fluctuations", "Currency conversion tools"]}, {"label": "Contactless Cards", "relevance": 0.4, "description": "Prepaid travel money cards that allow users to make contactless payments.", "nouns": ["Contactless payments", "NFC technology"], "subtopics": ["Security", "Transaction limits", "Compatibility"]}]}
+{
+    "label": "Prepaid Travel Money Cards",
+    "description": "Cards that allow users to load money onto them before traveling abroad, avoiding foreign transaction fees and providing a safer way to carry money.",
+    "intents": [
+        "Avoid foreign transaction fees",
+        "Safer way to carry money while traveling",
+        "Convenient way to manage travel budget"
+    ],
+    "subcategories": [
+        {
+            "label": "Cards for Under 18s",
+            "relevance": 0.8,
+            "description": "Prepaid travel money cards designed for minors under the age of 18.",
+            "nouns": [
+                "Teenagers",
+                "Minors"
+            ],
+            "subtopics": [
+                "Parental control",
+                "Low fees",
+                "Easy to use"
+            ]
+        },
+        {
+            "label": "No-Fee Cards",
+            "relevance": 0.7,
+            "description": "Prepaid travel money cards that do not charge foreign transaction fees.",
+            "nouns": [
+                "No fees",
+                "Low fees"
+            ],
+            "subtopics": [
+                "Exchange rates",
+                "ATM fees",
+                "Card activation fees"
+            ]
+        },
+        {
+            "label": "Visa Cards",
+            "relevance": 0.6,
+            "description": "Prepaid travel money cards that are issued by Visa.",
+            "nouns": [
+                "Visa",
+                "Credit cards"
+            ],
+            "subtopics": [
+                "Accepted worldwide",
+                "Rewards programs",
+                "Customer service"
+            ]
+        },
+        {
+            "label": "Multi-Currency Cards",
+            "relevance": 0.5,
+            "description": "Prepaid travel money cards that allow users to load multiple currencies onto them.",
+            "nouns": [
+                "Multiple currencies",
+                "Exchange rates"
+            ],
+            "subtopics": [
+                "Conversion fees",
+                "Exchange rate fluctuations",
+                "Currency conversion tools"
+            ]
+        },
+        {
+            "label": "Contactless Cards",
+            "relevance": 0.4,
+            "description": "Prepaid travel money cards that allow users to make contactless payments.",
+            "nouns": [
+                "Contactless payments",
+                "NFC technology"
+            ],
+            "subtopics": [
+                "Security",
+                "Transaction limits",
+                "Compatibility"
+            ]
+        }
+    ]
+}

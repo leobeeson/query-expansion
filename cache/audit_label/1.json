@@ -1,1 +1,44 @@
-{"query_audits": [{"query": "flower delivery liverpool", "relevance": 0.8}, {"query": "sunflower delivery", "relevance": 0.7}, {"query": "interflora italia", "relevance": 0.5}, {"query": "australian flowers", "relevance": 0.0}, {"query": "purple flowers", "relevance": 0.0}, {"query": "flower shop near me", "relevance": 0.8}, {"query": "flowers through the post", "relevance": 0.7}, {"query": "prestige flowers code", "relevance": 0.7}, {"query": "moonpig flowers reviews", "relevance": 0.0}, {"query": "rainbow flowers", "relevance": 0.0}, {"query": "sympathy flowers uk", "relevance": 0.6}, {"query": "sainsburys flowers", "relevance": 0.0}, {"query": "single red rose", "relevance": 0.0}, {"query": "easy flowers", "relevance": 0.7}, {"query": "orange flowers", "relevance": 0.0}, {"query": "best online flowers uk", "relevance": 0.7}, {"query": "flowers liverpool", "relevance": 0.8}, {"query": "marks and spencer flowers in store", "relevance": 0.0}, {"query": "interflora spain", "relevance": 0.5}, {"query": "florists liverpool", "relevance": 0.8}, {"query": "best flowers online", "relevance": 0.7}, {"query": "funeral flowers", "relevance": 0.6}, {"query": "spring flowers uk", "relevance": 0.0}, {"query": "london florist", "relevance": 0.0}, {"query": "flower delivery manchester", "relevance": 0.8}, {"query": "adana \u00e7i\u00e7ek", "relevance": 0.0}, {"query": "isles of scilly flowers", "relevance": 0.0}, {"query": "flower shop manchester", "relevance": 0.8}, {"query": "florist manchester", "relevance": 0.8}, {"query": "florist london", "relevance": 0.0}, {"query": "vera wang flowers", "relevance": 0.0}, {"query": "blue rose", "relevance": 0.0}, {"query": "florists leeds", "relevance": 0.0}, {"query": "sendabunch", "relevance": 0.0}, {"query": "peony flower", "relevance": 0.0}, {"query": "florist bolton", "relevance": 0.0}, {"query": "coop flowers", "relevance": 0.0}, {"query": "local flower delivery", "relevance": 0.8}, {"query": "winter flowers", "relevance": 0.0}, {"query": "jersey flowers", "relevance": 0.0}, {"query": "flower garland", "relevance": 0.0}, {"query": "florists in coventry", "relevance": 0.0}, {"query": "m s flowers", "relevance": 0.0}, {"query": "maison des fleurs uk", "relevance": 0.0}, {"query": "asda flowers", "relevance": 0.0}, {"query": "dried flowers", "relevance": 0.0}, {"query": "flowers waitrose", "relevance": 0.0}, {"query": "100 roses", "relevance": 0.0}, {"query": "cardiff florists", "relevance": 0.0}, {"query": "cambridge florist", "relevance": 0.0}, {"query": "flower company", "relevance": 0.0}, {"query": "flower delivery southampton", "relevance": 0.8}, {"query": "scilly flowers", "relevance": 0.0}, {"query": "flowers and wine delivery", "relevance": 0.0}, {"query": "birthday roses", "relevance": 0.0}, {"query": "kwiaciarnia online", "relevance": 0.0}, {"query": "uk flowers", "relevance": 0.7}, {"query": "vir\u00e1gk\u00fcld\u00e9s", "relevance": 0.0}, {"query": "flowers discount code", "relevance": 0.7}, {"query": "prestige flowers", "relevance": 0.7}, {"query": "homebase flowers", "relevance": 0.0}, {"query": "cheap flowers", "relevance": 0.7}, {"query": "oxford florist", "relevance": 0.0}, {"query": "silk flowers", "relevance": 0.0}, {"query": "poczta kwiatowa pl", "relevance": 0.0}, {"query": "forget me not flowers", "relevance": 0.0}, {"query": "www flowercard co uk", "relevance": 0.0}, {"query": "manchester florist", "relevance": 0.8}, {"query": "multi coloured roses", "relevance": 0.0}, {"query": "flowersdirect", "relevance": 0.0}, {"query": "flowers bristol", "relevance": 0.0}, {"query": "m&s roses", "relevance": 0.0}, {"query": "send a gift", "relevance": 0.0}, {"query": "letterbox flowers", "relevance": 0.7}, {"query": "send flowers today", "relevance": 0.7}, {"query": "eflorist", "relevance": 0.7}, {"query": "fresh flowers", "relevance": 0.7}, {"query": "flower delivery leicester", "relevance": 0.8}, {"query": "1800flowers", "relevance": 0.0}, {"query": "online flowers", "relevance": 0.7}, {"query": "flower delivery leeds", "relevance": 0.8}, {"query": "flower bouquet delivery", "relevance": 0.7}, {"query": "daisy flower", "relevance": 0.0}, {"query": "foam flowers", "relevance": 0.0}, {"query": "red flowers", "relevance": 0.0}, {"query": "dundee florist", "relevance": 0.0}, {"query": "waitrose flowers promo code", "relevance": 0.0}, {"query": "eflowers", "relevance": 0.0}, {"query": "funeral flowers uk", "relevance": 0.6}, {"query": "send flowers internationally", "relevance": 0.5}, {"query": "tesco flowers by post", "relevance": 0.0}, {"query": "the bloom room flowers", "relevance": 0.0}, {"query": "orchid delivery", "relevance": 0.0}, {"query": "next day flowers", "relevance": 0.7}, {"query": "e florist", "relevance": 0.7}, {"query": "florist sheffield", "relevance": 0.0}, {"query": "flower delivery birmingham", "relevance": 0.8}, {"query": "order flowers online", "relevance": 0.7}, {"query": "orchid flower", "relevance": 0.0}, {"query": "cheap funeral flowers", "relevance": 0.6}]}
+{
+    "query_audits": [
+        {
+            "query": "flower delivery liverpool",
+            "relevance": 0.8
+        },
+        {
+            "query": "sunflower delivery",
+            "relevance": 0.6
+        },
+        {
+            "query": "interflora italia",
+            "relevance": 0.7
+        },
+        {
+            "query": "australian flowers",
+            "relevance": 0.5
+        },
+        {
+            "query": "purple flowers",
+            "relevance": 0.6
+        },
+        {
+            "query": "flower shop near me",
+            "relevance": 0.8
+        },
+        {
+            "query": "flowers through the post",
+            "relevance": 0.7
+        },
+        {
+            "query": "prestige flowers code",
+            "relevance": 0.6
+        },
+        {
+            "query": "moonpig flowers reviews",
+            "relevance": 0.6
+        },
+        {
+            "query": "rainbow flowers",
+            "relevance": 0.6
+        }
+    ]
+}

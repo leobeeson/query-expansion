@@ -1,1 +1,44 @@
-{"query_audits": []}
+{
+    "query_audits": [
+        {
+            "query": "eastern caribbean cruise",
+            "relevance": 0.7
+        },
+        {
+            "query": "last minit",
+            "relevance": 0
+        },
+        {
+            "query": "new york last minute deals",
+            "relevance": 0.6
+        },
+        {
+            "query": "last minute flüge",
+            "relevance": 0.8
+        },
+        {
+            "query": "last minute paris holiday",
+            "relevance": 0.6
+        },
+        {
+            "query": "äkkilähdöt",
+            "relevance": 0
+        },
+        {
+            "query": "best last minute hotel deals",
+            "relevance": 0.8
+        },
+        {
+            "query": "gran canaria last minute",
+            "relevance": 0.6
+        },
+        {
+            "query": "last minute chalet deals uk",
+            "relevance": 0.6
+        },
+        {
+            "query": "late deal family holidays",
+            "relevance": 0.6
+        }
+    ]
+}

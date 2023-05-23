@@ -1,0 +1,44 @@
+{
+    "query_audits": [
+        {
+            "query": "antique gold cufflinks",
+            "relevance": 0.4
+        },
+        {
+            "query": "victorian pendant",
+            "relevance": 0.7
+        },
+        {
+            "query": "vintage silver rings",
+            "relevance": 0.5
+        },
+        {
+            "query": "art deco style bracelet",
+            "relevance": 0.8
+        },
+        {
+            "query": "lalique jewelry for sale",
+            "relevance": 0.6
+        },
+        {
+            "query": "1920s costume jewellery uk",
+            "relevance": 0.8
+        },
+        {
+            "query": "art nouveau brooch",
+            "relevance": 0.6
+        },
+        {
+            "query": "vintage art deco earrings",
+            "relevance": 0.8
+        },
+        {
+            "query": "egyptian pendants",
+            "relevance": 0
+        },
+        {
+            "query": "pacapod napier moonstone",
+            "relevance": 0
+        }
+    ]
+}

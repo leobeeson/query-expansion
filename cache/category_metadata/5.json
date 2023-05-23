@@ -1,1 +1,96 @@
-{"label": "Personal Injury Claims", "description": "Legal services for individuals seeking compensation for injuries sustained in accidents or due to medical negligence.", "intents": ["Get compensation for injuries sustained in an accident", "Get compensation for medical negligence", "Understand legal options for personal injury claims"], "subcategories": [{"label": "Road Traffic Accidents", "relevance": 0.8, "description": "Legal services for individuals seeking compensation for injuries sustained in road traffic accidents.", "nouns": ["Car accident", "Whiplash", "Motorcycle accident", "Hit and run", "Non-fault accident"], "subtopics": ["Car accident compensation", "Whiplash claims", "Motorcycle accident claims"]}, {"label": "Workplace Accidents", "relevance": 0.7, "description": "Legal services for individuals seeking compensation for injuries sustained in workplace accidents.", "nouns": ["Injury at work", "Industrial injury", "Back injury", "Forklift truck accidents", "Construction accidents"], "subtopics": ["Back injury at work", "Accident at work law", "Injury at work rights"]}, {"label": "Medical Negligence", "relevance": 0.6, "description": "Legal services for individuals seeking compensation for injuries sustained due to medical negligence.", "nouns": ["Medical negligence", "Clinical negligence", "Dental negligence", "Misdiagnosis", "Birth injury claims"], "subtopics": ["Medical negligence claim calculator", "PALS NHS complaints", "NHS medical negligence"]}, {"label": "Slips, Trips, and Falls", "relevance": 0.5, "description": "Legal services for individuals seeking compensation for injuries sustained due to slips, trips, and falls.", "nouns": ["Slip trips and falls", "Pothole claim", "Shoulder injury compensation", "Dog bite claims", "Accidents in the workplace"], "subtopics": ["Pothole damage claim", "Dog bite compensation", "Reporting accidents at work"]}, {"label": "Criminal Injuries", "relevance": 0.4, "description": "Legal services for individuals seeking compensation for injuries sustained due to criminal acts.", "nouns": ["Criminal injuries calculator", "Assault compensation", "Victim support compensation", "Criminal compensation amounts", "Hearing claims"], "subtopics": ["Criminal compensation", "Criminal injury claims", "Criminal compensation board"]}]}
+{
+    "label": "Personal Injury Claims",
+    "description": "Legal services for individuals seeking compensation for injuries sustained in accidents or due to medical negligence.",
+    "intents": [
+        "Get compensation for injuries sustained in an accident",
+        "Get compensation for medical negligence",
+        "Understand legal options for personal injury claims"
+    ],
+    "subcategories": [
+        {
+            "label": "Road Traffic Accidents",
+            "relevance": 0.8,
+            "description": "Legal services for individuals seeking compensation for injuries sustained in road traffic accidents.",
+            "nouns": [
+                "Car accident",
+                "Whiplash",
+                "Motorcycle accident",
+                "Hit and run",
+                "Non-fault accident"
+            ],
+            "subtopics": [
+                "Car accident compensation",
+                "Whiplash claims",
+                "Motorcycle accident claims"
+            ]
+        },
+        {
+            "label": "Workplace Accidents",
+            "relevance": 0.7,
+            "description": "Legal services for individuals seeking compensation for injuries sustained in workplace accidents.",
+            "nouns": [
+                "Injury at work",
+                "Industrial injury",
+                "Back injury",
+                "Forklift truck accidents",
+                "Construction accidents"
+            ],
+            "subtopics": [
+                "Back injury at work",
+                "Accident at work law",
+                "Injury at work rights"
+            ]
+        },
+        {
+            "label": "Medical Negligence",
+            "relevance": 0.6,
+            "description": "Legal services for individuals seeking compensation for injuries sustained due to medical negligence.",
+            "nouns": [
+                "Medical negligence",
+                "Clinical negligence",
+                "Dental negligence",
+                "Misdiagnosis",
+                "Birth injury claims"
+            ],
+            "subtopics": [
+                "Medical negligence claim calculator",
+                "PALS NHS complaints",
+                "NHS medical negligence"
+            ]
+        },
+        {
+            "label": "Slips, Trips, and Falls",
+            "relevance": 0.5,
+            "description": "Legal services for individuals seeking compensation for injuries sustained due to slips, trips, and falls.",
+            "nouns": [
+                "Slip trips and falls",
+                "Pothole claim",
+                "Shoulder injury compensation",
+                "Dog bite claims",
+                "Accidents in the workplace"
+            ],
+            "subtopics": [
+                "Pothole damage claim",
+                "Dog bite compensation",
+                "Reporting accidents at work"
+            ]
+        },
+        {
+            "label": "Criminal Injuries",
+            "relevance": 0.4,
+            "description": "Legal services for individuals seeking compensation for injuries sustained due to criminal acts.",
+            "nouns": [
+                "Criminal injuries calculator",
+                "Assault compensation",
+                "Victim support compensation",
+                "Criminal compensation amounts",
+                "Hearing claims"
+            ],
+            "subtopics": [
+                "Criminal compensation",
+                "Criminal injury claims",
+                "Criminal compensation board"
+            ]
+        }
+    ]
+}

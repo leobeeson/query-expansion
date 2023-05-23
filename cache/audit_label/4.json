@@ -1,1 +1,44 @@
-{"query_audits": []}
+{
+    "query_audits": [
+        {
+            "query": "visa travel money card",
+            "relevance": 0.6
+        },
+        {
+            "query": "travel money cards for under 18",
+            "relevance": 0.8
+        },
+        {
+            "query": "debit card for teens",
+            "relevance": 0.8
+        },
+        {
+            "query": "prepaid cards no fees",
+            "relevance": 0.7
+        },
+        {
+            "query": "visa prepaid travel card",
+            "relevance": 0.6
+        },
+        {
+            "query": "travel money prepaid card",
+            "relevance": 1
+        },
+        {
+            "query": "cash card abroad",
+            "relevance": 0.4
+        },
+        {
+            "query": "prepaid travel card reviews",
+            "relevance": 1
+        },
+        {
+            "query": "gta online money cards",
+            "relevance": 0
+        },
+        {
+            "query": "credit cards that don t charge abroad",
+            "relevance": 0.7
+        }
+    ]
+}

@@ -1,1 +1,89 @@
-{"label": "Domain Names and Web Hosting", "description": "Market category for search queries related to domain names and web hosting services.", "intents": ["Register a domain name", "Find available domain names", "Renew a domain name", "Check domain name ownership", "Buy web hosting services"], "subcategories": [{"label": "Domain Name Registration", "relevance": 0.9, "description": "Services for registering and managing domain names.", "nouns": ["Domain names", "Registration", "Renewal", "Ownership", "Availability"], "subtopics": ["Top-level domains", "Country code domains", "Domain privacy", "Domain auctions", "Expired domains"]}, {"label": "Web Hosting Services", "relevance": 0.8, "description": "Services for hosting websites and web applications.", "nouns": ["Web hosting", "Servers", "Websites", "Email hosting", "Cloud hosting"], "subtopics": ["Shared hosting", "VPS hosting", "Dedicated hosting", "WordPress hosting", "E-commerce hosting"]}, {"label": "Domain Name Sales", "relevance": 0.7, "description": "Marketplace for buying and selling domain names.", "nouns": ["Domain names", "Sales", "Marketplace", "Appraisal", "Value"], "subtopics": ["Premium domains", "Expired domains", "New gTLDs", "Domain name generators", "Domain name auctions"]}, {"label": "Currency Exchange", "relevance": 0.3, "description": "Services for buying and selling foreign currency.", "nouns": ["Currency", "Exchange", "Buy", "Sell", "Online"], "subtopics": ["US dollars", "Euros", "Japanese yen", "Swiss francs", "Australian dollars"]}]}
+{
+    "label": "Domain Names and Web Hosting",
+    "description": "Market category for search queries related to domain names and web hosting services.",
+    "intents": [
+        "Register a domain name",
+        "Find available domain names",
+        "Renew a domain name",
+        "Check domain name ownership",
+        "Buy web hosting services"
+    ],
+    "subcategories": [
+        {
+            "label": "Domain Name Registration",
+            "relevance": 0.9,
+            "description": "Services for registering and managing domain names.",
+            "nouns": [
+                "Domain names",
+                "Registration",
+                "Renewal",
+                "Ownership",
+                "Availability"
+            ],
+            "subtopics": [
+                "Top-level domains",
+                "Country code domains",
+                "Domain privacy",
+                "Domain auctions",
+                "Expired domains"
+            ]
+        },
+        {
+            "label": "Web Hosting Services",
+            "relevance": 0.8,
+            "description": "Services for hosting websites and web applications.",
+            "nouns": [
+                "Web hosting",
+                "Servers",
+                "Websites",
+                "Email hosting",
+                "Cloud hosting"
+            ],
+            "subtopics": [
+                "Shared hosting",
+                "VPS hosting",
+                "Dedicated hosting",
+                "WordPress hosting",
+                "E-commerce hosting"
+            ]
+        },
+        {
+            "label": "Domain Name Sales",
+            "relevance": 0.7,
+            "description": "Marketplace for buying and selling domain names.",
+            "nouns": [
+                "Domain names",
+                "Sales",
+                "Marketplace",
+                "Appraisal",
+                "Value"
+            ],
+            "subtopics": [
+                "Premium domains",
+                "Expired domains",
+                "New gTLDs",
+                "Domain name generators",
+                "Domain name auctions"
+            ]
+        },
+        {
+            "label": "Currency Exchange",
+            "relevance": 0.3,
+            "description": "Services for buying and selling foreign currency.",
+            "nouns": [
+                "Currency",
+                "Exchange",
+                "Buy",
+                "Sell",
+                "Online"
+            ],
+            "subtopics": [
+                "US dollars",
+                "Euros",
+                "Japanese yen",
+                "Swiss francs",
+                "Australian dollars"
+            ]
+        }
+    ]
+}
